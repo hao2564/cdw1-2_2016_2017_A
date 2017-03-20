@@ -1,0 +1,66 @@
+.type-256 .green-bg {
+  background: #24b6ac;
+}
+.type-256 .category-caption {
+  padding-bottom: 60px;
+}
+.type-256 .line-divider {
+  display: block;
+  border-top: 1px solid #e5e5e5;
+  width: 100%;
+  margin: 20px 0;
+}
+.type-256 .line-mask {
+  height: 5px;
+  width: 50px;
+  display: block;
+  margin-top: -3px;
+}
+.type-256 .category-caption h2 {
+  font-weight: 700;
+  font-size: 24px;
+}
+.type-256 .contact-caption h2 i {
+  padding-right: 10px;
+}
+.type-256 .green {
+  color: #24b6ac;
+}
+.type-256 .contact-caption h2 {
+  padding-bottom: 30px;
+  font-weight: 700;
+}
+.type-256 .btn-custom:hover {
+  background-color: #24b6ac;
+}
+.type-256 .btn.btn-custom {
+  background-color: #24b6ac;
+  color: #ffffff;
+}
+.type-256 .btn-custom:hover {
+  background-color: #24caac;
+  color: #fff;
+  outline: none;
+  box-shadow: none;
+  border: none;
+}
+@media (min-width: 992px) {
+  .type-256 .intro {
+    padding: 0;
+  }
+}
+@media (max-width: 991px) {
+  .type-256 .footer-info {
+    padding-left: 10px;
+  }
+}
+@media (min-width: 768px) {
+  .type-256 .intro {
+    width: 960px;
+  }
+}
+@media (max-width: 480px) {
+  .type-256 .intro {
+    padding: 0;
+  }
+}
