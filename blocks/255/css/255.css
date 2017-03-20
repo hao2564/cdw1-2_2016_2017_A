@@ -1,0 +1,92 @@
+.type-255 .green-bg {
+  background: #24b6ac;
+}
+.type-255 .category-caption {
+  padding-bottom: 60px;
+}
+.type-255 div {
+  display: block;
+}
+.type-255 .line-divider {
+  display: block;
+  border-top: 1px solid #e5e5e5;
+  width: 100%;
+  margin: 20px 0;
+}
+.type-255 .line-mask {
+  height: 5px;
+  width: 50px;
+  display: block;
+  margin-top: -3px;
+}
+.type-255 .special-item-inner {
+  border: 1px solid #e5e5e5;
+  background-color: #fff;
+  display: table;
+  min-height: 150px;
+  width: 100%;
+  text-align: center;
+  padding: 30px 20px;
+}
+.type-255 .shop-filter,
+.type-255 .to-top a {
+  background: #24b6ac;
+}
+.type-255 .shop-filter {
+  padding: 20px 0 10px 0;
+  background: #24b6ac;
+}
+.type-255 .shop-filter ul li a,
+.type-255 .shop-filter ul li a:hover {
+  color: #ffffff;
+  text-decoration: none;
+  font-size: 18px;
+}
+.type-255 .single-letter h3 {
+  text-align: left;
+  font-size: 18px;
+  margin-top: 0;
+  font-family: 'Lato', sans-serif;
+}
+.type-255 .body-wrapper {
+  padding: 90px 0;
+}
+.type-255 .to-top {
+  border-top: 1px solid #e5e5e5;
+  margin: 30px 0;
+}
+.type-255 .to-top a {
+  padding: 8px 7px;
+  color: #ffffff;
+}
+.type-255 .single-letter-list ul li a {
+  color: #000;
+}
+.type-255 .single-letter-list ul {
+  list-style: none;
+  padding: 0;
+}
+.type-255 ul li a:hover {
+  color: #24b6ac;
+  text-decoration: none;
+}
+@media (min-width: 992px) {
+  .type-255 .intro {
+    padding: 0;
+  }
+}
+@media (max-width: 991px) {
+  .type-255 .footer-info {
+    padding-left: 10px;
+  }
+}
+@media (min-width: 768px) {
+  .type-255 .intro {
+    width: 960px;
+  }
+}
+@media (max-width: 480px) {
+  .type-255 .intro {
+    padding: 0;
+  }
+}
