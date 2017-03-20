@@ -1,0 +1,44 @@
+.type-251 .navbar-default {
+  border: none;
+  background: none;
+}
+.type-251 .navbar-default .navbar-nav>li>a {
+  color: #000;
+}
+.type-251 .navbar-default .navbar-nav>.active>a,
+.type-251 .navbar-default .navbar-nav>.active>a:focus,
+.type-251 .navbar-default .navbar-nav>.active>a:hover,
+.type-251 .navbar-default .navbar-nav>li>a:hover {
+  background: none;
+  color: #24b6ac;
+}
+.type-251 .navbar-nav {
+  padding: 15px;
+}
+.type-251 .navbar-brand img {
+  max-width: 60%;
+}
+.type-251 .dropdown ul li a:hover {
+  background: #24b6ac;
+}
+@media (min-width: 768px) {
+  .type-251 .navbar-nav {
+    float: right;
+  }
+}
+@media (max-width: 767px) {
+  .type-251 .navbar-nav {
+    text-align: center;
+  }
+  .type-251 .navbar-toggle {
+    margin-top: 27px;
+    z-index: 1000;
+  }
+  .type-251 .dropdown-menu>li>a {
+    display: none;
+  }
+  .type-251 .navbar-default .navbar-collapse,
+  .type-251 .navbar-default .navbar-form {
+    border: none;
+  }
+}
