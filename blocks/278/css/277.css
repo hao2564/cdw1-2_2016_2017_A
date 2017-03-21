@@ -1,0 +1,43 @@
+.277 {
+  padding-bottom: 9.8rem;
+  padding-top: 9.8rem;
+}
+.277 img {
+  width: 100%;
+}
+.277 .lead {
+  font-size: 1.7rem;
+  margin: 2.8rem 0;
+  margin-top: 0;
+  font-weight: 300;
+  line-height: 1.4;
+  color: #667279;
+}
+.277 h3 {
+  margin: 2.8rem 0 1.4rem;
+  color: #363d40;
+}
+.277 p {
+  font-size: 1.4rem;
+  color: #667279;
+}
+.277 .vc_single_image-img:hover {
+  opacity: .8;
+}
+@media (max-width: 768px) {
+  .277 .vc_single_image-img {
+    margin-bottom: 50px;
+  }
+  .277 .lead {
+    font-size: 2rem;
+    margin: 2.8rem 0;
+    margin-top: 0;
+    font-weight: 300;
+    line-height: 1.4;
+    color: #667279;
+  }
+  .277 p {
+    font-size: 1.6rem;
+    color: #667279;
+  }
+}

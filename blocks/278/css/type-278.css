@@ -1,0 +1,57 @@
+.type-278 .wpb_wrapper {
+  text-align: center;
+}
+.type-278 .wpb_wrapper h1 {
+  color: #363d40;
+  font-family: 'Domine';
+  font-weight: normal;
+  font-style: normal;
+  text-transform: none;
+  font-size: 3.6rem;
+  line-height: 1.2;
+}
+.type-278 .wpb_wrapper h1 small {
+  display: block;
+  opacity: 0.8;
+  line-height: 1.2;
+}
+.type-278 .wpb_wrapper .line {
+  border-bottom: .3rem solid #BE3A31;
+  width: 60px;
+  display: inline-block;
+  margin-bottom: 2rem;
+}
+.type-278 .wpb_wrapper .lead {
+  font-size: 1.3em;
+  margin: 2.8rem 0;
+  color: #667279;
+}
+.type-278 .wpb_wrapper p {
+  font-size: 1em;
+  color: #667279;
+}
+.type-278 .wpb_wrapper a:hover,
+.type-278 .wpb_wrapper .btn:hover {
+  color: #667279;
+}
+.type-278 .wpb_wrapper a {
+  color: #363d40;
+  font-weight: bold;
+  margin-top: 20px;
+}
+@media (max-width: 768px) {
+  .type-278 .wpb_wrapper .lead {
+    font-size: 1.4em;
+    margin: 2.8rem 0;
+    color: #667279;
+  }
+  .type-278 .wpb_wrapper p {
+    font-size: 1.1em;
+    color: #667279;
+  }
+  .type-278 .wpb_wrapper a {
+    color: #363d40;
+    font-weight: bold;
+    margin-top: 25px;
+  }
+}
