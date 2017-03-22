@@ -38,13 +38,15 @@
                                 </div>
                                 <!-----detail--------->
                                 <div class="detail">
-                                    <div class="arrow-left">
-                                    </div>
-                                    <div class="text-detail">
-                                        <p>Detail</p>
-                                    </div>
-                                    <div class="arow-right">
-                                    </div>
+                                    <a data-code="" href="#" target="_blank" class="btn btn-custom btn-full blue-bg btn-shop btn-top btn-default btn-lg">
+                                        DETAILS
+                                        <div class="btn-left">
+                                            <i class="fa fa-caret-left" aria-hidden="true"></i>
+                                        </div>
+                                        <div class="btn-right">
+                                            <i class="fa fa-caret-right" aria-hidden="true"></i>
+                                        </div>
+                                    </a>
                                 </div>
                                 <!----text daily--------->
                                 <div class="text-daily">
@@ -85,13 +87,15 @@
                                 </div>
                                 <!-----detail--------->
                                 <div class="detail">
-                                    <div class="arrow-left">
-                                    </div>
-                                    <div class="text-detail">
-                                        <p>Detail</p>
-                                    </div>
-                                    <div class="arow-right">
-                                    </div>
+                                    <a data-code="" href="#" target="_blank" class="btn btn-custom btn-full blue-bg btn-shop btn-top btn-default btn-lg">
+                                        DETAILS
+                                        <div class="btn-left">
+                                            <i class="fa fa-caret-left" aria-hidden="true"></i>
+                                        </div>
+                                        <div class="btn-right">
+                                            <i class="fa fa-caret-right" aria-hidden="true"></i>
+                                        </div>
+                                    </a>
                                 </div>
                                 <!----text daily--------->
                                 <div class="text-daily">
@@ -132,13 +136,15 @@
                                 </div>
                                 <!-----detail--------->
                                 <div class="detail">
-                                    <div class="arrow-left">
-                                    </div>
-                                    <div class="text-detail">
-                                        <p>Detail</p>
-                                    </div>
-                                    <div class="arow-right">
-                                    </div>
+                                    <a data-code="" href="#" target="_blank" class="btn btn-custom btn-full blue-bg btn-shop btn-top btn-default btn-lg">
+                                        DETAILS
+                                        <div class="btn-left">
+                                            <i class="fa fa-caret-left" aria-hidden="true"></i>
+                                        </div>
+                                        <div class="btn-right">
+                                            <i class="fa fa-caret-right" aria-hidden="true"></i>
+                                        </div>
+                                    </a>
                                 </div>
                                 <!----text daily--------->
                                 <div class="text-daily">

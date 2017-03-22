@@ -1,4 +1,5 @@
 .type-268{
+    @color-green: #24b6ac;
     .khoangcach{
         padding: 15px;
     }
@@ -20,36 +21,28 @@
         }
     }
     .detail{
-        background: #2ca9e0;
-        text-align:center;
-        .text-detail p{
-            font-size: 18px;
+        a{
             color: #fff;
-            text-transform: uppercase;
-            padding: 5px 0;
+            text-decoration: none;
+            padding: 7px 0;
+            width: 100%;
+            border-radius: 0;
+            font-size: 16px;
+            background: #2ca9e0;
         }
-        .arrow-left:before{
-            content: "";
-            top: 194px;
+        .btn-left{
             position: absolute;
-            width: 0;
-            height: 0;
-            border-top: 10px solid transparent;
-            border-bottom: 10px solid transparent;
-            border-right: 10px solid #fff;
-            right: 15px;
-            bottom: 19px;
+            top: 187px;
+            font-size: 28px;
+            right:16px;
+            color:#fff;
         }
-        .arow-right:after{
-            content: "";
-            left: 16px;
-            top: 194px;
+        .btn-right{
             position: absolute;
-            width: 0; 
-            height: 0; 
-            border-top: 10px solid transparent;
-            border-bottom: 10px solid transparent;
-            border-left: 10px solid #fff;
+            top: 187px;
+            font-size: 28px;
+            left:16px;
+            color:#fff;
         }
     }
     .text-daily{
@@ -74,7 +67,7 @@
         }
         .buynow a{
             text-decoration: none;
-            color: #24b6ac;
+            color: @corlor-green;
             margin-top: 10px;
             margin-bottom: 10px;
         }

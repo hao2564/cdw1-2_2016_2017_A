@@ -1,0 +1,134 @@
+.type-269 .distance {
+  margin-top: 30px;
+}
+.type-269 .icon {
+  text-align: center;
+  font-size: 61px;
+  border: 1px solid #eee;
+  padding: 30px 20px;
+  width: 100%;
+  line-height: 23px;
+}
+.type-269 .icon h3 {
+  font-size: 18px;
+}
+.type-269 .icon:hover {
+  border: 1px solid #24b6ac;
+  box-shadow: 3px 7px 1px 0px rgba(208,208,208,0.1);
+}
+.type-269 .detail h3 {
+  margin-top: 10px;
+  font-weight: 600;
+  font-size: 24px;
+  margin-bottom: 20px;
+}
+.type-269 .detail p {
+  font-size: 13px;
+}
+.type-269 .type-logo {
+  position: relative;
+  text-align: center;
+  padding: 25px 0;
+}
+.type-269 .feature p {
+  position: absolute;
+  font-size: 11px;
+  background: #ff8b02;
+  color: #fff;
+  top: 5px;
+  right: 0px;
+}
+.type-269 .thumb {
+  position: relative;
+  border: 1px solid #eee;
+}
+.type-269 .thumb .btn-group-lg>.btn,
+.type-269 .thumb .btn-lg {
+  background: #2ca9e0;
+}
+.type-269 .thumb a {
+  color: #fff;
+  text-decoration: none;
+  padding: 7px 0;
+  width: 100%;
+  border-radius: 0;
+  font-size: 16px;
+}
+.type-269 .thumb hr {
+  margin-bottom: 35px;
+}
+.type-269 .thumb .btn-left {
+  position: absolute;
+  top: 123px;
+  font-size: 28px;
+  right: 0;
+}
+.type-269 .thumb .btn-right {
+  position: absolute;
+  top: 123px;
+  font-size: 28px;
+  left: 0;
+}
+.type-269 .coupon {
+  padding: 20px 25px;
+}
+.type-269 .coupon h4 {
+  font-size: 18px;
+  font-weight: 700;
+}
+.type-269 .coupon p {
+  opacity: 0.8;
+}
+.type-269 .item-ratings i {
+  color: #ff8b02;
+}
+.type-269 .line {
+  border-bottom: 1px solid #eee;
+  margin: 30px 0;
+}
+.type-269 .item-meta {
+  padding: 20px 20px;
+  line-height: 10px;
+}
+.type-269 .item-meta .icon-left {
+  float: left;
+  font-size: 12px;
+  margin-right: 2px;
+}
+.type-269 .item-meta .icon-right {
+  float: right;
+  font-size: 12px;
+  background: #fff;
+}
+.type-269 .item-meta .fa-plus-square {
+  color: #24b6ac;
+}
+.type-269 .page-number {
+  margin-top: 15px;
+}
+.type-269 .page-number ul {
+  border-radius: 0;
+}
+.type-269 .pagination>li:first-child>a,
+.type-269 .pagination>li:first-child>span {
+  border-top-left-radius: 0;
+  border-bottom-left-radius: 0;
+  background: #24b6ac;
+}
+.type-269 .pagination>li:last-child>a,
+.type-269 .pagination>li:last-child>span {
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+}
+.type-269 .pagination>li>a:focus,
+.type-269 .pagination>li>a:hover,
+.type-269 .pagination>li>span:focus,
+.type-269 .pagination>li>span:hover {
+  background: #24b6ac;
+  cursor: pointer;
+}
+@media (max-width: 767px) {
+  .type-269 .detail {
+    margin-top: 10px;
+  }
+}
