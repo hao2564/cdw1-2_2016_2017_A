@@ -52,10 +52,10 @@
                                     </div>		
                                     <ul>
                                         <li>
-                                            <a href="http://demo.powerthemes.club/themes/couponer/2015/06/">June 2015</a>
+                                            <a href="#">June 2015</a>
                                         </li>
                                         <li>
-                                            <a href="http://demo.powerthemes.club/themes/couponer/2014/06/">June 2014</a>
+                                            <a href="#">June 2014</a>
                                         </li>
                                     </ul>
                                 </div>
@@ -70,43 +70,43 @@
                                     <ul class="list-group">
                                         <li class="list-group-item">
                                             <span class="badge">2</span>
-                                            <a href="http://demo.powerthemes.club/themes/couponer/code_category/computers/"> Computers </a>
+                                            <a href="#"> Computers </a>
                                         </li>
                                         <li class="list-group-item">
                                             <span class="badge">1</span>
-                                            <a href="http://demo.powerthemes.club/themes/couponer/code_category/house/"> House </a>
+                                            <a href="#"> House </a>
                                         </li>
                                         <li class="list-group-item">
                                             <span class="badge">1</span>
-                                            <a href="http://demo.powerthemes.club/themes/couponer/code_category/photography/"> Photography </a>
+                                            <a href="#"> Photography </a>
                                         </li>
                                         <li class="list-group-item">
                                             <span class="badge">1</span>
-                                            <a href="http://demo.powerthemes.club/themes/couponer/code_category/students/"> Students </a>
+                                            <a href="#"> Students </a>
                                         </li>
                                         <li class="list-group-item">
                                             <span class="badge">2</span>
-                                            <a href="http://demo.powerthemes.club/themes/couponer/code_category/technology/"> Technology </a>
+                                            <a href="#"> Technology </a>
                                         </li>
                                         <li class="list-group-item">
                                             <span class="badge">2</span>
-                                            <a href="http://demo.powerthemes.club/themes/couponer/code_category/baby/"> Baby </a>
+                                            <a href="#"> Baby </a>
                                         </li>
                                         <li class="list-group-item">
                                             <span class="badge">1</span>
-                                            <a href="http://demo.powerthemes.club/themes/couponer/code_category/books/"> Books &amp; Movies </a>
+                                            <a href="#"> Books &amp; Movies </a>
                                         </li>
                                         <li class="list-group-item">
                                             <span class="badge">2</span>
-                                            <a href="http://demo.powerthemes.club/themes/couponer/code_category/cars/"> Cars </a>
+                                            <a href="#"> Cars </a>
                                         </li>
                                         <li class="list-group-item">
                                             <span class="badge">3</span>
-                                            <a href="http://demo.powerthemes.club/themes/couponer/code_category/music/"> Music </a>
+                                            <a href="#"> Music </a>
                                         </li>
                                         <li class="list-group-item">
                                             <span class="badge">1</span>
-                                            <a href="http://demo.powerthemes.club/themes/couponer/code_category/pet-care/"> Pet Care </a>
+                                            <a href="#"> Pet Care </a>
                                         </li>
                                     </ul>
                                 </div>
@@ -118,4 +118,3 @@
         </div>
     </body>
 </html>
-
