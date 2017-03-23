@@ -26,7 +26,6 @@
             <section class="contact">
                 <div class="container">
                     <div class="row">
-
                         <div class="col-md-12">
                             <div class="caption category-caption">
                                 <h2>Contact</h2>
@@ -36,10 +35,8 @@
                                 </div>
                             </div>
                         </div>
-
                         <div class="col-md-12">
                             <div class="row">
-
                                 <div class="col-md-6">
                                     <div class="register clearfix">
                                         <div class="caption contact-caption">
@@ -76,7 +73,6 @@
                                         </div>
                                     </div>
                                 </div>
-
                                 <div class="col-md-6 main_content">
                                     <h3 style="text-align: left;"><strong>Lorem ipsum dolor sit</strong></h3>
                                     <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nobis, dolorum, placeat, pariatur fugit earum ex quidem esse mollitia maiores similique dicta quas hic delectus numquam aspernatur aperiam suscipit doloribus sint autem sequi eligendi tempora temporibus ad blanditiis debitis atque perspiciatis.</p>
@@ -96,4 +92,3 @@
         </div>
     </body>
 </html>
-
