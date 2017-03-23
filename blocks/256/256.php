@@ -42,16 +42,11 @@
 
                                 <div class="col-md-6">
                                     <div class="register clearfix">
-
-                                        <!-- title -->
                                         <div class="caption contact-caption">
                                             <h2>
                                                 <span class="green"><i class="fa fa-envelope-o"></i>
                                                 </span>Send Us A Mesage</h2>
                                         </div>
-                                        <!-- .title -->
-
-                                        <!-- form -->
                                         <div class="form register-form">
                                             <div class="send_result"></div>
                                             <form action="" method="" class="contact_form">
@@ -78,7 +73,6 @@
                                                 </fieldset>
                                                 <input type="hidden" value="1" name="captcha"></form>
                                         </div>
-                                        <!-- .form -->
                                     </div>
                                 </div>
 
