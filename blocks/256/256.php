@@ -71,7 +71,8 @@
                                                         <button type="button" class="btn btn-custom btn-default send_contact">Send Message</button>
                                                     </div>
                                                 </fieldset>
-                                                <input type="hidden" value="1" name="captcha"></form>
+                                                <input type="hidden" value="1" name="captcha">
+                                            </form>
                                         </div>
                                     </div>
                                 </div>
