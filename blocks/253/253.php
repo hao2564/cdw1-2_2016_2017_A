@@ -22,6 +22,7 @@
         <section class="categories">
             <div class="container">
                 <div class="row">
+
                     <div class="col-md-12">
                         <div class="caption category-caption">
                             <h2>General Categories</h2>
@@ -30,6 +31,7 @@
                             </div>
                         </div>
                     </div>
+
                     <div class="category-row col-md-12">
                         <div class="row">						
                             <div class="special-item col-md-3">
@@ -75,9 +77,9 @@
                                     </div>
                                 </a>
                             </div>
-                            <!-- .element-column -->
                         </div>
                     </div>
+
                     <div class="category-row col-md-12">
                         <div class="row">
                             <div class="special-item col-md-3">

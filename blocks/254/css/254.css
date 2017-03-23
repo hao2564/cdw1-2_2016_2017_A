@@ -64,4 +64,25 @@
 }
 .type-254 .img-footer img {
   margin-top: 50px;
+  width: 70%;
+}
+@media (min-width: 992px) {
+  .intro {
+    padding: 0;
+  }
+}
+@media (max-width: 991px) {
+  .footer-info {
+    padding-left: 10px;
+  }
+}
+@media (min-width: 768px) {
+  .intro {
+    width: 960px;
+  }
+}
+@media (max-width: 480px) {
+  .intro {
+    padding: 0;
+  }
 }

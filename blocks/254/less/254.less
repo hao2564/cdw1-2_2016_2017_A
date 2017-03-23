@@ -3,13 +3,13 @@
     *{
         box-sizing: border-box;
     }
-    
+
     .footer{
         background: @color_background;
         padding: 70px 0;
         background-size: cover;
     }
-    
+
     .title-footer{
         h2{   
             color: #fff;
@@ -20,7 +20,7 @@
             color: #8f8f8f;
         }
     }
-    
+
     .input-email input{
         border: 1px solid #484848;
         padding: 6px 10px;
@@ -30,7 +30,7 @@
         width: 100%;
         background: #313131;
     }
-    
+
     .text-footer{
         margin-top: 50px;
         color: #8f8f8f;
@@ -38,7 +38,7 @@
             padding: 5px 0;
         }
     }
-    
+
     .btn-sub{
         margin-top: 20px;
         background: #24b6ac;
@@ -50,11 +50,11 @@
             text-decoration: none;
         }
     }
-    
+
     .btm-sub a:hover{
         cursor: pointer;
     }
-   
+
     .icon-footer{
         background: #fff;
         display: inline-block;
@@ -65,18 +65,41 @@
             color: #000;
         }
     }
-    
+
     .text-footer ul li{
         padding: 0 7px;
     }
-    
+
     .text-footer ul li a{
         color: #fff;
         font-size: 2.2em;
         padding-bottom: 20px;
     }
-    
+
     .img-footer img{
         margin-top: 50px;
+        width: 70%;
+    }
+}
+
+/*-----------REPONSIVE------------*/
+@media (min-width: 992px){
+    .intro{
+        padding: 0;
+    }
+}
+@media (max-width: 991px){
+    .footer-info{
+        padding-left: 10px;
+    }
+}
+@media (min-width: 768px){
+    .intro{
+        width: 960px;
+    }
+}
+@media (max-width: 480px){
+    .intro{
+        padding: 0;
     }
 }
