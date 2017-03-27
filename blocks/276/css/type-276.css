@@ -1,6 +1,3 @@
-.text-center {
-  text-align: center;
-}
 .type-276 {
   background: url('../images/bg-room.jpg');
   background-repeat: no-repeat;
@@ -10,6 +7,9 @@
   padding-bottom: 9.8rem;
   padding-top: 9.8rem;
   color: #667279;
+}
+.type-276 .text-center {
+  text-align: center;
 }
 .type-276 .white-box {
   background: rgba(255,255,255,0.85);

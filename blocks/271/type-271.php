@@ -10,7 +10,7 @@
                                 <small>STARTING AT $120 / NIGHT</small>SIGNATURE WATER VIEW
                             </h2>
                             <p>
-                                <img class="aligncenter wp-image-698 size-full" src="images/content-rooms-1.jpg" alt="content-rooms-1">
+                                <img class="aligncenter wp-image-698 size-full" src="images/content-rooms-1.jpg" >
                             </p>
                             <p>
                                 Phasellus laoreet lorem vel dolor tempus vehicula. Integer legentibus erat a ante historiarum dapibus. Plura mihi bona sunt, inclinet, amari petere vellent. Quae vero auctorem tractata ab fiducia dicuntur.
@@ -32,7 +32,7 @@
                                 <small>STARTING AT $120 / NIGHT</small>SIGNATURE WATER SIDE
                             </h2>
                             <p>
-                                <img class="aligncenter wp-image-695 size-full" src="images/content-rooms.jpg" alt="content-rooms">
+                                <img class="aligncenter wp-image-695 size-full" src="images/content-rooms.jpg" >
                             </p>
                             <p>
                                 Phasellus laoreet lorem vel dolor tempus vehicula. Integer legentibus erat a ante historiarum dapibus. Plura mihi bona sunt, inclinet, amari petere vellent. Quae vero auctorem tractata ab fiducia dicuntur.
