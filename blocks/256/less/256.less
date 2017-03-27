@@ -1,65 +1,66 @@
 .type-256 {
     @color_background: #24b6ac;
+    @color_font: #fff;
     @color: #e5e5e5;
 
     .green-bg {
         background: @color_background;
     }
-    
+
     .category-caption {
         padding-bottom: 60px;
     }
-    
+
     .line-divider {
         display: block;
         border-top: 1px solid @color;
         width: 100%;
         margin: 20px 0;
     }
-    
+
     .line-mask {
         height: 5px;
         width: 50px;
         display: block;
         margin-top: -3px;
     }
-    
+
     .category-caption h2 {
         font-weight: 700;
         font-size: 24px;
     }
-    
+
     .contact-caption h2 i {
         padding-right: 10px;
     }
-    
+
     .green {
         color: @color_background
     }
-    
+
     .contact-caption h2 {
         padding-bottom: 30px;
         font-weight: 700;
     }
 
-    .btn-custom:hover {
-        background-color: @color_background;
-    }
-    
-    .btn.btn-custom {
+    .btn-custom {
         background-color: @color_background;
         color: @color_font;
+        outline: none;
+        box-shadow: none;
+        padding: 5px 25px;
+        border: none;
     }
-    
+
     .btn-custom:hover {
         background-color: #24caac;
         color: @color_font;
         outline: none;
         box-shadow: none;
+        padding: 5px 25px;
         border: none;
     }
 
-    
     /*-----------REPONSIVE------------*/
     @media (min-width: 992px){
         .intro{

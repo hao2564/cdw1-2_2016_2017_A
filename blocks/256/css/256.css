@@ -30,18 +30,20 @@
   padding-bottom: 30px;
   font-weight: 700;
 }
-.type-256 .btn-custom:hover {
+.type-256 .btn-custom {
   background-color: #24b6ac;
-}
-.type-256 .btn.btn-custom {
-  background-color: #24b6ac;
-  color: ;
+  color: #fff;
+  outline: none;
+  box-shadow: none;
+  padding: 5px 25px;
+  border: none;
 }
 .type-256 .btn-custom:hover {
   background-color: #24caac;
-  color: ;
+  color: #fff;
   outline: none;
   box-shadow: none;
+  padding: 5px 25px;
   border: none;
 }
 @media (min-width: 992px) {

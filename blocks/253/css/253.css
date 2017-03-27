@@ -42,6 +42,9 @@
   font-family: 'Lato', sans-serif;
   color: #212121;
 }
+.type-253 a {
+  text-decoration: none;
+}
 .type-253 .special-item a:hover .special-item-inner {
   color: #24b6ac;
   border: 1px solid #24b6ac;

@@ -43,6 +43,11 @@
   padding: 10px 20px;
   border-bottom: 1px solid #e5e5e5;
 }
+.type-258 widget ul.list-group li {
+  border-left: none;
+  border-right: none;
+  border-radius: 0;
+}
 .type-258 .widget .widget-inner ul {
   list-style: none;
   padding-left: 0;
@@ -53,7 +58,7 @@
 }
 .type-258 .right_widget .badge {
   background-color: #313030;
-  color: #ffffff;
+  color: #fff;
 }
 .type-258 .widget .badge {
   background-color: #313030;
