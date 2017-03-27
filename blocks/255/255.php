@@ -36,8 +36,7 @@
                         </div>
                     </div>
                     <div class="row">
-                        <div class="col-md-12 main_content">
-                        </div>
+                        <div class="col-md-12 main_content"></div>
                     </div>
                 </div>
 

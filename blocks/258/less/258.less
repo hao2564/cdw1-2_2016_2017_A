@@ -33,16 +33,23 @@
         }
     }
 
-    .blog-inner {
-        border-color: @color;
+    .widget-line-divider {
+        margin: 2px 0;
+    }
+
+    .line-divider {
+        display: block;
+        border-top: 1px solid #e5e5e5;
+        width: 100%;
     }
 
     .blog-inner {
         position: relative;
+        border-color: @color;
         border: 1px solid @color;
     }
 
-    .widget .widget-inner form#searchform, .footer .widget form#searchform {
+    .widget .widget-inner form#searchform {
         height: 80px;
         padding-top: 25px;
     }
@@ -50,6 +57,9 @@
     h4 {
         font-size: 15px;
         font-weight: 700;
+        margin-top: 0px;
+        margin-bottom: 0px;
+
     }
 
     .widget .widget-inner ul:not(.dd-custom) li {
@@ -64,7 +74,12 @@
 
     a {
         text-decoration: none;
-        color: #333;
+        color: #212121;
+    }
+
+    a:hover {
+        text-decoration: none;
+        color: #8f8f8f;
     }
 
     .right_widget .badge {

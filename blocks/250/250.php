@@ -13,9 +13,7 @@
     $less = new lessc;
     $less->compileFile('less/250.less', 'css/250.css');
     ?>
-
     <link href="css/250.css" rel="stylesheet" type="text/css"/>
-
 </head>
 
 <body>
@@ -30,7 +28,6 @@
                 <div  class="col-md-8">
                     <div class="navbar-menu">
                         <nav class="navbar navbar-default collapsed bottom-nav" role="navigation">
-                            <!-- Collect the nav links, forms, and other content for toggling -->
                             <div class="collapse navbar-collapse navbar-right navbar-ex1-collapse">					
                                 <ul class="nav navbar-nav">
                                     <li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-38 current_page_item menu-item-397"><a title="Home" href="#" class=" active">Home</a></li>
@@ -46,9 +43,7 @@
                         </nav>
                     </div>
                 </div>
-
             </div>
         </div>
     </div>
-
 </body>

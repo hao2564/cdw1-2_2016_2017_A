@@ -25,10 +25,25 @@
 }
 .type-254 .text-footer {
   margin-top: 50px;
-  color: #8f8f8f;
 }
 .type-254 .text-footer p {
   padding: 5px 0;
+  color: #8f8f8f;
+  font-size: 13px;
+}
+.type-254 .text-footer a {
+  text-decoration: none;
+}
+.type-254 .text-footer a:hover {
+  margin-top: 50px;
+}
+.type-254 .text-footer a:hover p {
+  padding: 5px 0;
+  color: #fff;
+  font-size: 13px;
+}
+.type-254 .text-footer a:hover a {
+  text-decoration: none;
 }
 .type-254 .btn-sub {
   margin-top: 20px;

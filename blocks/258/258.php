@@ -1,7 +1,5 @@
 <!DOCTYPE html>
-
 <html>
-
     <head>
         <title></title>
         <meta charset="UTF-8">
@@ -19,8 +17,8 @@
         $less->compileFile('less/258.less', 'css/258.css');
         ?>
         <link href="css/258.css" rel="stylesheet" type="text/css" />
-
     </head>
+    
     <body>
         <div class="type-258">
             <section class="blog-home">

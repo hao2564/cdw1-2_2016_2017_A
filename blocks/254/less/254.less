@@ -1,5 +1,6 @@
 .type-254{
     @color_background: #292929;
+    @color_font: #8f8f8f;
     *{
         box-sizing: border-box;
     }
@@ -17,7 +18,7 @@
         }
         p{
             margin-top: 50px;
-            color: #8f8f8f;
+            color: @color_font;
         }
     }
 
@@ -33,9 +34,25 @@
 
     .text-footer{
         margin-top: 50px;
-        color: #8f8f8f;
         p{
             padding: 5px 0;
+            color: @color_font;
+            font-size: 13px;
+        }
+        a{
+            text-decoration: none;
+        }
+    }
+
+    .text-footer a:hover{
+        margin-top: 50px;
+        p{
+            padding: 5px 0;
+            color: #fff;
+            font-size: 13px;
+        }
+        a{
+            text-decoration: none;
         }
     }
 

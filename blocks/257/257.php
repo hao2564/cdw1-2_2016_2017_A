@@ -1,7 +1,5 @@
 <!DOCTYPE html>
-
 <html>
-
     <head>
         <title></title>
         <meta charset="UTF-8">
@@ -19,8 +17,8 @@
         $less->compileFile('less/257.less', 'css/257.css');
         ?>
         <link href="css/257.css" rel="stylesheet" type="text/css" />
-
     </head>
+
     <body>
         <div class="type-257">
             <section class="blog-home">
@@ -76,7 +74,6 @@
                                 <div class="col-md-12">
                                     <div class="blog-post post ">
                                         <div class="blog-inner blog-inner-home">
-                                            <!-- blog-image -->
                                             <div class="image-placeholder col-md-5">
                                                 <img width="380" height="250" <img src="images/17360697_1817718755219043_295144047_n.jpg" class="listing-blog-wull-width wp-post-image" alt="">											
                                             </div>               
@@ -389,4 +386,3 @@
         </div>
     </body>
 </html>
-
