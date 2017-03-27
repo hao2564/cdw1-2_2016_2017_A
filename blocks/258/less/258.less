@@ -1,6 +1,6 @@
 .type-258 {
     @color_background: #24b6ac;
-    @color_font: #fff;
+    @color: #e5e5e5;
 
     section {
         padding: 70px 0;
@@ -21,8 +21,8 @@
 
     .widget-caption {
         padding: 15px 20px;
-        border-top: 1px solid #e5e5e5;
-        border-bottom: 1px solid #e5e5e5;
+        border-top: 1px solid @color;
+        border-bottom: 1px solid @color;
     }
 
     .widget {
@@ -33,12 +33,12 @@
     }
 
     .blog-inner {
-        border-color: #e5e5e5;
+        border-color: @color;
     }
 
     .blog-inner {
         position: relative;
-        border: 1px solid #e5e5e5;
+        border: 1px solid @color;
     }
 
     .widget .widget-inner form#searchform, .footer .widget form#searchform {
@@ -53,7 +53,7 @@
 
     .widget .widget-inner ul:not(.dd-custom) li {
         padding: 10px 20px;
-        border-bottom: 1px solid #e5e5e5;
+        border-bottom: 1px solid @color;
     }
 
     .widget .widget-inner ul {

@@ -1,6 +1,7 @@
 .type-253 {
     @color_background: #24b6ac;
     @color_font: #fff;
+    @color: #e5e5e5;
 
     .green-bg {
         background: @color_background;
@@ -12,7 +13,7 @@
     
     .line-divider {
         display: block;
-        border-top: 1px solid #e5e5e5;
+        border-top: 1px solid @color;
         width: 100%;
         margin: 20px 0;
     }
@@ -29,8 +30,8 @@
     }
     
     .special-item-inner {
-        border: 1px solid #e5e5e5;
-        background-color: #fff;
+        border: 1px solid @color;
+        background-color: @color_font;
         display: table;
         min-height: 150px;
         width: 100%;
