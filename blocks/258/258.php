@@ -34,7 +34,7 @@
                                     <div class="caption widget-caption">
                                         <h4>Search Blog</h4>
                                     </div>
-                                    <form role="search" method="get" id="searchform" class="searchform form-control-custom" action="http://demo.powerthemes.club/themes/couponer/">
+                                    <form role="search" method="get" id="searchform" class="searchform form-control-custom" action="#">
                                         <div>
                                             <input type="text" value="" name="s" id="s" placeholder="Search...">
                                             <input type="submit" id="searchsubmit" value="Search">
