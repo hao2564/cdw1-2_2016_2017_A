@@ -1,3 +1,8 @@
+.type-256 p {
+  font-size: 13px;
+  line-height: 23px;
+  color: #6d6d6d;
+}
 .type-256 .green-bg {
   background: #24b6ac;
 }
@@ -45,6 +50,9 @@
   box-shadow: none;
   padding: 5px 25px;
   border: none;
+}
+.type-256 textarea.message-control {
+  height: 95px;
 }
 @media (min-width: 992px) {
   .type-256 .intro {

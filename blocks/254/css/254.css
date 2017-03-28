@@ -89,6 +89,9 @@
   margin-top: 50px;
   width: 70%;
 }
+.type-254 .fa:hover {
+  color: #8f8f8f;
+}
 @media (min-width: 992px) {
   .intro {
     padding: 0;

@@ -80,6 +80,10 @@
   color: #8f8f8f;
   border-radius: 0;
 }
+.type-258 .widget ul.list-group li {
+  border-left: none;
+  border-right: none;
+}
 @media (min-width: 992px) {
   .type-258 .intro {
     padding: 0;
