@@ -26,6 +26,9 @@
   padding: 56px 0;
   margin: 0 auto;
 }
+.type-270 #footer a:hover {
+  color: rgba(102,114,121,0.5);
+}
 .type-270 #footer .main-wrapper {
   max-width: 1170px;
 }
