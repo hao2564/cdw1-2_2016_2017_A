@@ -31,7 +31,7 @@
                                     <div class="blog-post post ">
                                         <div class="blog-inner blog-inner-home">
                                             <div class="image-placeholder col-md-5">
-                                                <img width="380" height="250" src="images/Fotolia_12377076_XXL2-380x250.jpg" class="listing-blog-wull-width wp-post-image" alt="">											
+                                                <img width="380" height="250" src="images/Fotolia_12377076_XXL2-380x250.jpg" class="listing-blog-wull-width" alt="">											
                                             </div>
                                             <div class="blog-post-content col-md-7">
                                                 <div class="item-meta blog-meta">
@@ -75,7 +75,7 @@
                                     <div class="blog-post post ">
                                         <div class="blog-inner blog-inner-home">
                                             <div class="image-placeholder col-md-5">
-                                                <img width="380" height="250" <img src="images/17360697_1817718755219043_295144047_n.jpg" class="listing-blog-wull-width wp-post-image" alt="">											
+                                                <img width="380" height="250" <img src="images/17360697_1817718755219043_295144047_n.jpg" class="listing-blog-wull-width" alt="">											
                                             </div>               
                                             <div class="blog-post-content col-md-7">
                                                 <div class="item-meta blog-meta">
@@ -119,7 +119,7 @@
                                     <div class="blog-post post">
                                         <div class="blog-inner blog-inner-home">
                                             <div class="image-placeholder col-md-5">
-                                                <img width="380" height="250" src="images/Fotolia_26240674_Subscription_XXL-e13542074741512-380x250.jpg" class="listing-blog-wull-width wp-post-image" alt="">											
+                                                <img width="380" height="250" src="images/Fotolia_26240674_Subscription_XXL-e13542074741512-380x250.jpg" class="listing-blog-wull-width" alt="">											
                                             </div>
                                             <div class="blog-post-content col-md-7">
                                                 <div class="item-meta blog-meta">
@@ -163,7 +163,7 @@
                                     <div class="blog-post post ">
                                         <div class="blog-inner blog-inner-home">
                                             <div class="image-placeholder col-md-5">
-                                                <img width="380" height="250" src="images/Fotolia_12377076_XXL2-380x250 (1).jpg" class="listing-blog-wull-width wp-post-image" alt="">											
+                                                <img width="380" height="250" src="images/Fotolia_12377076_XXL2-380x250 (1).jpg" class="listing-blog-wull-width" alt="">											
                                             </div>                                         
                                             <div class="blog-post-content col-md-7">
                                                 <div class="item-meta blog-meta">
@@ -207,7 +207,7 @@
                                     <div class="blog-post post ">
                                         <div class="blog-inner blog-inner-home">
                                             <div class="image-placeholder col-md-5">
-                                                <img width="380" height="250" src="images/17409616_1817718748552377_1020873891_n.jpg" class="listing-blog-wull-width wp-post-image" alt="">											
+                                                <img width="380" height="250" src="images/17409616_1817718748552377_1020873891_n.jpg" class="listing-blog-wull-width" alt="">											
                                             </div>
                                             <div class="blog-post-content col-md-7">
                                                 <div class="item-meta blog-meta">
@@ -251,7 +251,7 @@
                                     <div class="blog-post post ">
                                         <div class="blog-inner blog-inner-home">
                                             <div class="image-placeholder col-md-5">
-                                                <img width="380" height="250" src="images/Fotolia_39801275_M2-380x250.jpg" class="listing-blog-wull-width wp-post-image" alt="">								
+                                                <img width="380" height="250" src="images/Fotolia_39801275_M2-380x250.jpg" class="listing-blog-wull-width" alt="">								
                                             </div>
                                             <div class="blog-post-content col-md-7">
                                                 <div class="item-meta blog-meta">
@@ -295,7 +295,7 @@
                                     <div class="blog-post post ">
                                         <div class="blog-inner blog-inner-home">
                                             <div class="image-placeholder col-md-5">
-                                                <img width="380" height="250" src="images/17392126_1817718751885710_331058358_n.jpg" class="listing-blog-wull-width wp-post-image" alt="">											
+                                                <img width="380" height="250" src="images/17392126_1817718751885710_331058358_n.jpg" class="listing-blog-wull-width" alt="">											
                                             </div>
                                             <div class="blog-post-content col-md-7">
                                                 <div class="item-meta blog-meta">
@@ -339,7 +339,7 @@
                                     <div class="blog-post post ">
                                         <div class="blog-inner blog-inner-home">
                                             <div class="image-placeholder col-md-5">
-                                                <img width="380" height="250" src="images/Kleidung-online-shoppen2-380x250.jpg" class="listing-blog-wull-width wp-post-image" alt="">											
+                                                <img width="380" height="250" src="images/Kleidung-online-shoppen2-380x250.jpg" class="listing-blog-wull-width" alt="">											
                                             </div>
                                             <div class="blog-post-content col-md-7">
                                                 <div class="item-meta blog-meta">

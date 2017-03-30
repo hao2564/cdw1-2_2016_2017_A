@@ -24,7 +24,7 @@
             <div class="footer">
                 <div class="container">
                     <div class="row">
-                        <div class="col-lg-3 col-md-3 col-sm-6 col-xs12">
+                        <div class="col-lg-3 col-md-3 col-sm-6">
                             <div class="title-footer">
                                 <h2>Newsletter</h2>
                                 <p>Latest discounts and coupons</p>
@@ -39,7 +39,7 @@
                             </div>
                         </div>
 
-                        <div class="col-lg-3 col-md-3 col-sm-6 col-xs12">
+                        <div class="col-lg-3 col-md-3 col-sm-6">
                             <div class="title-footer">
                                 <h2>FAQ</h2>
                             </div>
@@ -54,7 +54,7 @@
                             </div>
                         </div>
 
-                        <div class="col-lg-3 col-md-3 col-sm-6 col-xs12">
+                        <div class="col-lg-3 col-md-3 col-sm-6">
                             <div class="title-footer">
                                 <h2>About us</h2>
                             </div>
@@ -68,7 +68,7 @@
                             </div>
                         </div>
 
-                        <div class="col-lg-3 col-md-3 col-sm-6 col-xs12">
+                        <div class="col-lg-3 col-md-3 col-sm-6">
                             <div class="title-footer">
                                 <h2>Follow us</h2>
                             </div>
@@ -89,4 +89,3 @@
         </div>
     </body>
 </html>
-

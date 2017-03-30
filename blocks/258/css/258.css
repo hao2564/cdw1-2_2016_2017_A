@@ -84,16 +84,6 @@
   border-left: none;
   border-right: none;
 }
-@media (min-width: 992px) {
-  .type-258 .intro {
-    padding: 0;
-  }
-}
-@media (max-width: 991px) {
-  .type-258 .footer-info {
-    padding-left: 10px;
-  }
-}
 @media (min-width: 768px) {
   .type-258 .intro {
     width: 960px;

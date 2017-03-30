@@ -18,7 +18,7 @@
         ?>
         <link href="css/258.css" rel="stylesheet" type="text/css" />
     </head>
-    
+
     <body>
         <div class="type-258">
             <section class="blog-home">
@@ -32,7 +32,7 @@
                                     <div class="caption widget-caption">
                                         <h4>Search Blog</h4>
                                     </div>
-                                    <form role="search" method="get" id="searchform" class="searchform form-control-custom" action="#">
+                                    <form role="search" method="get" id="searchform" class="form-control-custom" action="#">
                                         <div>
                                             <input type="text" value="" name="s" id="s" placeholder="Search...">
                                             <input type="submit" id="searchsubmit" value="Search">
