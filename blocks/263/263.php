@@ -24,71 +24,41 @@
     </head>
     <body>
         <div class="type-263">
-            <!-----info footer ------>
-            <div class="footer">
-                <div class="container">
-                    <div class="row">
-                        <div class="col-lg-3 col-md-3 col-sm-6 col-xs12">
-                            <div class="title-footer">
-                                <h2>Newsletter</h2>
-                                <p>Latest discounts and coupons</p>
-                            </div>
-                            <div class="input-email">
-                                <form action="#" method="post">
-                                    <input type="text" placeholder="Email address" />
-                                </form>
-                            </div>
-                            <div class="btn-sub">
-                                <a href="#">Subscribe</a>
-                            </div>
+            <div class="container">
+                <div class="row">
+                    <nav class="navbar navbar-default">
+                        <div class="navbar-header">
+                            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
+                                <span class="icon-bar"></span>
+                                <span class="icon-bar"></span>
+                                <span class="icon-bar"></span> 
+                            </button>
+                            <a class="navbar-brand" href="#">
+                                <img src="images/logo.png" alt=""/>
+                            </a>
                         </div>
-                        <!-----FAQ--------->
-                        <div class="col-lg-3 col-md-3 col-sm-6 col-xs12">
-                            <div class="title-footer">
-                                <h2>FAQ</h2>
-                            </div>
-                            <div class="text-footer">
-                                <p>Duis aute irure dolor?</p>
-                                <p>Sunt in culpa qui officia?</p>
-                                <p>Cillum dolore eu fugiat?</p>
-                                <p>Lorem Ipsum dolor sit?</p>
-                                <p>Dolor Sit Amet?</p>
-                                <p>Set Do Eiusmod?</p>
-                                <p>Excepteur sint occaecat?</p>
-                            </div>
+                        <div class="collapse navbar-collapse" id="myNavbar">
+                            <ul class="nav navbar-nav">
+                                <li class="active"><a href="#">Home</a></li>
+                                <li><a href="#">All Shops</a></li>
+                                <li><a href="#">Top 20</a></li> 
+                                <li><a href="#">Daily Offers</a></li>
+                                <li><a href="#">Expiring</a></li>
+                                <li><a href="#">Categories</a></li>
+                                <li><a href="#">Contact</a></li> 
+                                <li><a href="#">Blog</a></li>
+                                <li class="active dropdown" >
+                                    <a href="#" class="dropdown-toggle" data-toggle="dropdown">
+                                        <i class="fa fa-unlock-alt" aria-hidden="true"></i>                                    </a>
+                                    <ul class="dropdown-menu">
+                                        <li><a href="#"><i class="fa fa-lock"></i> Login</a></li>
+                                        <li><a href="#"><i class="fa fa-tags"></i> Submit</a> </li>
+                                        <li><a href="#"><i class="fa fa-sign-in"></i> Register </a></li>
+                                    </ul>
+                                </li>
+                            </ul>
                         </div>
-                        <!-----About us--------->
-                        <div class="col-lg-3 col-md-3 col-sm-6 col-xs12">
-                            <div class="title-footer">
-                                <h2>About us</h2>
-                            </div>
-                            <div class="text-footer">
-                                <p>Sed ut perspiciatis unde</p>
-                                <p>Omnis iste natus error</p>
-                                <p>Sit voluptatem accusantium</p>
-                                <p>Doloremque laudantium</p>
-                                <p>Totam rem aperiameaque</p>
-                                <p>Ipsa quae ab illo inventore veritatis</p>
-                            </div>
-                        </div>
-                        <!----Follow us------------>
-                        <div class="col-lg-3 col-md-3 col-sm-6 col-xs12">
-                            <div class="title-footer">
-                                <h2>Follow us</h2>
-                            </div>
-                            <div class="text-footer">
-                                <ul class="list-inline">
-                                    <li><a href="#" class="active"><i class="fa fa-twitter-square"></i></a></li>
-                                    <li><a href="#" class="active"><i class="fa fa-facebook-square"></i></a></li>
-                                    <li><a href="#" class="active"><i class="fa fa-google-plus-square"></i></a></li>
-                                </ul>
-                            </div>
-                            <div class="img-footer">
-                                <img src="images/logo_g2.png" alt=""/>
-                            </div>
-                                
-                        </div>
-                    </div>
+                    </nav>
                 </div>
             </div>
         </div>
@@ -97,4 +67,15 @@
 </div>
 </body>
 </html>
+<script>
+    $(".dropdown").hover(
+            function () {
+                $('.dropdown-menu', this).stop(true, true).fadeIn("fast");
+                $(this).toggleClass('open');
+            },
+            function () {
+                $('.dropdown-menu', this).stop(true, true).fadeOut("fast");
+                $(this).toggleClass('open');
+            });
+</script>
 

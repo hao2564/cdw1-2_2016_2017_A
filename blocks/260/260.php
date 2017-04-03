@@ -82,7 +82,7 @@
         //Set the carousel options
         $('#quote-carousel').carousel({
             pause: true,
-            interval: false
+            interval: 4000,
         });
     });
 </script>

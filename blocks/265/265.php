@@ -38,7 +38,7 @@
                                 <div class="form-group has-feedback">
                                     <span class="fa fa-search form-control-feedback icon-left"></span>
                                     <input type="text" name="search" id="search" class="form-control" placeholder="Type shop name">
-                                    <span class="fa fa-angle-down form-control-feedback"></span>
+                                   
                                 </div>
                             </form>
                         </div>

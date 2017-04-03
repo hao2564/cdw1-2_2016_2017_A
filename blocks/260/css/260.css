@@ -24,8 +24,10 @@
 @media (max-width: 767px) {
   .type-1 .carousel-control.left {
     left: 10px;
+    top: calc(35%);
   }
   .type-1 .carousel-control.right {
     right: 10px;
+    top: calc(35%);
   }
 }
