@@ -1,7 +1,5 @@
 <!DOCTYPE html>
-
 <html>
-
     <head>
         <title></title>
         <meta charset="UTF-8">
@@ -19,15 +17,14 @@
         $less->compileFile('less/254.less', 'css/254.css');
         ?>
         <link href="css/254.css" rel="stylesheet" type="text/css" />
-
-
     </head>
+
     <body>
         <div class="type-254">
             <div class="footer">
                 <div class="container">
                     <div class="row">
-                        <div class="col-lg-3 col-md-3 col-sm-6 col-xs12">
+                        <div class="col-lg-3 col-md-3 col-sm-6">
                             <div class="title-footer">
                                 <h2>Newsletter</h2>
                                 <p>Latest discounts and coupons</p>
@@ -42,36 +39,36 @@
                             </div>
                         </div>
 
-                        <div class="col-lg-3 col-md-3 col-sm-6 col-xs12">
+                        <div class="col-lg-3 col-md-3 col-sm-6">
                             <div class="title-footer">
                                 <h2>FAQ</h2>
                             </div>
                             <div class="text-footer">
-                                <p>Duis aute irure dolor?</p>
-                                <p>Sunt in culpa qui officia?</p>
-                                <p>Cillum dolore eu fugiat?</p>
-                                <p>Lorem Ipsum dolor sit?</p>
-                                <p>Dolor Sit Amet?</p>
-                                <p>Set Do Eiusmod?</p>
-                                <p>Excepteur sint occaecat?</p>
+                                <a href="#"><p>Duis aute irure dolor?</p></a>
+                                <a href="#"><p>Sunt in culpa qui officia?</p></a>
+                                <a href="#"><p>Cillum dolore eu fugiat?</p></a>
+                                <a href="#"><p>Lorem Ipsum dolor sit?</p></a> 
+                                <a href="#"><p>Dolor Sit Amet?</p></a> 
+                                <a href="#"><p>Set Do Eiusmod?</p></a>   
+                                <a href="#"><p>Excepteur sint occaecat?</p></a>
                             </div>
                         </div>
 
-                        <div class="col-lg-3 col-md-3 col-sm-6 col-xs12">
+                        <div class="col-lg-3 col-md-3 col-sm-6">
                             <div class="title-footer">
                                 <h2>About us</h2>
                             </div>
                             <div class="text-footer">
-                                <p>Sed ut perspiciatis unde</p>
-                                <p>Omnis iste natus error</p>
-                                <p>Sit voluptatem accusantium</p>
-                                <p>Doloremque laudantium</p>
-                                <p>Totam rem aperiameaque</p>
-                                <p>Ipsa quae ab illo inventore veritatis</p>
+                                <a href="#"><p>Sed ut perspiciatis unde</p></a>
+                                <a href="#"><p>Omnis iste natus error</p></a>
+                                <a href="#"><p>Sit voluptatem accusantium</p></a>
+                                <a href="#"><p>Doloremque laudantium</p></a>
+                                <a href="#"><p>Totam rem aperiameaque</p></a>
+                                <a href="#"><p>Ipsa quae ab illo inventore veritatis</p></a>
                             </div>
                         </div>
 
-                        <div class="col-lg-3 col-md-3 col-sm-6 col-xs12">
+                        <div class="col-lg-3 col-md-3 col-sm-6">
                             <div class="title-footer">
                                 <h2>Follow us</h2>
                             </div>
@@ -92,4 +89,3 @@
         </div>
     </body>
 </html>
-

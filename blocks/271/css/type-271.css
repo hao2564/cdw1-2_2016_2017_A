@@ -21,7 +21,7 @@
   font-family: 'Domine';
   font-weight: normal;
   font-style: normal;
-  color: #363d40;
+  color: #667279;
 }
 .type-271 h2 small {
   color: inherit;
@@ -86,4 +86,9 @@
   white-space: normal;
   border: none;
   background: transparent;
+}
+@media (max-width: 768px) {
+  .type-271 img {
+    width: 100% !important;
+  }
 }

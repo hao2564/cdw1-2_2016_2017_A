@@ -1,49 +1,50 @@
 .type-257 {
     @color_background: #24b6ac;
-    @color_font: #fff;
+    @color: #e5e5e5;
+    @color_font: #8f8f8f;
 
     section {
         padding: 70px 0;
     }
-    
+
+    .post {
+        margin-bottom: 60px;
+    }
+
     div {
         display: block;
     }
-    
+
     .listing-blog-wull-width {
         width: 100%;
         height: auto;
     }
-    
+
     img {
         max-width: 100%;
     }
 
-    .blog-meta {
-    padding: 20px 0;
+    .blog-post .blog-inner .image-placeholder {
+        padding: 0;
+        overflow: hidden;
     }
 
-    .item-meta {
-        padding: 12px 25px;
-        border-top: none;
+    .blog-meta {
+        padding: 20px 0;
     }
-    
+
     .blog-post-content {
         padding: 0 30px;
     }
-    
-    .blog-post-content {
-        padding: 0 30px;
-    }
-    
+
     .item-meta ul {
         margin-bottom: 0;
     }
-    
+
     .blog-meta ul {
         padding: 0;
     }
-    
+
     .blog-meta ul li a span {
         padding-right: 7px;
         vertical-align: baseline;
@@ -51,34 +52,35 @@
 
     .item-meta ul li a span {
         font-size: 14px;
+        color: #dadada;
     }
-    
+
     .blog-inner {
         position: relative;
-        border: 1px solid #e5e5e5;
+        border: 1px solid @color;
     }
-    
+
     .blog-inner-home {
         overflow: hidden;
     }
-    
+
     .green {
-        color: #24b6ac;
+        color: @color_background;
     }
     
     .item-meta ul li a, .item-meta ul li a:hover {
-    color: #8f8f8f;
+        color: @color_font;
     }
-    
+
     .item-meta ul li a {
         font-size: 12px;
-        color: #8f8f8f;
+        color: @color_font;
     }
-    
+
     .blog-single-lead-icon a span {
         font-size: 22px;
     }
-    
+
     .caption h3 {
         margin: 20px 0;
     }
@@ -87,19 +89,24 @@
         text-align: left;
         font-weight: 700;
     }
-    
+
     h3 {
         font-size: 18px;
     }
-    
+
     .blog-post .blog-inner .text p {
-        color: #8f8f8f;
+        color: @color_font;
     }
 
     p {
         font-size: 13px;
         line-height: 23px;
     }
+
+    a {
+        text-decoration: none;
+    }
+
     /*-----------REPONSIVE------------*/
     @media (min-width: 992px){
         .intro{

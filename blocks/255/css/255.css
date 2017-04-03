@@ -19,15 +19,6 @@
   display: block;
   margin-top: -3px;
 }
-.type-255 .special-item-inner {
-  border: 1px solid #e5e5e5;
-  background-color: #fff;
-  display: table;
-  min-height: 150px;
-  width: 100%;
-  text-align: center;
-  padding: 30px 20px;
-}
 .type-255 .shop-filter,
 .type-255 .to-top a {
   background: #24b6ac;
@@ -38,7 +29,7 @@
 }
 .type-255 .shop-filter ul li a,
 .type-255 .shop-filter ul li a:hover {
-  color: #ffffff;
+  color: #fff;
   text-decoration: none;
   font-size: 18px;
 }
@@ -57,7 +48,7 @@
 }
 .type-255 .to-top a {
   padding: 8px 7px;
-  color: #ffffff;
+  color: #fff;
 }
 .type-255 .single-letter-list ul li a {
   color: #000;

@@ -1,6 +1,7 @@
 .type-255 {
     @color_background: #24b6ac;
     @color_font: #fff;
+    @color: #e5e5e5;
 
     .green-bg {
         background: @color_background;
@@ -16,7 +17,7 @@
     
     .line-divider {
         display: block;
-        border-top: 1px solid #e5e5e5;
+        border-top: 1px solid @color;
         width: 100%;
         margin: 20px 0;
     }
@@ -28,28 +29,17 @@
         margin-top: -3px;
     }
     
-    .special-item-inner {
-        border: 1px solid #e5e5e5;
-        background-color: #fff;
-        display: table;
-        min-height: 150px;
-        width: 100%;
-        text-align: center;
-        padding: 30px 20px;
-    }
-    
     .shop-filter, .to-top a {
         background: @color_background;
     }
     
     .shop-filter {
         padding: 20px 0 10px 0;
-        background: #24b6ac;
+        background: @color_background;
     }
-
-    
+ 
     .shop-filter ul li a, .shop-filter ul li a:hover {
-        color: #ffffff;
+        color: @color_font;
         text-decoration: none;
         font-size: 18px;
     }
@@ -66,13 +56,13 @@
     }
     
     .to-top {
-        border-top: 1px solid #e5e5e5;
+        border-top: 1px solid @color;
         margin: 30px 0;
     }
     
     .to-top a {
         padding: 8px 7px;
-        color: #ffffff;
+        color: @color_font;
     }
     
     .single-letter-list ul li a {

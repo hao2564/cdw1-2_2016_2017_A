@@ -1,5 +1,6 @@
 .type-258 {
     @color_background: #24b6ac;
+    @color: #e5e5e5;
     @color_font: #fff;
 
     section {
@@ -9,40 +10,46 @@
     .widget .widget-inner form #searchsubmit:hover {
         background-color: #24caac;
         border-color: #24caac;
-        color: #fff;
+        color: @color_font;
     }
 
     .widget .widget-inner form #searchsubmit {
-        background: #24b6ac;
-        border: 1px solid #24b6ac;
+        background: @color_background;
+        border: 1px solid @color_background;
         padding: 2px 10px;
-        color: #fff;
+        color: @color_font;
     }
 
     .widget-caption {
         padding: 15px 20px;
-        border-top: 1px solid #e5e5e5;
-        border-bottom: 1px solid #e5e5e5;
+        border-top: 1px solid @color;
+        border-bottom: 1px solid #e5e5e5
     }
 
     .widget {
         padding-bottom: 30px;
+        .widget-inner{
+            overflow: visible;
+        }
     }
 
-    .widget .widget-inner {
-        overflow: visible;
+    .widget-line-divider {
+        margin: 2px 0;
     }
 
-    .blog-inner {
-        border-color: #e5e5e5;
+    .line-divider {
+        display: block;
+        border-top: 1px solid #e5e5e5;
+        width: 100%;
     }
 
     .blog-inner {
         position: relative;
-        border: 1px solid #e5e5e5;
+        border-color: @color;
+        border: 1px solid @color;
     }
 
-    .widget .widget-inner form#searchform, .footer .widget form#searchform {
+    .widget .widget-inner form#searchform {
         height: 80px;
         padding-top: 25px;
     }
@@ -50,11 +57,14 @@
     h4 {
         font-size: 15px;
         font-weight: 700;
+        margin-top: 0px;
+        margin-bottom: 0px;
+
     }
 
     .widget .widget-inner ul:not(.dd-custom) li {
         padding: 10px 20px;
-        border-bottom: 1px solid #e5e5e5;
+        border-bottom: 1px solid @color;
     }
 
     .widget .widget-inner ul {
@@ -64,12 +74,17 @@
 
     a {
         text-decoration: none;
-        color: #333;
+        color: #212121;
+    }
+
+    a:hover {
+        text-decoration: none;
+        color: #8f8f8f;
     }
 
     .right_widget .badge {
         background-color: #313030;
-        color: #ffffff;
+        color: @color_font;
     }
 
     .widget .badge {
@@ -88,17 +103,12 @@
         border-radius: 0;
     }
 
+    .widget ul.list-group li {
+        border-left: none;
+        border-right: none; 
+    }
+
     /*-----------REPONSIVE------------*/
-    @media (min-width: 992px){
-        .intro{
-            padding: 0;
-        }
-    }
-    @media (max-width: 991px){
-        .footer-info{
-            padding-left: 10px;
-        }
-    }
     @media (min-width: 768px){
         .intro{
             width: 960px;

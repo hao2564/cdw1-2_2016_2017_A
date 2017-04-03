@@ -1,6 +1,6 @@
 .type-259 {
-    @color_background: #24b6ac;
     @color: #e5e5e5;
+    @color-font: #fff;
 
     section {
         padding: 70px 0;
@@ -38,11 +38,18 @@
     h4 {
         font-size: 15px;
         font-weight: 700;
+        margin-top: 0px;
+        margin-bottom: 0px;
     }
 
     a {
         text-decoration: none;
-        color: #333;
+        color: #212121;
+    }
+
+    a:hover {
+        text-decoration: none;
+        color: #8f8f8f; 
     }
 
     .widget .widget-inner ul {
@@ -71,7 +78,7 @@
 
     .right_widget .badge {
         background-color: #313030;
-        color: #ffffff;
+        color: @color-font;
     }
 
     .widget .badge {

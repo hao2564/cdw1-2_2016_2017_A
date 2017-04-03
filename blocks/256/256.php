@@ -1,7 +1,5 @@
 <!DOCTYPE html>
-
 <html>
-
     <head>
         <title></title>
         <meta charset="UTF-8">
@@ -19,14 +17,13 @@
         $less->compileFile('less/256.less', 'css/256.css');
         ?>
         <link href="css/256.css" rel="stylesheet" type="text/css" />
-
     </head>
+
     <body>
         <div class="type-256">
             <section class="contact">
                 <div class="container">
                     <div class="row">
-
                         <div class="col-md-12">
                             <div class="caption category-caption">
                                 <h2>Contact</h2>
@@ -36,10 +33,8 @@
                                 </div>
                             </div>
                         </div>
-
                         <div class="col-md-12">
                             <div class="row">
-
                                 <div class="col-md-6">
                                     <div class="register clearfix">
                                         <div class="caption contact-caption">
@@ -47,36 +42,36 @@
                                                 <span class="green"><i class="fa fa-envelope-o"></i>
                                                 </span>Send Us A Mesage</h2>
                                         </div>
-                                        <div class="form register-form">
+                                        <div class="form">
                                             <div class="send_result"></div>
                                             <form action="" method="" class="contact_form">
                                                 <fieldset>
                                                     <div class="form-group">
                                                         <label>Your name</label>
-                                                        <input type="text" class="form-control form-control-custom" name="name">
+                                                        <input type="text" class="form-control" name="name">
                                                     </div>
                                                     <div class="form-group">
                                                         <label>Your email</label>
-                                                        <input type="email" class="form-control form-control-custom" name="email">
+                                                        <input type="email" class="form-control" name="email">
                                                     </div>
                                                     <div class="form-group">
                                                         <label>Subject</label>
-                                                        <input type="text" class="form-control form-control-custom" name="subject">
+                                                        <input type="text" class="form-control" name="subject">
                                                     </div>
                                                     <div class="form-group">
                                                         <label>Message</label>
-                                                        <textarea class="form-control form-control-custom message-control" name="message"></textarea>
+                                                        <textarea class="form-control message-control" name="message"></textarea>
                                                     </div>
                                                     <div class="clearfix">
-                                                        <button type="button" class="btn btn-custom btn-default send_contact">Send Message</button>
+                                                        <button type="button" class="btn btn-custom btn-default">Send Message</button>
                                                     </div>
                                                 </fieldset>
-                                                <input type="hidden" value="1" name="captcha"></form>
+                                                <input type="hidden" value="1" name="captcha">
+                                            </form>
                                         </div>
                                     </div>
                                 </div>
-
-                                <div class="col-md-6 main_content">
+                                <div class="col-md-6">
                                     <h3 style="text-align: left;"><strong>Lorem ipsum dolor sit</strong></h3>
                                     <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nobis, dolorum, placeat, pariatur fugit earum ex quidem esse mollitia maiores similique dicta quas hic delectus numquam aspernatur aperiam suscipit doloribus sint autem sequi eligendi tempora temporibus ad blanditiis debitis atque perspiciatis.</p>
                                     <h3 style="text-align: left;"><strong>Lorem ipsum dolor sit</strong></h3>
@@ -95,4 +90,3 @@
         </div>
     </body>
 </html>
-

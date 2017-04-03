@@ -1,3 +1,8 @@
+.type-256 p {
+  font-size: 13px;
+  line-height: 23px;
+  color: #6d6d6d;
+}
 .type-256 .green-bg {
   background: #24b6ac;
 }
@@ -30,19 +35,24 @@
   padding-bottom: 30px;
   font-weight: 700;
 }
-.type-256 .btn-custom:hover {
+.type-256 .btn-custom {
   background-color: #24b6ac;
-}
-.type-256 .btn.btn-custom {
-  background-color: #24b6ac;
-  color: #ffffff;
+  color: #fff;
+  outline: none;
+  box-shadow: none;
+  padding: 5px 25px;
+  border: none;
 }
 .type-256 .btn-custom:hover {
   background-color: #24caac;
   color: #fff;
   outline: none;
   box-shadow: none;
+  padding: 5px 25px;
   border: none;
+}
+.type-256 textarea.message-control {
+  height: 95px;
 }
 @media (min-width: 992px) {
   .type-256 .intro {

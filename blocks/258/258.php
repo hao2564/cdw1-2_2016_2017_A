@@ -1,7 +1,5 @@
 <!DOCTYPE html>
-
 <html>
-
     <head>
         <title></title>
         <meta charset="UTF-8">
@@ -19,8 +17,8 @@
         $less->compileFile('less/258.less', 'css/258.css');
         ?>
         <link href="css/258.css" rel="stylesheet" type="text/css" />
-
     </head>
+
     <body>
         <div class="type-258">
             <section class="blog-home">
@@ -34,7 +32,7 @@
                                     <div class="caption widget-caption">
                                         <h4>Search Blog</h4>
                                     </div>
-                                    <form role="search" method="get" id="searchform" class="searchform form-control-custom" action="http://demo.powerthemes.club/themes/couponer/">
+                                    <form role="search" method="get" id="searchform" class="form-control-custom" action="#">
                                         <div>
                                             <input type="text" value="" name="s" id="s" placeholder="Search...">
                                             <input type="submit" id="searchsubmit" value="Search">

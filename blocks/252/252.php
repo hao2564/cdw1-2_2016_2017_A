@@ -11,13 +11,10 @@
     $less = new lessc;
     $less->compileFile('less/252.less', 'css/252.css');
     ?>
-
     <link href="css/252.css" rel="stylesheet" type="text/css"/>
-
 </head>
 
 <body>
-
     <div class="type-252">
         <section class="categories">
             <div class="container">
@@ -42,7 +39,6 @@
                                     </div>
                                 </a>
                             </div>
-                           
                             <div class="special-item col-md-3">
                                 <a href="#">
                                     <div class="special-item-inner">
@@ -53,7 +49,6 @@
                                     </div>
                                 </a>
                             </div>
-                           
                             <div class="special-item col-md-3">
                                 <a href="#">
                                     <div class="special-item-inner">
@@ -64,7 +59,6 @@
                                     </div>
                                 </a>
                             </div>
-                           
                             <div class="special-item col-md-3">
                                 <a href="#">
                                     <div class="special-item-inner">

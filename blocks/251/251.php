@@ -18,6 +18,7 @@
         ?>
         <link href="css/251.css" rel="stylesheet" type="text/css" />
     </head>
+    
     <body>
         <div class="type-251">
             <div class="container">
@@ -43,7 +44,6 @@
                                 <li><a href="#">Categories</a></li>
                                 <li><a href="#">Contact</a></li> 
                                 <li><a href="#">Blog</a></li>
-
                                 <li class="active dropdown" >
                                     <a href="#" class="dropdown-toggle" data-toggle="dropdown">
                                         <i class="fa fa-unlock-alt" aria-hidden="true"></i>                                    </a>
@@ -53,20 +53,22 @@
                                         <li><a href="#"><i class="fa fa-sign-in"></i> Register </a></li>
                                     </ul>
                                 </li>
-                                </nav>
+                            </ul>
                         </div>
+                    </nav>
                 </div>
             </div>
+        </div>
+        <script>
+            $(".dropdown").hover(
+                    function () {
+                        $('.dropdown-menu', this).stop(true, true).fadeIn("fast");
+                        $(this).toggleClass('open');
+                    },
+                    function () {
+                        $('.dropdown-menu', this).stop(true, true).fadeOut("fast");
+                        $(this).toggleClass('open');
+                    });
+        </script>
     </body>
 </html>
-<script>
-    $(".dropdown").hover(
-            function () {
-                $('.dropdown-menu', this).stop(true, true).fadeIn("fast");
-                $(this).toggleClass('open');
-            },
-            function () {
-                $('.dropdown-menu', this).stop(true, true).fadeOut("fast");
-                $(this).toggleClass('open');
-            });
-</script>

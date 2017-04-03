@@ -1,4 +1,5 @@
 .type-271{
+    @color:rgba(102,114,121,1);
     margin-left: 50px;
     margin-right: 50px;
 
@@ -25,7 +26,7 @@
         font-weight: normal;
         font-style: normal;
 
-        color: rgba(54,61,64,1);
+        color: @color;
 
         small {
             color: inherit;
@@ -78,7 +79,7 @@
         color: rgba(54,61,64,1);
     }
     a:hover {
-        color: rgba(102,114,121,1);
+        color: @color;
     }
     .btn {
         height: auto;
@@ -97,5 +98,11 @@
         border: none;
         background: transparent;
     }
+    @media (max-width: 768px){
+        img{
+            width: 100% !important;
+        }
+       
 
+    }
 }

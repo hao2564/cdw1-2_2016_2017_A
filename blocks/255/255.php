@@ -1,5 +1,4 @@
 <!DOCTYPE html>
-
 <html>
     <head>
         <title></title>
@@ -36,8 +35,7 @@
                         </div>
                     </div>
                     <div class="row">
-                        <div class="col-md-12 main_content">
-                        </div>
+                        <div class="col-md-12"></div>
                     </div>
                 </div>
 
@@ -47,27 +45,27 @@
                             <div class="col-md-12">
                                 <ul class="list-unstyled list-inline">
                                     <li>
-                                        <a href="#A">A</a>
+                                        <a href="#">A</a>
                                     </li>
                                     <li>
-                                        <a href="#B">B</a>
+                                        <a href="#">B</a>
                                     </li>
                                     <li>
-                                        <a href="#C">C</a>
+                                        <a href="#">C</a>
                                     </li>
                                     <li>
-                                        <a href="#K">K</a>
+                                        <a href="#">K</a>
                                     </li>
                                     <li>
-                                        <a href="#P">P</a>
+                                        <a href="#">P</a>
                                     </li>
                                     <li>
-                                        <a href="#R">R</a></li>
+                                        <a href="#">R</a></li>
                                     <li>
-                                        <a href="#S">S</a>
+                                        <a href="#">S</a>
                                     </li>
                                     <li>
-                                        <a href="#T">T</a>
+                                        <a href="#">T</a>
                                     </li>					
                                 </ul>
                             </div>
@@ -349,7 +347,6 @@
                         </div>
 
                         <div class="row">
-                            <!-- 1 -->
                             <div class="col-md-3">
                                 <div class="single-letter-list">
                                     <ul>
