@@ -6,9 +6,8 @@
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
         <link href="css/font-awesome.min.css" rel="stylesheet" type="text/css" />
-        <script src="js/jquery-2.2.4.min.js" type="text/javascript"></script>
         <link href="css/bootstrap.min.css" rel="stylesheet" type="text/css" />
-        <script src="css/bootstrap.min.js" type="text/javascript"></script>
+        
         <?php
         if (!class_exists('lessc')) {
             include ('./libs/lessc.inc.php');
@@ -45,27 +44,28 @@
                             <div class="col-md-12">
                                 <ul class="list-unstyled list-inline">
                                     <li>
-                                        <a href="#">A</a>
+                                        <a href="#A">A</a>
                                     </li>
                                     <li>
-                                        <a href="#">B</a>
+                                        <a href="#B">B</a>
                                     </li>
                                     <li>
-                                        <a href="#">C</a>
+                                        <a href="#C">C</a>
                                     </li>
                                     <li>
-                                        <a href="#">K</a>
+                                        <a href="#K">K</a>
                                     </li>
                                     <li>
-                                        <a href="#">P</a>
+                                        <a href="#P">P</a>
                                     </li>
                                     <li>
-                                        <a href="#">R</a></li>
-                                    <li>
-                                        <a href="#">S</a>
+                                        <a href="#R">R</a>
                                     </li>
                                     <li>
-                                        <a href="#">T</a>
+                                        <a href="#S">S</a>
+                                    </li>
+                                    <li>
+                                        <a href="#T">T</a>
                                     </li>					
                                 </ul>
                             </div>
@@ -138,7 +138,6 @@
                         </div>
 
                         <div class="row">
-                            <!-- 1 -->
                             <div class="col-md-3">
                                 <div class="single-letter-list">
                                     <ul>

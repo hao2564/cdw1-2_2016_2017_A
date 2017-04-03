@@ -29,7 +29,7 @@
                     </div>
                     <div class="category-row col-md-12">
                         <div class="row">						
-                            <div class="special-item col-md-3">
+                            <div class="special-item col-md-3 col-xs-12 col-lg-3 col-sm-6">
                                 <a href="#">
                                     <div class="special-item-inner">
                                         <div class="special-icon">
@@ -39,7 +39,7 @@
                                     </div>
                                 </a>
                             </div>
-                            <div class="special-item col-md-3">
+                            <div class="special-item col-md-3 col-xs-12 col-lg-3 col-sm-6">
                                 <a href="#">
                                     <div class="special-item-inner">
                                         <div class="special-icon">
@@ -49,7 +49,7 @@
                                     </div>
                                 </a>
                             </div>
-                            <div class="special-item col-md-3">
+                            <div class="special-item col-md-3 col-xs-12 col-lg-3 col-sm-6">
                                 <a href="#">
                                     <div class="special-item-inner">
                                         <div class="special-icon">
@@ -59,7 +59,7 @@
                                     </div>
                                 </a>
                             </div>
-                            <div class="special-item col-md-3">
+                            <div class="special-item col-md-3 col-xs-12 col-lg-3 col-sm-6">
                                 <a href="#">
                                     <div class="special-item-inner">
                                         <div class="special-icon">
@@ -73,7 +73,7 @@
                     </div>
                     <div class="category-row col-md-12">
                         <div class="row">
-                            <div class="special-item col-md-3">
+                            <div class="special-item col-md-3 col-xs-12 col-lg-3 col-sm-6">
                                 <a href="#">
                                     <div class="special-item-inner">
                                         <div class="special-icon">

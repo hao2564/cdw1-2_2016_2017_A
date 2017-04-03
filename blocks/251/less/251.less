@@ -1,27 +1,248 @@
 .type-251{
-    @color: #24b6ac;
-    .navbar-default {
+    @color_background: #24b6ac;
+    @color_font: #fff;
+    @color: #e5e5e5;
+    @color_hover: #24b6ac;
+
+    .green-bg {
+        background: @color_background;
+    }
+
+    .category-caption {
+        padding-bottom: 60px;
+    }
+
+    .line-divider {
+        display: block;
+        border-top: 1px solid @color;
+        width: 100%;
+        margin: 20px 0;
+    }
+
+    .line-mask {
+        height: 5px;
+        width: 50px;
+        display: block;
+        margin-top: -3px;
+    }
+
+    .category-row {
+        padding-bottom: 60px;
+    }
+
+    .blog-inner .special-item {
+        position: initial;
+    }
+
+    .special-item .coupon-inner {
+        background: transparent;
+    }
+
+    .special-item-inner{
+        border-color: #e5e5e5;
+    }
+
+    .coupon-inner {
+        box-shadow: none;
         border: none;
-        background: none;
+        position: initial;
     }
 
-    .navbar-default .navbar-nav>li>a {
-        color: #000;
+    .orange {
+        color: #ff8b02;
     }
 
-    .navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:focus,
-        .navbar-default .navbar-nav>.active>a:hover, .navbar-default .navbar-nav>li>a:hover {
-        background: none;
-        color: @color;
+    .special-item-inner {
+        display: table;
+        min-height: 150px;
+        width: 100%;
+        text-align: center;
+        padding: 30px 20px;
     }
-    .navbar-nav{
-        padding: 15px;
+
+    .coupon-box {
+        padding-bottom: 60px;
     }
-    .navbar-brand img{
-        max-width: 60%;
+
+    .blog-inner {
+        position: relative;
+        border: 1px solid #e5e5e5;
+        border-color: #e5e5e5;
     }
-    .dropdown ul li a:hover{
-        background: @color;
+
+    .blog-inner .special-item {
+        position: initial;
+    }
+
+    .coupon-content {
+        border-color: #e5e5e5;
+        border-left: 1px solid #e5e5e5;
+    }
+
+    .blog-single-content {
+        padding: 30px;
+    }
+
+    .daily-offer-shop {
+        position: absolute;
+        top: 0;
+        right: 0;
+        background: #fff;
+        width: 70px;
+        padding: 7px;
+    }
+
+    img {
+        width: 100%;
+    }
+
+    .blog-single-lead-icon a span {
+        font-size: 22px;
+    }
+
+    .green {
+        color: #24b6ac;
+    }
+
+    a {
+        text-decoration: none;
+    }
+
+    .item-meta ul li a {
+        font-size: 12px;
+        color: #8f8f8f;
+    }
+
+    .blog-meta ul li a span {
+        padding-right: 7px;
+        vertical-align: baseline;
+    }
+
+    .blog-single-content .item-ratings {
+        color: #ff8b02;
+    }
+
+    .blog-single-content .item-ratings span {
+        color: #8f8f8f;
+        font-size: 11px;
+    }
+
+    p {
+        font-size: 13px;
+        line-height: 23px;
+        color: #6d6d6d;
+    }
+
+    h4 {
+        font-size: 15px;
+        font-weight: 700;
+        margin-top: 0;
+        font-family: 'Lato', sans-serif;
+    }
+
+    h2 {
+        margin-top: 0;
+        font-family: 'Lato', sans-serif;
+    }
+
+    .shop-promo-title {
+        margin-bottom: 25px;
+        margin-top: 25px;
+    }
+
+    .coupon-inner h2 {
+        font-size: 61px;
+        font-weight: 900;
+    }
+
+    coupon-inner h4 {
+        font-weight: 900;
+    }
+
+    .coupon-inner:before {
+        font-family: "FontAwesome";
+        font-size: 61px;
+        content: "\f0d8";
+        position: absolute;
+        left: 14%;
+        color: #e5e5e5;
+        bottom: -39px;
+    }
+
+    a.btn-padding, a.btn-padding:focus {
+        position: relative;
+        padding: 7px 0;
+        margin-right: 20px;
+        width: 100%;
+        box-sizing: border-box;
+    }
+
+    a.btn-top:before {
+        font-family: "FontAwesome";
+        font-size: 31px;
+        content: "\f0da";
+        position: absolute;
+        left: 14px;
+        color: #fff;
+        top: 128px;
+    }
+
+    a.btn-shop:before {
+        top: -2px;
+        left: -3px;
+    }
+
+    a.btn-top:after {
+        font-family: "FontAwesome";
+        font-size: 31px;
+        content: "\f0d9";
+        position: absolute;
+        right: 14px;
+        color: #fff;
+        top: 128px;
+    }
+
+    a.btn-shop:after {
+        top: -2px;
+        right: -3px;
+    }
+
+    a.blue-bg {
+        background: #2ca9e0;
+    }
+
+    a.btn-padding {
+        width: 100%;
+    }
+
+    a.btn-padding {
+        border-radius: 0;
+        outline: none;
+    }
+    a.btn-top {
+        font-size: 16px;
+        font-weight: 700;
+        text-transform: uppercase;
+        color: #fff;
+    }
+
+    .btn-default {
+        border-color: #fff;
+    }
+
+    .btn-default:hover {
+        border-color: #fff;
+        background-color: #69c2e9;
+    }
+
+    .blog-pagination ul li.active a {
+        background-color: #24b6ac;
+    }
+
+    .pagination>li>a:hover {
+        color: #fff;
+        background-color: #24b6ac;
+        border-color: #ddd;
     }
 
     @media (min-width: 768px){
