@@ -15,10 +15,8 @@
   padding-bottom: 9.8rem;
   padding-top: 9.8rem;
 }
-.type-274 .vc_column-inner {
-  padding-top: 0;
-}
-.type-274 figure {
+.type-274 wpb_content_element
+    figure {
   max-width: 100%;
   height: auto;
   border-radius: 2px;

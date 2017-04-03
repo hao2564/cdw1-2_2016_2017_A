@@ -1,5 +1,5 @@
 <div class="type-273">
-    <div class="vc_row wpb_row vc_row-fluid">
+    <div class="vc_row">
         <div class="vc_col-sm-6 vc_col-sm-offset-3">
             <div class="vc_column-inner ">              
                 <div class="wpb_content_element">                 

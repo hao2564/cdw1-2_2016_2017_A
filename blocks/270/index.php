@@ -14,9 +14,7 @@
         <link href="css/type-270.css" rel="stylesheet" type="text/css" /> 
         <link rel="stylesheet" type="text/css" href="css/font-awesome.min.css">
         <link href="css/bootstrap.min.css" rel="stylesheet">
-        <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
-
-        <script type="text/javascript" src="js/jquery-2.2.4.min.js"></script>
+      
       
         <title>type-270</title>
     </head>
@@ -24,9 +22,7 @@
     <body>
         <?php
         include 'type-270.php';
-        ?>
-       
-     
+        ?>  
     </body>
 
 </html>
