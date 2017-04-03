@@ -6,8 +6,7 @@
         <title></title>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
-        <link href="css/font-awesome.min.css" rel="stylesheet" type="text/css" />
+        <link href="css/font-awesome.min.css" rel="stylesheet" type="text/css"/>
         <script src="js/jquery-2.2.4.min.js" type="text/javascript"></script>
         <link href="css/bootstrap.min.css" rel="stylesheet" type="text/css" />
         <script src="css/bootstrap.min.js" type="text/javascript"></script>
@@ -26,52 +25,66 @@
         <div class="type-1">
             <div class="container">
                 <div class="row">
-                    <nav class="navbar navbar-default">
-                        <div class="navbar-header">
-                            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
-                                <span class="icon-bar"></span>
-                                <span class="icon-bar"></span>
-                                <span class="icon-bar"></span> 
-                            </button>
-                            <a class="navbar-brand" href="#">
-                                <img src="images/logo.png" alt=""/>
-                            </a>
-                        </div>
-                        <div class="collapse navbar-collapse" id="myNavbar">
-                            <ul class="nav navbar-nav">
-                                <li class="active"><a href="#">Home</a></li>
-                                <li><a href="#">All Shops</a></li>
-                                <li><a href="#">Top 20</a></li> 
-                                <li><a href="#">Daily Offers</a></li>
-                                <li><a href="#">Expiring</a></li>
-                                <li><a href="#">Categories</a></li>
-                                <li><a href="#">Contact</a></li> 
-                                <li><a href="#">Blog</a></li>
-                                <!-----Drop down------>
-                                <li class="active dropdown" >
-                                    <a href="#" class="dropdown-toggle" data-toggle="dropdown">
-                                        <i class="fa fa-unlock-alt" aria-hidden="true"></i>                                    </a>
-                                    <ul class="dropdown-menu">
-                                        <li><a href="#"><i class="fa fa-lock"></i> Login</a></li>
-                                        <li><a href="#"><i class="fa fa-tags"></i> Submit</a> </li>
-                                        <li><a href="#"><i class="fa fa-sign-in"></i> Register </a></li>
-                                    </ul>
-                                </li>
+                    <div class="col-md-12 col-sm-12 col-xs-12">
+                        <div class="carousel slide" data-ride="carousel" id="quote-carousel">
+                            <!-- Carousel Slides / Quotes -->
+                            <div class="carousel-inner">
+                                <!-- Quote 1 -->
+                                <div class="item active">
+                                    <blockquote>
+                                        <div class="row">
+                                            <div class="col-md-12 col-sm-12 col-xs-12">
+                                                <div class="thumb-img">
+                                                    <img src="images/a.jpg" alt=""/>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </blockquote>
+                                </div>
+                                <!-- Quote 2 -->
+                                <div class="item">
+                                    <blockquote>
+                                        <div class="row">
+                                            <div class="col-md-12 col-sm-12 colxs-12">
+                                                <div class="thumb-img">
+                                                    <img src="images/b.jpg" alt=""/>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </blockquote>
+                                </div>
+                                <!-- Quote 3 -->
+                                <div class="item">
+                                    <blockquote>
+                                        <div class="row">
+                                            <div class="col-md-12 col-sm-12 col-xs-12">
+                                                <div class="thumb-img">
+                                                    <img src="images/shopping1.jpg" alt=""/>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </blockquote>
+                                </div>
+                            </div>
 
-                                </nav>
-                        </div>
+                            <!-- Carousel Buttons Next/Prev -->
+                            <a data-slide="prev" href="#quote-carousel" class="left carousel-control"><i class="fa fa-chevron-left"></i></a>
+                            <a data-slide="next" href="#quote-carousel" class="right carousel-control"><i class="fa fa-chevron-right"></i></a>
+                        </div>                          
+
+
+                    </div>
                 </div>
             </div>
+        </div>
     </body>
 </html>
 <script>
-    $(".dropdown").hover(
-            function () {
-                $('.dropdown-menu', this).stop(true, true).fadeIn("fast");
-                $(this).toggleClass('open');
-            },
-            function () {
-                $('.dropdown-menu', this).stop(true, true).fadeOut("fast");
-                $(this).toggleClass('open');
-            });
+    $(document).ready(function () {
+        //Set the carousel options
+        $('#quote-carousel').carousel({
+            pause: true,
+            interval: false
+        });
+    });
 </script>
