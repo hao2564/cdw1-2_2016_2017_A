@@ -134,7 +134,6 @@
 .type-251 a.btn-padding,
 .type-251 a.btn-padding:focus {
   position: relative;
-  padding: 7px 0;
   margin-right: 20px;
   width: 100%;
   box-sizing: border-box;
@@ -176,7 +175,7 @@
   outline: none;
 }
 .type-251 a.btn-top {
-  font-size: 16px;
+  font-size: 11px;
   font-weight: 700;
   text-transform: uppercase;
   color: #fff;
