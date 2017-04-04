@@ -6,21 +6,6 @@
     width: 66.66666667%;
   }
 }
-.type-272 .white-box.content-padding.content-padding {
-  padding: 5.6rem;
-}
-.type-272 .fs-background .container,
-.type-272 .fs-background div:first-of-type {
-  z-index: 1;
-  position: relative;
-}
-.type-272 .white-box {
-  border-radius: 2px;
-}
-.type-272 .fs-background div:first-of-type {
-  z-index: 1;
-  position: relative;
-}
 .type-272 .list-services {
   list-style: none;
   text-align: center;
