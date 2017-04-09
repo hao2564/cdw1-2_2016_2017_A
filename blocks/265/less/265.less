@@ -1,81 +1,47 @@
 .type-265{
-    @font20:20px;
-    @font60:60px;
-    .banner{
-        background: url(../images/12.jpg) no-repeat fixed;
-        padding: 110px 0;
-        background-size: cover;
+    @color: #24b6ac;
+    .navbar-default {
+        border: none;
+        background: none;
     }
-    .categories{
-        text-align: center;
-        color: #fff;
-    }
-    .categories h1{
-        margin-bottom: 25px;
-        font-size: @font60;
-        font-weight: 700;
 
-    }
-    .categories p{
-        font-size: @font20;
-        font-weight: 100;
-        margin-bottom: 50px;
-    }
-    .khoangcach{
-        margin-top: 20px
-    }
-    .form-horizontal .has-feedback .form-control-feedback{
-        top: 11px;
-    }
-    .icon-left{
-        left: 15px;
-    }
-    .form-horizontal .form-group input{
-        padding-left: 54px;
-        border-radius: 0;
-        background: #292929;
-        height: 60px;
-        border: 1px solid #000;
-    }
-    .form-horizontal .form-group{
-        margin-left: 0;
-        margin-right: 0;
-    }
-    .has-feedback{
-        color: #fff;
-        font-size: 16px;
-    }
-    .btn-group, .btn-group-vertical{
-        height: 60px;
-        border-radius: 0;
-    }
-    .dropdown-menu{
-        width: 100%;
-    }
-    .dropdown-menu>li>a{
-        padding: 15px 20px;
-        border-bottom: 1px solid #eee;
-    }
-    .btn-default:hover{
+    .navbar-default .navbar-nav>li>a {
         color: #000;
-        background:none;
-        border: none;
     }
-    .dropdown-menu>li>a:focus, .dropdown-menu>li>a:hover{
-        background: #212121;
-        color: #fff;
+
+    .navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:focus,
+        .navbar-default .navbar-nav>.active>a:hover, .navbar-default .navbar-nav>li>a:hover {
+        background: none;
+        color: @color;
     }
-    .btn-default{
-        border: none;
-        box-shadow: none;
+    .navbar-nav{
+        padding: 15px;
     }
-    .btn-default.active, .btn-default:active, .open>.dropdown-toggle.btn-default{
-        background: #fff;
-        border: none;
+    .navbar-brand img{
+        max-width: 60%;
     }
-    .btn-left-icon{
-        left: 15px;
-        position: absolute;
+    .dropdown ul li a:hover{
+        background: @color;
     }
-    
+
+    @media (min-width: 768px){
+        .navbar-nav{
+            float: right;
+        }
+    }
+    @media (max-width: 767px){
+        .navbar-nav{
+            text-align: center;
+        }
+        .navbar-toggle{
+            margin-top: 27px;
+            z-index: 1000;
+        }
+        .dropdown-menu>li>a{
+           text-align: center;
+        }
+        .navbar-default .navbar-collapse, .navbar-default .navbar-form{
+            border: none;
+        }
+    }
 }

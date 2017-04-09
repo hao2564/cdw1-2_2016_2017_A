@@ -1,0 +1,101 @@
+.type-296 .player {
+  width: 100%;
+  background: url("../images/player-bg.jpg") center center / cover no-repeat fixed;
+  padding: 70px 0;
+}
+.type-296 .icon-player {
+  padding: 15px;
+  color: #fff;
+  font-size: 23px;
+  font-weight: bold;
+}
+.type-296 .well {
+  background: none;
+  border: none;
+}
+.type-296 .number {
+  float: left;
+  font-size: 50px;
+  color: #e8e8e8;
+  font-weight: bold;
+}
+.type-296 .name {
+  float: left;
+  padding-left: 8px;
+  color: #fff;
+}
+.type-296 .name h3 {
+  margin: 15px 0 0;
+  font-size: 16px;
+  font-weight: bold;
+}
+.type-296 .span3 {
+  padding: 0;
+}
+.type-296 .span3  img {
+  width: 100%;
+}
+.type-296 .span3:hover img {
+  opacity: 0.85;
+}
+.type-296 .view {
+  color: #aa4243;
+  font-size: 12px;
+  padding-left: 5px;
+}
+.type-296 .view:hover {
+  cursor: pointer;
+  color: #aa5f63;
+}
+.type-296 .thumbnail {
+  border: none;
+  border-radius: 0;
+  padding: 0;
+}
+.type-296 .carousel-indicators {
+  bottom: -50px;
+}
+.type-296 .carousel-indicators li {
+  background: #c0c0c0;
+  border: none;
+}
+.type-296 .carousel-indicators .active {
+  background: #333333;
+}
+.type-296 .carousel-indicators li {
+  background: #575757;
+}
+.type-296 .carousel-indicators .active {
+  border: 1px solid ;
+  background: none;
+}
+.type-296 .left carousel-control {
+  right: 0;
+}
+.type-296 .btn-click {
+  position: absolute;
+  right: 113px;
+  top: -51px;
+  line-height: 0;
+  margin-top: 5px;
+  background: #aa4243;
+  border-radius: 50%;
+}
+.type-296 .btn-click a {
+  font-weight: bold;
+  border: 1px solid rgba(255,255,255,0.2);
+  font-size: 30px;
+  width: 40px;
+  height: 40px;
+  line-height: 40px;
+  top: -15px;
+  right: -100px;
+  color: #fff;
+  background: #aa4243;
+  border-radius: 50%;
+}
+@media (max-width: 767px) {
+  .type-296 .icon-player {
+    margin-bottom: 30px;
+  }
+}

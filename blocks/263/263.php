@@ -24,58 +24,49 @@
     </head>
     <body>
         <div class="type-263">
-            <div class="container">
-                <div class="row">
-                    <nav class="navbar navbar-default">
-                        <div class="navbar-header">
-                            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
-                                <span class="icon-bar"></span>
-                                <span class="icon-bar"></span>
-                                <span class="icon-bar"></span> 
-                            </button>
-                            <a class="navbar-brand" href="#">
-                                <img src="images/logo.png" alt=""/>
-                            </a>
+            <div class="banner">
+                <div class="container">
+                    <div class="categories">
+                        <h1>Contact</h1>
+                        <p>Over 17 working discount & coupon codes is active for 3 users, enjoy!</p>
+                    </div>
+                    <div class="clearfix"></div>
+                    <div class="row">
+                        <!-------type shop name-------->
+                        <div class="col-md-6 col-xs-12">
+                            <form class="form-horizontal search-coupon" role="search">
+                                <div class="form-group has-feedback">
+                                    <span class="fa fa-search form-control-feedback icon-left"></span>
+                                    <input type="text" name="search" id="search" class="form-control" placeholder="Type shop name">
+                                   
+                                </div>
+                            </form>
                         </div>
-                        <div class="collapse navbar-collapse" id="myNavbar">
-                            <ul class="nav navbar-nav">
-                                <li class="active"><a href="#">Home</a></li>
-                                <li><a href="#">All Shops</a></li>
-                                <li><a href="#">Top 20</a></li> 
-                                <li><a href="#">Daily Offers</a></li>
-                                <li><a href="#">Expiring</a></li>
-                                <li><a href="#">Categories</a></li>
-                                <li><a href="#">Contact</a></li> 
-                                <li><a href="#">Blog</a></li>
-                                <li class="active dropdown" >
-                                    <a href="#" class="dropdown-toggle" data-toggle="dropdown">
-                                        <i class="fa fa-unlock-alt" aria-hidden="true"></i>                                    </a>
-                                    <ul class="dropdown-menu">
-                                        <li><a href="#"><i class="fa fa-lock"></i> Login</a></li>
-                                        <li><a href="#"><i class="fa fa-tags"></i> Submit</a> </li>
-                                        <li><a href="#"><i class="fa fa-sign-in"></i> Register </a></li>
-                                    </ul>
-                                </li>
-                            </ul>
+                        <!-------categori-------->
+                        <div class="col-md-6 xs-12">
+                            <div class="btn-group btn-categories form-control">
+                                <button type="button" class="btn btn-categories btn-default btn-default btn-lg dropdown-toggle form-control" data-toggle="dropdown">
+                                    <span class="fa fa-bars btn-left-icon">    Categories</span>									
+                                    <span class="fa fa-angle-down pull-right categories-angle-icon"></span>
+                                </button>
+                                <ul class="dropdown-menu dd-custom dd-widget" role="menu">
+                                    <li><a href="#"><i class="fa fa-laptop fa-fw"></i> Computers</a></li>
+                                    <li><a href="#"><i class="fa fa-home fa-fw"></i> House</a></li>
+                                    <li><a href="#"><i class="fa fa-picture-o fa-fw"></i> Photography</a></li>
+                                    <li><a href="#"><i class="fa fa-users fa-fw"></i> Students</a></li>
+                                    <li><a href="#"><i class="fa fa-scissors fa-fw"></i> Technology</a></li>
+                                    <li><a href="#"><i class="fa fa-child fa-fw"></i> Baby</a></li>
+                                    <li><a href="#"><i class="fa fa-book fa-fw"></i> Books &amp; Movies</a></li>
+                                    <li><a href="#"><i class="fa fa-car fa-fw"></i> Cars</a></li>
+                                    <li><a href="#"><i class="fa fa-music fa-fw"></i> Music</a></li>
+                                    <li><a href="#"><i class="fa fa-paw fa-fw"></i> Pet Care</a></li>
+                                    <li><a href="#"><i class="fa fa-plane fa-fw"></i> Travel</a></li>								</ul>
+                            </div>
                         </div>
-                    </nav>
+                    </div>
                 </div>
             </div>
         </div>
-    </div>
-</div>
-</div>
-</body>
+    </body>
 </html>
-<script>
-    $(".dropdown").hover(
-            function () {
-                $('.dropdown-menu', this).stop(true, true).fadeIn("fast");
-                $(this).toggleClass('open');
-            },
-            function () {
-                $('.dropdown-menu', this).stop(true, true).fadeOut("fast");
-                $(this).toggleClass('open');
-            });
-</script>
 
