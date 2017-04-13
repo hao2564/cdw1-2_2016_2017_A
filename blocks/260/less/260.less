@@ -1,37 +1,33 @@
 .type-1{
-    @color-black:#000;
-    .thumb-img img{
+    img{
         width: 100%;
     }
-    .carousel-control.right{
-        background: none;
-        position: absolute;
-        top:calc(50% - 5px);
-        color: @color-black;
-        text-shadow: 1px 1px 0 rgba(255,255,255,0.3);
 
-    }
-    .carousel-control.left{
-        background: none;
+
+    .swiper-button-next, .swiper-button-prev {
+        box-shadow: 1px rgba(0,0,0,0.7);
         position: absolute;
-        top:calc(50% - 5px);
-        color:@color-black;
-        text-shadow: 1px 1px 0 rgba(255,255,255,0.3);
+        display: block;
+        cursor: pointer;
+        top: 35%;
+        margin-top: -29px;
+        height: 58px;
+        width: 58px;
+        line-height: 62px;
+        font-size: 60px;
+        color: gray;
+        z-index: 50;
+        text-align: center;
+        filter: alpha(opacity=20);       
+        transition: opacity 0.2s ease;
     }
-    blockquote{
-        border: none;
+    .swiper-button-prev,.swiper-button-next{
+        background: none;
     }
-    .fa{
-        font-size: 30px;
+    swiper-button-prev{
+        left: 20px;
     }
-    @media (max-width: 767px){
-        .carousel-control.left{
-            left: 10px;
-            top:calc(40% - 5px);
-        }
-        .carousel-control.right{
-            right: 10px;
-            top:calc(40% - 5px);
-        }
-    }
+    #swiper_btn_next{
+        right: 20px;
+    }   
 }
