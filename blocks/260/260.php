@@ -8,7 +8,6 @@
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
         <link href="css/font-awesome.min.css" rel="stylesheet" type="text/css" />
-        <script src="js/jquery-2.2.4.min.js" type="text/javascript"></script>
         <link href="css/bootstrap.min.css" rel="stylesheet" type="text/css" />
         <link href="css/swiper.min.css" rel="stylesheet" type="text/css"/>
         <script src="js/swiper.min.js" type="text/javascript"></script>
