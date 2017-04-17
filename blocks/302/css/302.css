@@ -1,0 +1,83 @@
+.type-302 img {
+  width: 100%;
+}
+.type-302 .swiper-button-next,
+.type-302 .swiper-button-prev {
+  position: absolute;
+  display: block;
+  cursor: pointer;
+  top: 30%;
+  height: 58px;
+  width: 58px;
+  line-height: 62px;
+  font-size: 40px;
+  color: #fff;
+  z-index: 50;
+  text-align: center;
+  border-radius: 6px;
+  filter: alpha(opacity=20);
+  transition: opacity 0.2s ease;
+}
+.type-302 .swiper-button-prev,
+.type-302 .swiper-button-next {
+  background: none;
+}
+.type-302 swiper-button-prev {
+  left: 20px;
+}
+.type-302 #swiper_btn_next {
+  right: 20px;
+}
+.type-302 .wellcome {
+  color: #7a6b9d;
+  position: absolute;
+  top: 20%;
+  left: 40%;
+  font-weight: bold;
+}
+.type-302 .wellcome h3 {
+  color: #471715;
+  font-size: 55px;
+}
+.type-302 .wellcome h1 {
+  font-size: 70px;
+  color: #fff;
+  font-weight: 700;
+}
+.type-302 .wellcome h5 {
+  float: right;
+  font-size: 40px;
+  color: #fff;
+}
+.type-302 .thumb {
+  position: absolute;
+  top: 35%;
+  left: 37%;
+}
+.type-302 .thumb h1 {
+  font-size: 70px;
+  color: #fff;
+  font-weight: bold;
+}
+.type-302 .thumb h5 {
+  font-size: 40px;
+  color: #fff;
+  left: 30%;
+}
+@media (max-width: 767px) {
+  .type-302 .wellcome h1 {
+    font-size: 22px;
+  }
+  .type-302 .wellcome h3 {
+    font-size: 20px;
+  }
+  .type-302 .wellcome h5 {
+    font-size: 15px;
+  }
+  .type-302 .thumb h1 {
+    font-size: 22px;
+  }
+  .type-302 .thumb h5 {
+    font-size: 15px;
+  }
+}
