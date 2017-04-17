@@ -1,0 +1,50 @@
+.type-303{
+    @color-black: #000;
+    @color-white:#fff;
+    thead{
+        background: @color-black;
+        color: @color-white;
+    }
+    .pts{
+        font-weight: bold;
+    }
+    .team{
+        margin: 0 15px;
+    }
+    .number{
+        margin-right: 15px;
+    }
+    .table{
+        border: 1px solid #eee;
+        margin: 0;
+    }
+    img{
+        width: 12%;
+    }
+    .viewfull{
+        margin: 0;
+        background: #aa4243;
+        text-align: center;
+        padding: 15px;
+    }
+    .viewfull a{
+        font-weight: bold;
+        text-decoration: none;
+        color: #fff;
+        a:hover{
+            cursor: pointer;
+        }
+    }
+    tbody>tr>td{
+        border: none;
+        background: #e5e5e5;
+    }
+    @media (max-width:480px){
+        .team{
+            margin: 0;
+        }
+        .number{
+            margin: 2px;
+        }
+    }
+}

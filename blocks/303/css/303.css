@@ -1,0 +1,46 @@
+.type-303 thead {
+  background: #000;
+  color: #fff;
+}
+.type-303 .pts {
+  font-weight: bold;
+}
+.type-303 .team {
+  margin: 0 15px;
+}
+.type-303 .number {
+  margin-right: 15px;
+}
+.type-303 .table {
+  border: 1px solid #eee;
+  margin: 0;
+}
+.type-303 img {
+  width: 12%;
+}
+.type-303 .viewfull {
+  margin: 0;
+  background: #aa4243;
+  text-align: center;
+  padding: 15px;
+}
+.type-303 .viewfull a {
+  font-weight: bold;
+  text-decoration: none;
+  color: #fff;
+}
+.type-303 .viewfull a a:hover {
+  cursor: pointer;
+}
+.type-303 tbody>tr>td {
+  border: none;
+  background: #e5e5e5;
+}
+@media (max-width: 480px) {
+  .type-303 .team {
+    margin: 0;
+  }
+  .type-303 .number {
+    margin: 2px;
+  }
+}
