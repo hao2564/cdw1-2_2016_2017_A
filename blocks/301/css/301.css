@@ -1,0 +1,82 @@
+.type-301 .nav-tabs {
+  margin-bottom: 15px;
+  border-bottom: 1px solid #787878;
+  background: none;
+}
+.type-301 .nav-tabs>li.active>a,
+.type-301 .nav-tabs>li.active>a:focus,
+.type-301 .nav-tabs>li.active>a {
+  border: none;
+  font-weight: bold;
+}
+.type-301 .nav-tabs>li>a {
+  color: #393939;
+  font-weight: bold;
+}
+.type-301 .nav-tabs>li>a:hover {
+  background: none;
+  border: none;
+}
+.type-301 .line-right {
+  margin: 0 5px;
+}
+.type-301 .result-even {
+  background: #f3f3f3;
+  padding: 25px 20px;
+}
+.type-301 .result-odd {
+  background: #ebebeb;
+  padding: 25px 20px;
+}
+.type-301 .info {
+  text-align: center;
+}
+.type-301 .info img {
+  width: 20%;
+}
+.type-301 .info .team-name {
+  font-size: 12px;
+}
+.type-301 .date {
+  font-style: italic;
+  font-size: 18px;
+}
+.type-301 .readmore {
+  color: #aa4243;
+  float: right;
+}
+.type-301 .result {
+  font-size: 20px;
+  text-align: center;
+}
+.type-301 .month {
+  color: #aa4243;
+}
+.type-301 .month h1 {
+  font-size: 20px;
+  margin-bottom: 15px;
+}
+@media (max-width: 767px) {
+  .type-301 .date {
+    text-align: center;
+    padding: 10px;
+  }
+  .type-301 .info {
+    text-align: center;
+  }
+  .type-301 .info img {
+    width: 10%;
+  }
+  .type-301 .info .nick-name {
+    font-size: 12px;
+  }
+  .type-301 .info .result {
+    display: block;
+    font-size: 20px;
+  }
+  .type-301 .readmore {
+    padding: 10px;
+    float: none;
+    text-align: center;
+  }
+}

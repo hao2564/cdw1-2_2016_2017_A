@@ -1,0 +1,87 @@
+.type-301{
+    @color-tab:#393939;
+    @bg-even:#f3f3f3;
+    @bg-odd:#ebebeb;
+    .nav-tabs{
+        margin-bottom: 15px;
+        border-bottom: 1px solid #787878;
+        background: none;
+    }
+    .nav-tabs>li.active>a, .nav-tabs>li.active>a:focus, .nav-tabs>li.active>a{
+        border: none;
+        font-weight: bold;
+    }
+    .nav-tabs>li>a{
+        color: @color-tab;
+        font-weight: bold;
+    }
+    .nav-tabs>li>a:hover{
+        background: none;
+        border: none;
+    }
+    .line-right{
+        margin: 0 5px;
+    }
+    .result-even{
+        background: @bg-even;
+        padding: 25px 20px;
+    }
+    .result-odd{
+        background: @bg-odd;
+        padding: 25px 20px;
+    }
+    .info{
+        text-align:center;
+        img{
+            width: 20%;
+
+        }
+        .team-name{
+            font-size: 12px;
+        }
+    }
+    .date{
+        font-style: italic;
+        font-size: 18px;
+    }
+    .readmore{
+        color: #aa4243;
+        float: right;
+    }
+    .result{
+        font-size: 20px;
+        text-align: center;
+    }
+    .month{
+        color: #aa4243;
+        h1{
+            font-size: 20px;
+            margin-bottom: 15px;
+        }
+    }
+    @media(max-width:767px){
+        .date{
+            text-align: center;
+            padding: 10px;
+        }
+        .info{
+            text-align: center;
+            img{
+                width: 10%;
+            }
+            .nick-name{
+                font-size: 12px;
+            }
+            .result{
+                display: block;
+                font-size: 20px;
+               
+            }
+        }
+        .readmore{
+            padding: 10px;
+            float: none;
+             text-align: center;
+        }
+    }
+}
