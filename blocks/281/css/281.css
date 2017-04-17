@@ -1,0 +1,58 @@
+.type-281 img {
+  width: 100%;
+  height: auto;
+}
+.type-281 .padding {
+  margin-top: 40px;
+}
+.type-281 a {
+  text-decoration: none;
+  color: #303030;
+}
+.type-281 h3 a:hover {
+  text-decoration: none;
+  color: #808080;
+}
+.type-281 .portfolio-title {
+  font-size: 14px;
+  font-weight: bold;
+  text-transform: uppercase;
+  margin-bottom: 10px;
+}
+.type-281 h3 {
+  text-align: center;
+}
+.type-281 .gdlr-portfolio-info {
+  text-align: center;
+}
+.type-281 .portfolio-info {
+  font-size: 11px;
+  text-transform: uppercase;
+  margin-bottom: 15px;
+}
+.type-281 .portfolio-info a {
+  color: #a2a2a2;
+}
+.type-281 .info-head {
+  display: none;
+}
+.type-281 .excerpt-read-more {
+  display: none;
+}
+.type-281 .portfolio-excerpt {
+  text-align: center;
+  color: #303030;
+}
+.type-281 img {
+  transition: all 0.5s ease;
+  -webkit-transition: all 0.5s ease;
+  -moz-transition: all 0.5s ease;
+  -o-transition: all 0.5s ease;
+}
+.type-281 img:hover {
+  transform: scale(1.1,1.1);
+  -webkit-transform: scale(1.1,1.1);
+  -moz-transform: scale(1.1,1.1);
+  -o-transform: scale(1.1,1.1);
+  -ms-transform: scale(1.1,1.1);
+}

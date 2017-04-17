@@ -1,0 +1,109 @@
+.type-280 {
+  background-color: #262626;
+}
+.type-280 .footer-wrapper .gdlr-widget-title {
+  color: #dddddd;
+}
+.type-280 .footer-wrapper {
+  color: #bfbfbf;
+}
+.type-280 .footer-wrapper * {
+  border-color: #363636;
+}
+.type-280 .footer-wrapper .gdlr-widget-title,
+.type-280 .footer-wrapper .gdlr-widget-title a {
+  color: #dddddd;
+}
+.type-280 .footer-wrapper .gdlr-widget-title {
+  margin-bottom: 35px;
+}
+.type-280 .gdlr-widget-title {
+  font-size: 16px;
+  font-weight: bold;
+  margin-bottom: 25px;
+  text-transform: uppercase;
+}
+.type-280 p {
+  margin-bottom: 20px;
+}
+.type-280 .gdlr-item {
+  margin: 0px 15px 20px;
+  min-height: 1px;
+}
+.type-280 .recent-post-widget .recent-post-widget-thumbnail {
+  max-width: 70px;
+  float: left;
+  margin-right: 15px;
+}
+.type-280 img {
+  max-width: 100%;
+  height: auto;
+  width: auto;
+}
+.type-280 .recent-post-widget .recent-post-widget-content {
+  margin-top: 5px;
+}
+.type-280 a {
+  text-decoration: none;
+}
+.type-280 .footer-wrapper a {
+  color: #7f7f7f;
+}
+.type-280 .footer-wrapper a:hover {
+  color: #cecece;
+}
+.type-280 .recent-post-widget {
+  margin-bottom: 25px;
+  border-bottom-width: 1px;
+  border-bottom-style: solid;
+  padding-bottom: 25px;
+}
+.type-280 .gdlr-recent-comment-widget .recent-comment-widget-thumbnail {
+  overflow: hidden;
+  float: left;
+  margin-right: 20px;
+  border-radius: 50%;
+}
+.type-280 .gdlr-recent-comment-widget .recent-comment-widget-title {
+  font-size: 12px;
+  font-weight: bold;
+  text-transform: uppercase;
+  margin-bottom: 5px;
+}
+.type-280 .gdlr-recent-comment-widget .recent-comment-widget-info {
+  font-size: 11px;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+.type-280 .recent-comment-widget-excerpt {
+  font-size: 11px;
+}
+.type-280 .product-categories .fa {
+  margin-right: 30px;
+}
+.type-280 .gdlr-recent-comment-widget .recent-commnet-widget {
+  padding-bottom: 20px;
+  margin-bottom: 20px;
+  border-bottom-width: 1px;
+  border-bottom-style: solid;
+}
+.type-280 .product-categories {
+  list-style: none;
+}
+.type-280 .list {
+  margin-left: -36px;
+  margin-bottom: 10px;
+  border-bottom-width: 1px;
+  border-bottom-style: solid;
+  padding-bottom: 10px;
+}
+@media (min-width: 768px) {
+  .type-280 .navbar-nav {
+    float: right;
+  }
+}
+@media (max-width: 767px) {
+  .type-280 .navbar-nav {
+    text-align: center;
+  }
+}
