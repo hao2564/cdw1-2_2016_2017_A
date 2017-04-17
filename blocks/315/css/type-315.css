@@ -1,0 +1,81 @@
+.type-315 .shop {
+  text-align: center;
+  margin-bottom: 50px;
+}
+.type-315 .star-rating {
+  font-size: .857em;
+  margin: 0 0 .5em;
+  color: #aa4243;
+  margin-bottom: 20px;
+}
+.type-315 .image img {
+  width: 100%;
+}
+.type-315 .image .onsale {
+  margin: -17px -2px 0 0;
+  top: 0;
+  right: 0;
+  left: auto;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  font-size: 10px;
+  line-height: 50px;
+  color: #ffffff;
+  background: #aa4243;
+  position: absolute;
+  border-radius: 25px;
+  min-width: 50px;
+}
+.type-315 .price p {
+  color: #333333;
+  font-weight: 600;
+  font-size: 24px;
+}
+.type-315 .price-sale p {
+  color: #888888;
+  font-weight: 550;
+  font-size: 24px;
+  text-decoration: line-through;
+}
+.type-315 .btn-danger {
+  font-weight: bold;
+}
+.type-315 .margin {
+  margin-top: 30px;
+}
+.type-315 h2 {
+  padding: .5em 0;
+  margin-top: 30px;
+  font-size: 1em;
+  color: #454545;
+  font-family: "Open Sans Condensed";
+}
+.type-315 .image {
+  position: relative;
+}
+.type-315 .image img {
+  width: 100%;
+}
+.type-315 .image a:hover {
+  background-color: #0a0101;
+}
+.type-315 .image a:hover .overlay {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  opacity: 0.6;
+  transition: .5s ease;
+  background-color: #0a0101;
+}
+.type-315 .container:hover .overlay {
+  opacity: 1;
+}
+.type-315 .shop:hover {
+  cursor: pointer;
+}
+.type-315 .image img:hover {
+  opacity: 0.6;
+  background: #333;
+}

@@ -1,0 +1,109 @@
+.type-315{
+    @font: 10px;
+    @color: #aa4243;
+    .shop{
+        text-align: center;
+        margin-bottom: 50px;
+    }
+    .star-rating{
+        font-size: .857em;
+        margin: 0 0 .5em;
+        color: #aa4243;
+        margin-bottom: 20px;
+           
+    }
+    .image{
+        img{
+            width: 100%;
+        }
+        .onsale{
+            margin: -17px -2px 0 0;
+            top: 0;
+            right: 0;
+            left: auto;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            font-size: @font;
+            line-height: 50px;
+            color: #ffffff;
+            background: @color;
+            position: absolute;
+            border-radius: 25px;
+            min-width: 50px;
+        }
+    }
+   
+    .price{
+        p{
+            color: #333333;
+            font-weight: 600;
+            font-size: 24px;
+        }     
+    }
+     .price-sale{
+         p{
+            color: #888888; 
+            font-weight: 550;
+            font-size: 24px;
+            text-decoration: line-through;
+         }
+                
+    }
+    
+    .btn-danger{
+        font-weight: bold;
+    }
+    .margin{
+        margin-top: 30px;      
+    }
+    h2{
+        
+        padding: .5em 0;
+        margin-top: 30px;
+        font-size: 1em;
+        color: #454545;
+        font-family: "Open Sans Condensed";
+    }
+    .image{
+        position: relative;
+        img{
+            width: 100%;
+        }
+        a:hover{
+            background-color: #0a0101; 
+            .overlay {
+                position: absolute;
+                top: 0;;
+                bottom: 0;
+                left: 0;
+                right: 0;
+                opacity: 0.6;
+                transition: .5s ease;
+                background-color: #0a0101;
+            }
+           
+        }
+    }
+     .container:hover .overlay {
+        opacity: 1;
+      }
+    .shop:hover{
+        cursor: pointer;
+    }
+    .image img:hover{
+        opacity: 0.6;
+        background: #333;
+    }
+    /*------------REPONSIVE----------*/
+    @media (max-width: 768px){
+       
+    }
+     @media (min-width: 768px){
+     
+        
+       
+    }
+   
+
+
+}
