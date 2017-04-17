@@ -1,0 +1,172 @@
+.type-317{
+    @color:rgba(0,0,0,0.4);
+    @font:20px;
+    .margin{
+        margin-top: 50px;
+    }
+    .carousel-control.left
+    {
+            background: none;
+    }
+    .carousel-control.right
+    {
+            background: none;
+    }
+    h2{
+        font-size: 22px;
+        color: #454545;    
+        font-family: "Open Sans Condensed";
+        margin-bottom: 18px;
+    }
+    h2:hover{
+        color:#aa4243;
+        cursor: pointer;
+    }
+    .carousel-control
+    {
+            position: absolute;
+            top: 45%;
+            bottom: 0;
+            left: 0;
+            width: 4.5%;
+            font-size: auto;
+            color: #fff;
+           
+            opacity: 0;
+            text-shadow: none;
+    }
+    .carousel-control:hover
+    {    
+        color: #ffffff;
+    }
+   
+    .carousel-indicators
+    {
+            bottom: -50px;
+    }
+    .carousel-indicators li
+    {
+            display: inline-block;
+            width: 10px;
+            height: 10px;
+            margin: 1px;
+            text-indent: -999px;
+            cursor: pointer;
+            background-color: #000\9;
+            background-color: rgba(0,0,0,0);
+            border-color: #5e5e5e !important;
+            border-radius: 50%;
+    }
+    .carousel-indicators .active
+    {
+            width: 12px;
+            height: 12px;
+            margin: 0;
+            background-color: #5e5e5e;;
+    }
+    .item:hover{
+        cursor: pointer;
+        position: relative;
+         .button{
+            opacity: 1;
+            
+        }
+     }
+    .carousel-caption
+    {
+         p{
+           color: #dddddd;          
+        }
+        position: absolute;
+        right: 0;
+        bottom: 0;
+        left: 0;
+        z-index: 10;
+        padding-top: @font;
+        padding-bottom: @font;
+        color: #fff;
+        background: @color;
+    }
+    .button{       
+        .fa{
+            z-index: 10;
+            display: block;
+            font-size: @font;
+            line-height: @font;
+            padding: 30px 13px;
+            margin: -35px 0px 0px;
+            position: absolute;
+            overflow: hidden;
+           /// opacity: 0;
+            cursor: pointer;
+            background-color: #000000;
+        }
+    }
+   
+
+    
+    /*------------REPONSIVE----------*/
+    @media (max-width: 768px){
+       .carousel-control
+        {
+                position: absolute;
+                top: 45%;
+                bottom: 0;
+                left: 0;
+                width: 10%;
+                font-size: auto;
+                color: #fff;
+
+                opacity: 0;
+                text-shadow: none;
+        }
+        .carousel-caption
+        {
+            position: absolute;
+            right: 0;
+            bottom: -105px;
+            left: 0;
+            z-index: 10;
+            padding-top: @font;
+            padding-bottom: @font;
+            color: #fff;
+            background: @color;
+        }
+    }
+    #accordion{
+        margin-top: 60px;
+    }
+     /////////////////////
+    .panel-group .panel {
+        border-radius: 0;
+        box-shadow: none;
+        border-color: #EEEEEE;
+    }
+    .panel-group{
+        margin-top: 15px;
+    }
+    .panel-default > .panel-heading {
+        padding: 0;
+        border-radius: 0;
+        color: #212121;
+        background-color: #FAFAFA;
+        border-color: #EEEEEE;
+    }
+
+    .panel-title {
+        font-size: 14px;
+    }
+
+    .panel-title > a {
+        display: block;
+        padding: 15px;
+        text-decoration: none;
+    }
+     @media (min-width: 768px){
+   
+       
+    }
+   
+
+
+}
