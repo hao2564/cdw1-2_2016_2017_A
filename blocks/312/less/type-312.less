@@ -1,0 +1,204 @@
+.type-312{
+   @font: 21px;
+   @color:#3b3b3b; 
+  .owl-carousel {
+        display: none;
+        width: 100%;        
+        position: relative;
+        z-index: 1; 
+    }
+    .owl-carousel .owl-stage {
+        position: relative;       
+    }
+    .owl-carousel .owl-stage:after {
+        content: ".";
+        display: block;
+        clear: both;
+        visibility: hidden;
+        line-height: 0;
+        height: 0; }
+    .owl-carousel .owl-stage-outer {
+        position: relative;
+        overflow: hidden;
+        -webkit-transform: translate3d(0px, 0px, 0px); 
+        margin-top: 50px;
+    }
+    .owl-carousel .owl-wrapper,
+    .owl-carousel .owl-item {
+        -webkit-backface-visibility: hidden;
+        -moz-backface-visibility: hidden;
+        -ms-backface-visibility: hidden;
+        -webkit-transform: translate3d(0, 0, 0);
+        -moz-transform: translate3d(0, 0, 0);
+        -ms-transform: translate3d(0, 0, 0); }
+    .owl-carousel .owl-item {
+        position: relative;
+        min-height: 1px;
+        float: left;
+        -webkit-backface-visibility: hidden;
+        -webkit-tap-highlight-color: transparent;
+        -webkit-touch-callout: none; }
+  
+    .owl-carousel .owl-nav.disabled,
+    .owl-carousel .owl-dots.disabled {
+        display: none; }
+    .owl-carousel .owl-nav .owl-prev,
+    .owl-carousel .owl-nav .owl-next,
+    .owl-carousel .owl-dot {
+        cursor: pointer;
+        cursor: hand;
+        -webkit-user-select: none;
+        -khtml-user-select: none;
+        -moz-user-select: none;
+        -ms-user-select: none;
+        user-select: none; }
+    .owl-carousel.owl-loaded {
+        display: block; }
+    .owl-carousel.owl-loading {
+        opacity: 0;
+        display: block; }
+    .owl-carousel.owl-hidden {
+        opacity: 0; }
+    .owl-carousel.owl-refresh .owl-item {
+        visibility: hidden; }
+    .owl-carousel.owl-drag .owl-item {
+        -webkit-user-select: none;
+        -moz-user-select: none;
+        -ms-user-select: none;
+        user-select: none; }
+    .owl-carousel.owl-grab {
+        cursor: move;
+        cursor: grab; }
+    .owl-carousel.owl-rtl {
+        direction: rtl; }
+    .owl-carousel.owl-rtl .owl-item {
+        float: right; }
+
+    ////////////////////
+    // css of product
+    ////////////////////
+
+    .owl-nav   {
+        position: absolute;
+        top: -15%;
+        right: 1%;
+        margin-bottom: 15px;
+        display: inline-flex;
+        .owl-prev{
+
+            width: 40px;
+            height: 40px;
+            line-height: 40px;
+        }
+        .owl-next{
+            width: 40px;
+            height: 40px;
+            line-height: 40px;
+        }
+        .owl-next, .owl-prev{
+            border-radius: 50%;
+            display: inline-block;
+            padding: 10px 5px;
+            margin: 0 2px;
+            font-size: 14px;
+            line-height: 20px;
+            color: #000;
+            text-align: center;
+            text-shadow: 0 1px 1px rgba(255,255,255,0.75);
+            vertical-align: middle;
+            cursor: pointer;
+            background-color: #f5f5f5;
+            background-repeat: repeat-x;
+           
+           
+        }
+
+    }
+    .owl-next:hover, .owl-prev:hover{
+        cursor: pointer;
+    }
+    
+    .info{      
+        padding: 14px 17px 60px;
+        color: #9b9b9b;
+    }
+    .info:hover{
+        cursor: pointer;
+    }
+  
+    @media (max-width: 767px) {
+        
+       
+    }
+    
+     .col-item .photo img
+    {
+        margin: 0 auto;
+        width: 100%;
+    }
+
+    .col-item .info
+    {
+        padding: 10px;
+        border-radius: 0 0 5px 5px;
+        margin-top: 1px;
+    }
+    .pull-right {
+        .fa{
+            color: #6d6d6d;
+            background-color: #eeeeee;
+            vertical-align: super;
+            font-size: @font;
+            cursor: pointer;
+            border-radius: 50%;
+            padding: 11px 18px 11px 18px; 
+        }
+        
+    }
+    .title{
+        color: #aa4243;
+        font-size: @font;
+        font-weight: bold;
+        text-transform: uppercase;
+        margin-bottom: 0px;
+        line-height: 1;
+        text-align: center;
+        margin-top: 30px;
+        font-family: "Open Sans Condensed";
+    }
+    
+    
+    
+    /////////////////////////////
+    .content-info{
+        text-align: center;
+    }
+    
+    .personnel-info {
+        
+        p{
+          font-size: 15px;  
+          color: #acacac;
+        }
+        h3{
+            font-size: @font;
+            font-weight: bold;
+            color: @color;         
+        }
+        margin-bottom: 20px;
+    }
+    .content{
+        p {
+            margin-bottom: 20px;
+            color: #808080;
+            font-size: 15px;
+        }
+        .fa{
+            color: #222;
+            font-size: @font;
+            margin-right: 5px;
+          
+        }
+    } 
+    
+}
