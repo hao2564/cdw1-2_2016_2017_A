@@ -1,0 +1,73 @@
+.type-305 .distance {
+  padding: 0;
+}
+.type-305 .nav-tabs {
+  border: none;
+}
+.type-305 .nav-tabs>li>a {
+  color: #393939;
+  font-size: 15px;
+  font-weight: 700;
+}
+.type-305 .nav-tabs>li>a:hover {
+  background: none;
+  border: none;
+}
+.type-305 .nav-tabs>li.active>a,
+.type-305 .nav-tabs>li.active>a:focus,
+.type-305 .nav-tabs>li.active>a:hover {
+  background: none;
+  border: none;
+  cursor: pointer;
+}
+.type-305 .text {
+  text-align: center;
+  display: block;
+  padding: 7px 0 6px;
+}
+.type-305 .thumbnail {
+  margin: 0;
+}
+.type-305 .bg {
+  background: #e5e5e5;
+  padding: 8px;
+}
+.type-305 .tab-content {
+  margin: 0 15px;
+}
+.type-305 .tab-content>.active {
+  margin: 0 15px;
+}
+.type-305 .content {
+  padding: 40px 0;
+  margin: 0 15px;
+}
+.type-305 .content ul {
+  text-decoration: none;
+  list-style: none;
+  min-width: 80px;
+  padding: 14px;
+  background: #e5e5e5;
+}
+.type-305 .content li {
+  padding: 15px 20px;
+  border-bottom: 1px solid #eee;
+  font-size: 11px;
+}
+.type-305 .content .soccerhead {
+  margin-right: 40px;
+  font-size: 14px;
+}
+.type-305 .content .soccertail {
+  margin-left: 40px;
+  font-weight: bold;
+  font-size: 14px;
+}
+.type-305 .tab-pane h3 {
+  color: #454545;
+  padding: 15px;
+}
+.type-305 .tab-pane p {
+  color: #808080;
+  padding: 15px;
+}
