@@ -1,0 +1,101 @@
+.type-311{
+    @color:#bababa;
+    @font:16px;
+    img{
+        width: 100%;
+        height: auto;      
+    }
+  
+    a:hover{
+        text-decoration: none;
+    }
+    .image > a > img:hover {
+        opacity: 0.9;
+    }
+    .iconimage{
+        color:#fff;
+        background-color: #232323;
+        position: absolute;
+        bottom: 0px;
+        font-size: 12px;
+        font-weight: bold;
+        padding: 7px 15px;
+        text-transform: uppercase;
+        right: @font;
+        bottom: 214px;
+    }
+    .icon-bullhorn {
+        margin-right: 9px;
+    }
+    .title{
+        font-size: 17px;
+        margin-bottom: 10px;
+        font-weight: bold;
+        text-transform: uppercase;     
+    }
+    h3 a{
+        color: #454545;
+    }
+    .title a:hover {
+        color: #aa4243;
+    }
+    .blog-info{
+        float: left;
+        margin-right: 15px;
+        margin-bottom: 5px;
+        color: @color;
+        a{
+            color: @color;
+        }
+    }
+    .blog-3{margin-right: 50px;}
+    .blog-6{margin-right: 150px;}
+    .fa{
+        margin-right: 5px;
+    }
+    
+    .content{
+        color: #808080;
+        font-size: @font;
+        font-family: "Open Sans";
+        margin-top: 10px;
+    }
+    
+    .readmore{
+        margin-top: 20px;
+        margin-bottom: 0px;
+        display: inline-block;
+        font-weight: bold;
+        color: #aa4243;
+    }
+    
+    .blog-icon{
+        position: absolute;
+        right: 5px;
+        bottom: 3px;
+        color: @color;
+        font-size:15px;
+        a{
+           color: #bababa; 
+        }
+    }
+    .margin{
+            margin-top: 20px;
+            margin-bottom: 30px;
+    }
+     /*------------REPONSIVE----------*/
+    @media (max-width: 768px){
+        .margin{
+            margin-top: 50px;
+        }
+        .iconimage{
+            bottom: 0px;    
+            right: @font;
+            bottom: 257px;
+        }
+    }
+   
+    
+    
+    
+}

@@ -1,0 +1,92 @@
+.type-311 img {
+  width: 100%;
+  height: auto;
+}
+.type-311 a:hover {
+  text-decoration: none;
+}
+.type-311 .image > a > img:hover {
+  opacity: 0.9;
+}
+.type-311 .iconimage {
+  color: #fff;
+  background-color: #232323;
+  position: absolute;
+  bottom: 0px;
+  font-size: 12px;
+  font-weight: bold;
+  padding: 7px 15px;
+  text-transform: uppercase;
+  right: 16px;
+  bottom: 214px;
+}
+.type-311 .icon-bullhorn {
+  margin-right: 9px;
+}
+.type-311 .title {
+  font-size: 17px;
+  margin-bottom: 10px;
+  font-weight: bold;
+  text-transform: uppercase;
+}
+.type-311 h3 a {
+  color: #454545;
+}
+.type-311 .title a:hover {
+  color: #aa4243;
+}
+.type-311 .blog-info {
+  float: left;
+  margin-right: 15px;
+  margin-bottom: 5px;
+  color: #bababa;
+}
+.type-311 .blog-info a {
+  color: #bababa;
+}
+.type-311 .blog-3 {
+  margin-right: 50px;
+}
+.type-311 .blog-6 {
+  margin-right: 150px;
+}
+.type-311 .fa {
+  margin-right: 5px;
+}
+.type-311 .content {
+  color: #808080;
+  font-size: 16px;
+  font-family: "Open Sans";
+  margin-top: 10px;
+}
+.type-311 .readmore {
+  margin-top: 20px;
+  margin-bottom: 0px;
+  display: inline-block;
+  font-weight: bold;
+  color: #aa4243;
+}
+.type-311 .blog-icon {
+  position: absolute;
+  right: 5px;
+  bottom: 3px;
+  color: #bababa;
+  font-size: 15px;
+}
+.type-311 .blog-icon a {
+  color: #bababa;
+}
+.type-311 .margin {
+  margin-top: 20px;
+  margin-bottom: 30px;
+}
+@media (max-width: 768px) {
+  .type-311 .margin {
+    margin-top: 50px;
+  }
+  .type-311 .iconimage {
+    bottom: 0px;
+    right: 16px;
+    bottom: 257px;
+  }
+}
