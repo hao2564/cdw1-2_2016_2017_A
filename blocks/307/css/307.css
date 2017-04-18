@@ -27,35 +27,35 @@
   overflow: hidden;
   width: 100%;
 }
-.modal-dialog {
-  width: 400px;
+.type-307 .modal-dialog {
+  width: 30%;
 }
-.thumbnail {
+.type-307 .thumbnail {
   margin-bottom: 6px;
   border: none;
   margin-bottom: 0;
   padding: 15px 0 0;
   border-radius: 0;
 }
-.owl-carousel .owl-stage-outer {
+.type-307 .owl-carousel .owl-stage-outer {
   position: relative;
   overflow: hidden;
   -webkit-transform: translate3d(0,0,0);
 }
-.owl-carousel .owl-item {
+.type-307 .owl-carousel .owl-item {
   min-height: 1px;
   float: left;
 }
-.owl-nav .owl-next,
-.owl-nav .owl-prev {
+.type-307 .owl-nav .owl-next,
+.type-307 .owl-nav .owl-prev {
   cursor: pointer;
 }
-.item {
+.type-307 .item {
   cursor: pointer;
   text-align: center;
   padding: 15px 0 0;
 }
-.owl-prev {
+.type-307 .owl-prev {
   position: absolute;
   left: 16px;
   top: 50%;
@@ -63,7 +63,7 @@
   background: rgba(0,0,0,0.75);
   padding: 25px 8px;
 }
-.owl-next {
+.type-307 .owl-next {
   position: absolute;
   right: 16px;
   top: 50%;
@@ -71,14 +71,14 @@
   background: rgba(0,0,0,0.75);
   padding: 25px 8px;
 }
-.text {
+.type-307 .text {
   text-align: center;
   background: #aa4243;
   padding: 15px 0px;
   color: #fff;
   text-transform: uppercase;
 }
-.text-thumb {
+.type-307 .text-thumb {
   position: absolute;
   left: 42%;
   top: 48%;
@@ -87,10 +87,15 @@
   padding: 10px 15px;
   display: none;
 }
-.overlay:hover {
+.type-307 .overlay:hover {
   background: #0a0101;
 }
-.overlay:hover .text-thumb {
+.type-307 .overlay:hover .text-thumb {
   display: block;
   cursor: pointer;
+}
+@media (max-width: 767px) {
+  .type-307 .modal-dialog {
+    width: 90%;
+  }
 }

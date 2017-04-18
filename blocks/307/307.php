@@ -96,6 +96,7 @@
                                 </div>
                             </div>
                         </div>
+                        <!---Clear Fix----------->
                         <div class="clearfix"></div>
                         <!----thumb nail open lightbox--->
                         <div class="row">
