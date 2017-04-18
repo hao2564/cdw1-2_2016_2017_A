@@ -1,0 +1,183 @@
+.type-320{
+    @font:15px;
+    @color:#aa4243;
+    .table>tbody>tr>td, .table>tfoot>tr>td{
+        vertical-align: middle;
+    }
+  
+    table{
+         
+        tr {         
+            th{
+                background-color: #aa4243;             
+                font-size: @font;  
+                font-weight: 700;
+                color:#fff;
+            }
+            
+        }
+    }
+    a.remove{
+         border-radius: 0;
+        padding: 5px 10px;;
+        font-weight: normal;
+        background: #f3f3f3;
+        color: red!important;
+        text-decoration: none;
+        text-align: center;
+        font-size: 1.5em;
+        height: 1em;
+        width: 1em;
+        
+    }
+    #coupon_code{
+        padding: 6px 6px 5px;
+        margin: 0 11px 0 0;
+        outline: 0;
+        line-height: 27px;
+        border: 1px solid #ebebeb;
+         width: 83px;
+        
+    }
+    .btn-danger{
+            padding: 10px 17px;
+    }
+    .title{
+        margin-top: 20px;    
+    }
+    .price{
+        color: #808080;
+        font-family: "Open Sans";
+        font-size: 18px;
+    }
+    .price1{
+        color: #808080;
+        font-family: "Open Sans";
+        font-size: 18px;
+        margin-left: 50px;
+    }
+    .form-control{
+        width: 80px;
+        height: 49px;
+        background: #f3f3f3;
+    }
+    .update{
+        color: inherit;
+        cursor: not-allowed;
+        opacity: .5;
+        padding: .618em 1em;
+        font-weight: bold;
+    }
+     .update:hover{
+        border-bottom: 3px solid #ba4c16;
+        background-color: #f3f3f3;
+        color:#515151;
+        border-top: none;
+        border-left: none;
+        border-right: none;
+        font-weight: bold;
+    }
+    a{
+        text-decoration: none;
+        color: @color;
+        text-align: center;
+        
+    }
+    a:hover{
+        text-decoration: none;
+        color: @color;
+        
+    }
+    a.remove:hover{
+        background: #e5e5e5;     
+    }
+    .table-condensed>thead>tr>th {
+        padding: @font;
+    }
+    .proc{
+        width: 100%;
+        font-weight: bold;
+        color:20px;
+        border-bottom: 3px solid #ba4c16;
+        font-size: 1.2em;
+        
+    }
+    .margin{
+        margin-left: -@font;
+    }
+    .tab>thead>tr>th {
+        padding: @font;
+    }
+    .cart-subtotal{
+        background-color: #fff;
+    }
+    h2{
+        font-size: 15px;
+        color: #454545;
+        font-family: "Open Sans Condensed";
+        line-height: 1.3;
+        margin-bottom: 18px;
+        font-weight: 400;
+    }
+    .sub{
+      font-weight: bold;
+    }
+    .bold{
+         color:#333333;
+        font-weight: bold;
+    }
+    .cart-subtotal{
+        border-top: 3px #ebebeb solid;
+    }
+    .order-total{
+        border-bottom: 3px #ebebeb solid;
+        border-top: 3px #ebebeb solid;
+    }
+    @media screen and (max-width: 600px) {
+            margin-right: 20px;
+           margin-left: 20px;
+        table#cart tbody td .form-control{
+            width:20%;
+            display: inline !important;
+        }
+        #coupon_code{
+           width: 100%;
+           margin:1em 0;
+           padding: 10px;
+        }
+        .price{
+           float:right;
+          
+           
+        }
+        .title{
+            float: right;
+            margin-top: -20px;
+            margin-bottom: -5px;
+        }
+        .btn{
+            width:100%;
+            margin:1em 0;
+            padding: 10px;
+        }
+        .price1{
+            float: right;
+            
+        }
+        .remove{
+            background-color: #fff;
+        }
+      
+        table#cart thead { display: none; }
+        table#cart tbody td { display: block; padding: .6rem; min-width:320px;}
+        table#cart tbody tr td:first-child { background: #fff; color: #fff;margin-left: -60px; }
+        table#cart tbody td:before {
+            content: attr(data-th); font-weight: bold;
+            display: inline-block; width: 8rem;
+        }
+
+        table#cart tfoot td{display:block; }
+        table#cart tfoot td .btn{display:block;}
+        
+    }
+}
