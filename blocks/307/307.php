@@ -193,7 +193,7 @@
                                 <!----thumb nail open lightbox--->
                                 <div class="col-lg-3 col-md-3 col-sm-6 col-xs-12">
                                     <div class="overlay">
-                                        <a  href="#"><img class="thumbnail img-responsive" src="images/1.jpg"></a>
+                                        <a  href="#"><img class="img-responsive" src="images/1.jpg"></a>
                                         <div class="text">thumb nail open lightbox</div>
                                         <div class="text-thumb">
                                             <i class="fa fa-search icon" aria-hidden="true"></i>
@@ -203,7 +203,7 @@
                                 <!----thumb nail open lightbox--->
                                 <div class="col-lg-3 col-md-3 col-sm-6 col-xs-12">
                                     <div class="overlay">
-                                        <a  href="#"><img class="thumbnail img-responsive" src="images/shoes.jpg"></a>
+                                        <a  href="#"><img class="img-responsive" src="images/shoes.jpg"></a>
                                         <div class="text">thumb nail link to post</div>
                                         <div class="text-thumb">
                                             <i class="fa fa-search icon" aria-hidden="true"></i>
@@ -213,7 +213,7 @@
                                 <!----thumb nail open lightbox--->
                                 <div class="col-lg-3 col-md-3 col-sm-6 col-xs-12">
                                     <div class="overlay">
-                                        <a  href="#"><img class="thumbnail img-responsive" src="images/football.jpg"></a>
+                                        <a  href="#"><img class="img-responsive" src="images/football.jpg"></a>
                                         <div class="text">open video lightbox</div>
                                         <div class="text-thumb">
                                             <i class="fa fa-video-camera icon" aria-hidden="true"></i>
@@ -244,7 +244,7 @@
                                 <!----thumb nail open lightbox--->
                                 <div class="col-lg-3 col-md-3 col-sm-6 col-xs-12">
                                     <div class="overlay">
-                                        <a  href="#"><img class="thumbnail img-responsive" src="images/1.jpg"></a>
+                                        <a  href="#"><img class=" img-responsive" src="images/1.jpg"></a>
                                         <div class="text">thumb nail open lightbox</div>
                                         <div class="text-thumb">
                                             <i class="fa fa-search icon" aria-hidden="true"></i>
@@ -254,7 +254,7 @@
                                 <!----thumb nail open lightbox--->
                                 <div class="col-lg-3 col-md-3 col-sm-6 col-xs-12">
                                     <div class="overlay">
-                                        <a  href="#"><img class="thumbnail img-responsive" src="images/clothes.jpg"></a>
+                                        <a  href="#"><img class=" img-responsive" src="images/clothes.jpg"></a>
                                         <div class="text">thumb nail link to post</div>
                                         <div class="text-thumb">
                                             <i class="fa fa-search icon" aria-hidden="true"></i>
@@ -264,7 +264,7 @@
                                 <!----thumb nail open lightbox--->
                                 <div class="col-lg-3 col-md-3 col-sm-6 col-xs-12">
                                     <div class="overlay">
-                                        <a  href="#"><img class="thumbnail img-responsive" src="images/grass.jpg"></a>
+                                        <a  href="#"><img class=" img-responsive" src="images/grass.jpg"></a>
                                         <div class="text">open video lightbox</div>
                                         <div class="text-thumb">
                                             <i class="fa fa-video-camera icon" aria-hidden="true"></i>
@@ -293,7 +293,7 @@
                         <div class="row">
                             <div class="col-lg-3 col-md-3 col-sm-6 col-xs-12">
                                 <div class="overlay">
-                                    <a  href="#"><img class="thumbnail img-responsive" src="images/house.jpg"></a>
+                                    <a  href="#"><img class=" img-responsive" src="images/house.jpg"></a>
                                     <div class="text">thumb nail open lightbox</div>
                                     <div class="text-thumb">
                                         <i class="fa fa-search icon" aria-hidden="true"></i>
@@ -303,7 +303,7 @@
                             <!---------thum-------->
                             <div class="col-lg-3 col-md-3 col-sm-6 col-xs-12">
                                 <div class="overlay">
-                                    <a  href="#"><img class="thumbnail img-responsive" src="images/brige.jpg"></a>
+                                    <a  href="#"><img class=" img-responsive" src="images/brige.jpg"></a>
                                     <div class="text">thumb nail open lightbox</div>
                                     <div class="text-thumb">
                                         <i class="fa fa-search icon" aria-hidden="true"></i>
