@@ -1,0 +1,49 @@
+.type-322 .background {
+  background-image: url(../images/1.jpg);
+  padding-top: 90px;
+  padding-bottom: 70px;
+  background-position: center -56.8px;
+  margin-top: 40px;
+}
+.type-322 .content {
+  color: #929292;
+  padding-top: 40px;
+  background-color: #f5f5f5;
+  text-align: center;
+  padding: 40px 30px 20px;
+  position: relative;
+  min-height: 1px;
+}
+.type-322 .content .circle-icon {
+  background-color: #aa4243;
+  top: -30px;
+  left: 50%;
+  margin-left: -30px;
+  padding: 18px;
+  display: inline-block;
+  position: absolute;
+  border-radius: 50%;
+}
+.type-322 .content h4 {
+  margin-bottom: 20px;
+  margin-top: 10px;
+  font-family: "Open Sans Condensed";
+  line-height: 1.3;
+  font-weight: 400;
+  font-size: 1.4em;
+}
+.type-322 .content .fa {
+  font-size: 22px;
+  color: #fff;
+}
+.type-322 .content .caption p {
+  margin-bottom: 30px;
+}
+.type-322 .margin {
+  margin-bottom: 20px;
+}
+@media (max-width: 768px) {
+  .type-322 .margin {
+    margin-bottom: 20px;
+  }
+}
