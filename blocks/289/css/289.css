@@ -1,0 +1,43 @@
+.type-289 h2 {
+  font-size: 22px;
+  font-weight: bold;
+  margin-left: 15px;
+}
+.type-289 h4 {
+  color: #929292;
+}
+.type-289 p {
+  color: #929292;
+}
+.type-289 .gdlr-box-with-icon-item {
+  background-color: #f5f5f5;
+}
+.type-289 .gdlr-box-with-icon-item {
+  text-align: center;
+  padding: 40px 30px 20px;
+  position: relative;
+}
+.type-289 .gdlr-item {
+  margin: 0px 0px 20px;
+}
+.type-289 .fa {
+  font-size: 50px;
+}
+.type-289 .gdlr-box-with-icon-item .box-with-icon-title {
+  font-size: 18px;
+  margin-bottom: 20px;
+  display: block;
+}
+.type-289 .gdlr-box-with-icon-item > i {
+  display: inline-block;
+  margin-bottom: 22px;
+  margin-right: 0;
+}
+.type-289 .gdlr-box-with-icon-item.pos-left {
+  text-align: left;
+  padding: 30px 40px 20px;
+}
+.type-289 .gdlr-box-with-icon-item.pos-left > i {
+  float: left;
+  margin: 5px 25px 0px 0px;
+}
