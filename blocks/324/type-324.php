@@ -1,7 +1,7 @@
 <div class="type-324">
     <div class="container">
         <div class="row">  
-            
+
             <div class="col-md-4 col-sm-4 col-lg-4 col-xs-12 margin">                  
                 <div class="content">
                     <div class="circle-icon">
@@ -10,28 +10,28 @@
                     <h4 class="title">icon on the top</h4>
                     <div class="caption">
                         <p>
-                           Curabitur blandit tempus porttitor. Cras justo odio, dapibus ac facilisis in,
-                           egestas eget quam. Aenean eu leo quam. 
+                            Curabitur blandit tempus porttitor. Cras justo odio, dapibus ac facilisis in,
+                            egestas eget quam. Aenean eu leo quam. 
                         </p>
                     </div>
                 </div>
             </div>
-            
+
             <div class="col-md-4 col-sm-4 col-lg-4 col-xs-12 margin">                  
                 <div class="content">
                     <div class="circle-icon1">
-                       <i class="fa fa-coffee" aria-hidden="true"></i>                    
+                        <i class="fa fa-coffee" aria-hidden="true"></i>                    
                     </div>
                     <h4 class="title">icon on the top</h4>
                     <div class="caption">
                         <p>
-                           Curabitur blandit tempus porttitor. Cras justo odio, dapibus ac facilisis in,
-                           egestas eget quam. Aenean eu leo quam. 
+                            Curabitur blandit tempus porttitor. Cras justo odio, dapibus ac facilisis in,
+                            egestas eget quam. Aenean eu leo quam. 
                         </p>
                     </div>
                 </div>
             </div>
-            
+
             <div class="col-md-4 col-sm-4 col-lg-4 col-xs-12 margin">                  
                 <div class="content">
                     <div class="circle-icon2">
@@ -40,8 +40,8 @@
                     <h4 class="title">icon on the top</h4>
                     <div class="caption">
                         <p>
-                           Curabitur blandit tempus porttitor. Cras justo odio, dapibus ac facilisis in,
-                           egestas eget quam. Aenean eu leo quam. 
+                            Curabitur blandit tempus porttitor. Cras justo odio, dapibus ac facilisis in,
+                            egestas eget quam. Aenean eu leo quam. 
                         </p>
                     </div>
                 </div>
@@ -55,14 +55,14 @@
                     <h4 class="title">icon on the top</h4>
                     <div class="caption">
                         <p>
-                           Curabitur blandit tempus porjusto odio, dapibus ac facilisis in, egestas eget quam.
-                           Aenen eu leo quam. Pellentesque otsem lacinia quam venenatis vestibulum.Donec id elit
-                           non mi porta gravida aeget. 
+                            Curabitur blandit tempus porjusto odio, dapibus ac facilisis in, egestas eget quam.
+                            Aenen eu leo quam. Pellentesque otsem lacinia quam venenatis vestibulum.Donec id elit
+                            non mi porta gravida aeget. 
                         </p>
                     </div>
                 </div>
             </div>
-            
+
             <div class="col-md-6 col-sm-6 col-lg-6 col-xs-12 margin">                  
                 <div class="content1">
                     <div class="circle-icon4">
@@ -71,13 +71,13 @@
                     <h4 class="title">icon on the top</h4>
                     <div class="caption">
                         <p>
-                           Curabitur blandit tempus porjusto odio, dapibus ac facilisis in, egestas eget quam. Aenen eu leo quam.
-                           Pellentesque otsem lacinia quam venenatis vestibulum.Donec id elit non mi porta gravida aeget.
+                            Curabitur blandit tempus porjusto odio, dapibus ac facilisis in, egestas eget quam. Aenen eu leo quam.
+                            Pellentesque otsem lacinia quam venenatis vestibulum.Donec id elit non mi porta gravida aeget.
                         </p>
                     </div>
                 </div>
             </div>
-            
+
             <div class="clearfix"></div>
             <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
                 <div class="panel panel-default">
@@ -96,7 +96,8 @@
                             [gdlr_column size="1/3"]<br><br>
 
                             [gdlr_box_icon icon="icon-gears" icon_type="circle" icon_color="#ffffff" icon_background="#d55949" 
-                            icon_position="top" title="icon on the top" ]Curabitur blandit tempus<br> porttitor. Cras justo odio, dapibus ac facilisis in,
+                            icon_position="top" title="icon on the top" ]Curabitur blandit tempus<br> porttitor. 
+                            Cras justo odio, dapibus ac facilisis in,
                             egestas eget quam. Aenean eu leo quam. [/gdlr_box_icon]<br><br>
 
                             [/gdlr_column]<br><br>
@@ -125,7 +126,8 @@
 
                             [gdlr_box_icon icon="icon-flag-alt" icon_type="circle" icon_color="#ffffff" icon_background="#6049d5" 
                             icon_position="left" title="icon on the top" ]Curabitur blandit tempus<br> porjusto odio, dapibus ac 
-                            facilisis in, egestas eget quam. Aenen eu leo quam. Pellentesque otsem lacinia quam venenatis vestibulum.
+                            facilisis in, egestas eget quam. Aenen eu leo quam. Pellentesque otsem lacinia quam venenatis 
+                            vestibulum.
                             Donec id elit non mi porta gravida aeget.<br> [/gdlr_box_icon]<br><br>
 
                             [/gdlr_column]<br><br>
@@ -134,7 +136,8 @@
 
                             [gdlr_box_icon icon="icon-cloud" icon_type="circle" icon_color="#ffffff" icon_background="#49d5c0" 
                             icon_position="left" title="icon on the top" ]Curabitur blandit tempus <br>porjusto odio, dapibus ac 
-                            facilisis in, egestas eget quam. Aenen eu leo quam. Pellentesque otsem lacinia quam venenatis vestibulum.
+                            facilisis in, egestas eget quam. Aenen eu leo quam. Pellentesque otsem lacinia quam venenatis
+                            vestibulum.
                             Donec id elit non mi porta gravida aeget.<br>[/gdlr_box_icon]<br><br>
 
                             [/gdlr_column]<br><br>
@@ -144,11 +147,11 @@
                     </div>
                 </div>
             </div>
-            
-            
-             
-           
-            
+
+
+
+
+
         </div>
     </div>
 </div>

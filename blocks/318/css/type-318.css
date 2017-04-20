@@ -77,7 +77,8 @@
   border-color: #EEEEEE;
 }
 .type-318 .panel-title {
-  font-size: 14px;
+  font-size: 13px;
+  background-color: #fff;
 }
 .type-318 .panel-title > a {
   display: block;

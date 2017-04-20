@@ -4,11 +4,11 @@
             <table id="cart" class="table table-hover table-condensed">
                 <thead>
                     <tr>
-                            <th style="width:10%"></th>
-                            <th style="width:50%">Product</th>
-                            <th style="width:15%">Price</th>
-                            <th style="width:10% ">Quantity</th>
-                            <th style="width:25%" class="text-center">Total</th>
+                        <th style="width:10%"></th>
+                        <th style="width:50%">Product</th>
+                        <th style="width:15%">Price</th>
+                        <th style="width:10% ">Quantity</th>
+                        <th style="width:25%" class="text-center">Total</th>
                     </tr>
                 </thead>
                 <tbody>
@@ -26,14 +26,14 @@
                         </td>
                         <td data-th="Price" ><div class="price">£35.00</div></td>
                         <td data-th="Quantity">
-                                <input type="number" class="form-control text-center" value="1">
+                            <input type="number" class="form-control text-center" value="1">
                         </td>
                         <td data-th="Total" ><div class="price1">£35.00</div></td>
-                       
+
                     </tr>
                 </tbody>
-                
-                
+
+
                 <tfoot>                  
                     <tr>
                         <td>
@@ -45,20 +45,20 @@
                             </div>
                         </td>
                         <td colspan="2" class="hidden-xs"></td>
-                      
+
                         <td>
                             <button type="button" class="btn btn-danger update">UPDATE CART</button>
                         </td>
                     </tr>
                 </tfoot>
-                
-              
-                
+
+
+
             </table> 
             <div class="clearfix"></div>
-             <div class="col-md-6 col-xs-12 col-lg-6 col-sm-6 margin">
-                 <h2>Cart totals</h2> 
-                 <table cellspacing="0" class="table table-hover table-condensed tab">
+            <div class="col-md-6 col-xs-12 col-lg-6 col-sm-6 margin">
+                <h2>Cart totals</h2> 
+                <table cellspacing="0" class="table table-hover table-condensed tab">
                     <tbody>
                         <tr class="cart-subtotal">
                             <th class="sub">Subtotal</th>
@@ -73,11 +73,11 @@
                             </td>
                         </tr>
                     </tbody>
-                 </table>
-                 <button type="button" class="btn btn-danger proc">PROCCED TO CHECKOUT</button>
+                </table>
+                <button type="button" class="btn btn-danger proc">PROCCED TO CHECKOUT</button>
             </div>
-           
-            
+
+
         </div>
     </div>
 </div>

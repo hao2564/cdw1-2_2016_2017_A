@@ -11,18 +11,31 @@
                 <div class="tab_container">
                     <h3 class="d_active tab_drawer_heading" rel="tab1">Tab Title 1</h3>
                     <div id="tab1" class="tab_content">                       
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisici elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Etiam habebis sem dicantur magna mollis euismod. Inmensae subtilitatis, obscuris et malesuada fames. Idque Caesaris facere voluntate liceret: sese habere. Idque Caesaris facere voluntate liceret: sese habere.</p>
+                        <p>
+                            Lorem ipsum dolor sit amet, consectetur adipisici elit, sed eiusmod tempor incidunt ut labore et
+                            dolore magna aliqua. Etiam habebis sem dicantur magna mollis euismod. Inmensae subtilitatis, obscuris
+                            et malesuada fames. Idque Caesaris facere voluntate liceret: sese habere. Idque Caesaris facere 
+                            voluntate liceret: sese habere.
+                        </p>
                     </div>
                     <!-- #tab1 -->
                     <h3 class="tab_drawer_heading" rel="tab2">Tab Title 2</h3>
                     <div id="tab2" class="tab_content">                      
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisici elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Phasellus laoreet lorem vel dolor tempus vehicula. Quisque ut dolor gravida, placerat libero vel, euismod. Nihil hic munitissimus habendi senatus locus, nihil horum? Ut enim ad minim veniam, quis nostrud exercitation. At nos hinc posthac, sitientis piros Afros.
+                        <p>
+                            Lorem ipsum dolor sit amet, consectetur adipisici elit, sed eiusmod tempor incidunt ut labore et
+                            dolore magna aliqua. Phasellus laoreet lorem vel dolor tempus vehicula. Quisque ut dolor gravida,
+                            placerat libero vel, euismod. Nihil hic munitissimus habendi senatus locus, nihil horum? Ut enim 
+                            ad minim veniam, quis nostrud exercitation. At nos hinc posthac, sitientis piros Afros.
                         </p>
                     </div>
                     <!-- #tab2 -->
                     <h3 class="tab_drawer_heading" rel="tab3">Tab Title 3</h3>
                     <div id="tab3" class="tab_content">                       
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisici elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. A communi observantia non est recedendum. Quisque ut dolor gravida, placerat libero vel, euismod. Plura mihi bona sunt, inclinet, amari petere vellent.</p>
+                        <p>
+                            Lorem ipsum dolor sit amet, consectetur adipisici elit, sed eiusmod tempor incidunt ut labore et
+                            dolore magna aliqua. A communi observantia non est recedendum. Quisque ut dolor gravida, placerat 
+                            libero vel, euismod. Plura mihi bona sunt, inclinet, amari petere vellent.
+                        </p>
                     </div>
                    
 
@@ -62,18 +75,30 @@
                 <div class="tab_container">
                     <h3 class="d_active tab_drawer_heading" rel="tab4">Tab Title 1</h3>
                     <div id="tab4" class="tab_content">                       
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisici elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Etiam habebis sem dicantur magna mollis euismod. Inmensae subtilitatis, obscuris et malesuada fames. Idque Caesaris facere voluntate liceret: sese habere. Idque Caesaris facere voluntate liceret: sese habere.</p>
+                        <p>
+                            Lorem ipsum dolor sit amet, consectetur adipisici elit, sed eiusmod tempor incidunt ut labore et
+                            dolore magna aliqua. Etiam habebis sem dicantur magna mollis euismod. Inmensae subtilitatis,
+                            obscuris et malesuada fames. Idque Caesaris facere voluntate liceret: sese habere. Idque Caesaris facere 
+                            voluntate liceret: sese habere.</p>
                     </div>
                     <!-- #tab1 -->
                     <h3 class="tab_drawer_heading" rel="tab5">Tab Title 2</h3>
                     <div id="tab5" class="tab_content">                      
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisici elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Phasellus laoreet lorem vel dolor tempus vehicula. Quisque ut dolor gravida, placerat libero vel, euismod. Nihil hic munitissimus habendi senatus locus, nihil horum? Ut enim ad minim veniam, quis nostrud exercitation. At nos hinc posthac, sitientis piros Afros.
+                        <p>
+                            Lorem ipsum dolor sit amet, consectetur adipisici elit, sed eiusmod tempor incidunt ut labore et
+                            dolore magna aliqua. Phasellus laoreet lorem vel dolor tempus vehicula. Quisque ut dolor gravida,
+                            placerat libero vel, euismod. Nihil hic munitissimus habendi senatus locus, nihil horum? Ut enim 
+                            ad minim veniam, quis nostrud exercitation. At nos hinc posthac, sitientis piros Afros.
                         </p>
                     </div>
                     <!-- #tab2 -->
                     <h3 class="tab_drawer_heading" rel="tab6">Tab Title 3</h3>
                     <div id="tab6" class="tab_content">                       
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisici elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. A communi observantia non est recedendum. Quisque ut dolor gravida, placerat libero vel, euismod. Plura mihi bona sunt, inclinet, amari petere vellent.</p>
+                        <p>
+                            Lorem ipsum dolor sit amet, consectetur adipisici elit, sed eiusmod tempor incidunt ut labore et
+                            dolore magna aliqua. A communi observantia non est recedendum. Quisque ut dolor gravida, placerat 
+                            libero vel, euismod. Plura mihi bona sunt, inclinet, amari petere vellent.
+                        </p>
                     </div>
                    
 
@@ -95,14 +120,23 @@
                         <div id="collapseTwo" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingTwo">
                             <div class="panel-body"><br>
                                 [gdlr_tabs style="horizontal" initial="1"]<br>
-
-[gdlr_tab title="Tab Title 1" icon_title="icon-file"]Lorem ipsum dolor sit amet, consectetur adipisici elit, sed<br> eiusmod tempor incidunt ut labore et dolore magna aliqua. Etiam habebis sem dicantur magna mollis<br> euismod. Inmensae subtilitatis, obscuris et malesuada fames. Idque Caesaris facere voluntate liceret: sese<br> habere. Idque Caesaris facere voluntate liceret: sese habere.[/gdlr_tab]<br><br>
-
-[gdlr_tab title="Tab Title 2" icon_title="icon-sun"]Lorem ipsum dolor sit amet, consectetur adipisici elit, sed <br>eiusmod tempor incidunt ut labore et dolore magna aliqua. Phasellus laoreet lorem vel dolor tempus vehicula.<br> Quisque ut dolor gravida, placerat libero vel, euismod. Nihil hic munitissimus habendi senatus locus, nihil<br> horum? Ut enim ad minim veniam, quis nostrud exercitation. At nos hinc posthac, sitientis piros Afros.<br>[/gdlr_tab]<br><br>
-
-[gdlr_tab title="Tab Title 3" icon_title="icon-truck"]Lorem ipsum dolor sit amet, consectetur adipisici elit, sed<br> eiusmod tempor incidunt ut labore et dolore magna aliqua. A communi observantia non est recedendum.<br> Quisque ut dolor gravida, placerat libero vel, euismod. Plura mihi bona sunt, inclinet, amari petere vellent.<br>[/gdlr_tab]<br><br>
-
-[/gdlr_tabs]
+                                [gdlr_tab title="Tab Title 1" icon_title="icon-file"]Lorem ipsum dolor sit amet,
+                                consectetur adipisici elit, sed<br> eiusmod tempor incidunt ut labore et dolore magna aliqua. 
+                                Etiam habebis sem dicantur magna 
+                                mollis<br> euismod. Inmensae subtilitatis, obscuris et malesuada fames. 
+                                Idque Caesaris facere voluntate liceret: sese<br> 
+                                habere. Idque Caesaris facere voluntate liceret: sese habere.[/gdlr_tab]<br><br>
+                                [gdlr_tab title="Tab Title 2" icon_title="icon-sun"]Lorem ipsum dolor sit amet,
+                                consectetur adipisici elit, sed <br>eiusmod tempor incidunt ut labore et dolore magna aliqua.
+                                Phasellus laoreet lorem vel dolor 
+                                tempus vehicula.<br> Quisque ut dolor gravida, placerat libero vel, euismod. Nihil hic munitissimus habendi senatus locus, nihil
+                                <br> horum? Ut enim ad minim veniam, quis nostrud exercitation. At nos hinc posthac, 
+                                sitientis piros Afros.<br>[/gdlr_tab]<br><br>
+                                [gdlr_tab title="Tab Title 3" icon_title="icon-truck"]Lorem ipsum dolor sit amet, 
+                                consectetur adipisici elit, sed<br> eiusmod tempor incidunt ut labore et dolore magna aliqua.
+                                A communi observantia non est
+                                recedendum.<br> Quisque ut dolor gravida, placerat libero vel, euismod. Plura mihi bona sunt,
+                                [/gdlr_tabs]
                             </div>
                         </div>
                     </div>

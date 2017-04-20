@@ -55,7 +55,7 @@
 
                 <p>Normal Style, Link To URL</p>
             </div>
-           
+
             <div class="clearfix"></div>
             <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
                 <div class="panel panel-default">
@@ -69,10 +69,26 @@
                     </div>
                     <div id="collapseOne" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingOne">
                         <div class="panel-body">
-                            [gdlr_frame type="normal" align="left" caption="Normal Style, Link To URL"] [gdlr_image_link type="url" image_url="http://demo.goodlayers.com/versatile/wp-content/uploads/2013/11/photodune-5347441-the-brooklyn-bridge-in-new-york-city-m.jpg" alt=" " link_url="http://goodlayers.com" target="_blank" width="310px"][/gdlr_frame]
-                            [gdlr_frame type="border" align="left" caption="Border Style, Open image With Lightbox"] [gdlr_image_link type="image" image_url="http://demo.goodlayers.com/versatile/wp-content/uploads/2013/11/photodune-5347441-the-brooklyn-bridge-in-new-york-city-m.jpg" alt=" " link_url="http://demo.goodlayers.com/versatile/wp-content/uploads/2013/11/photodune-5347441-the-brooklyn-bridge-in-new-york-city-m.jpg" target="_blank" width="310px"][/gdlr_frame]
-                            [gdlr_frame type="solid" align="left" caption="Solid Style, Open Video With Lightbox" background_color="#aa4243"] [gdlr_image_link type="video" image_url="http://demo.goodlayers.com/versatile/wp-content/uploads/2013/11/photodune-5347441-the-brooklyn-bridge-in-new-york-city-m.jpg" alt=" " link_url="http://www.youtube.com/watch?v=SZEflIVnhH8" width="310px"][/gdlr_frame]
-                            [gdlr_frame type="rounded" align="left" caption="Rounded Corner, Open image With Lightbox"] [gdlr_image_link type="image" image_url="http://demo.goodlayers.com/versatile/wp-content/uploads/2013/11/photodune-5347441-the-brooklyn-bridge-in-new-york-city-m.jpg" link_url="http://demo.goodlayers.com/versatile/wp-content/uploads/2013/11/photodune-5347441-the-brooklyn-bridge-in-new-york-city-m.jpg" alt=" " width="310px"]
+                            [gdlr_frame type="normal" align="left" caption="Normal Style, Link To URL"] 
+                            [gdlr_image_link type="url"<br> image_url="http://demo.goodlayers.com/
+                            versatile/wp-content/uploads/2013/11/photodune-5347441-the<br>-brooklyn-bridge-in-new-york-city-m.jpg" alt=" " 
+                            link_url="http://goodlayers.com" target="_blank" <br>width="310px"][/gdlr_frame]<br>
+                            [gdlr_frame type="border" align="left" caption="Border Style, Open image With Lightbox"] [gdlr_image_link<br>
+                            type="image" 
+                            image_url="http://demo.goodlayers.com/versatile/wp-content/uploads/2013/11/photodune
+                            <br>-5347441-the-brooklyn-bridge-in-new-york-city-m.jpg" alt=" "<br> 
+                            link_url="http://demo.goodlayers.com/versatile/wp-content/uploads/2013/11/photodune-5347441-the<br>
+                            -brooklyn-bridge-in-new-york-city-m.jpg" target="_blank" width="310px"][/gdlr_frame]<br>
+                            [gdlr_frame type="solid" align="left" caption="Solid Style, Open Video With
+                            Lightbox"<br> background_color="#aa4243"] [gdlr_image_link type="video"<br> 
+                            image_url="http://demo.goodlayers.com/versatile/wp-content/uploads/2013/11/photodune-5347441-the<br>-
+                            brooklyn-bridge-in-new-york-city-m.jpg" alt=" " link_url="http://www.youtube.com/watch?v=SZEflIVnhH8"<br> 
+                            width="310px"][/gdlr_frame]<br>
+                            [gdlr_frame type="rounded" align="left" caption="Rounded Corner, Open image With Lightbox"] 
+                            <br>[gdlr_image_link type="image" image_url="http://demo.goodlayers.com/versatile/wp-<br>
+                            content/uploads/2013/11/photodune-5347441-the-brooklyn-bridge-in-new-york-city-m.jpg" <br>
+                            link_url="http://demo.goodlayers.com/versatile/wp-content/uploads/2013/11/photodune-5347441-the-<br>
+                            brooklyn-bridge-in-new-york-city-m.jpg" alt=" " width="310px"]<br>
                             [/gdlr_frame]
                         </div>
                     </div>
@@ -105,9 +121,10 @@
                     </div>
                     <div id="collapseTwo" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingTwo">
                         <div class="panel-body">
-                            [gdlr_frame type="circle border" background="#aa4243" align="center"] [gdlr_image_link type="image"
-                            image_url="http://demo.goodlayers.com/flawless/wp-content/uploads/2013/11/phone.jpg" alt=" " 
-                            link_url="http://demo.goodlayers.com/flawless/wp-content/uploads/2013/11/phone.jpg" target="_blank" width="350px"][/gdlr_frame]
+                            [gdlr_frame type="circle border" background="#aa4243" align="center"] [gdlr_image_link type="image"<br>
+                            image_url="http://demo.goodlayers.com/flawless/wp-content/uploads/2013/11/phone.jpg" alt=" " <br>
+                            link_url="http://demo.goodlayers.com/flawless/wp-content/uploads/2013/11/phone.jpg" target="_blank"<br>
+                            width="350px"][/gdlr_frame]
                         </div>
                     </div>
                 </div>

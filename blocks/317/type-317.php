@@ -20,21 +20,30 @@
                             <img src="images/1.jpg" alt="Chania">
                             <div class="carousel-caption">
                                 <h3>Nihilne te nocturnu</h3>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipisici elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Idque Caesaris facere voluntate liceret: sese habere....</p>
+                                <p>
+                                    Lorem ipsum dolor sit amet, consectetur adipisici elit, sed eiusmod tempor incidunt ut 
+                                    labore et dolore magna aliqua. Idque Caesaris facere voluntate liceret: sese habere....
+                                </p>
                             </div>
                         </div>
                         <div class="item">
                             <img src="images/2.jpg" alt="Flower">
                             <div class="carousel-caption">
                                 <h3>Parturient montes</h3>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipisici elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Idque Caesaris facere voluntate liceret: sese habere....</p>
+                                <p>
+                                    Lorem ipsum dolor sit amet, consectetur adipisici elit, sed eiusmod tempor incidunt ut 
+                                    labore et dolore magna aliqua. Idque Caesaris facere voluntate liceret: sese habere....
+                                </p>
                             </div>
                         </div>
                         <div class="item">
                             <img src="images/3.jpg" alt="Flower">
                             <div class="carousel-caption">
                                 <h3>Diem certam indicere</h3>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipisici elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Idque Caesaris facere voluntate liceret: sese habere....</p>
+                                <p>
+                                    Lorem ipsum dolor sit amet, consectetur adipisici elit, sed eiusmod tempor incidunt ut
+                                    labore et dolore magna aliqua. Idque Caesaris facere voluntate liceret: sese habere....
+                                </p>
                             </div>
                         </div>
                     </div>

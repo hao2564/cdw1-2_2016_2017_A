@@ -5,8 +5,11 @@
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1">     
-        <?php if (!class_exists( 'lessc')) { include ( './libs/lessc.inc.php'); }
-        $less=new lessc;
+        <?php
+        if (!class_exists('lessc')) {
+            include ( './libs/lessc.inc.php');
+        }
+        $less = new lessc;
         $less->compileFile('less/type-312.less', 'css/type-312.css');
         ?>
         <link href="css/type-312.css" rel="stylesheet" type="text/css" /> 
@@ -18,12 +21,12 @@
     </head>
 
     <body>
-      
-        <?php
-            include 'type-312.php';
-        ?>
+
+<?php
+include 'type-312.php';
+?>
         <script>
-         $(document).ready(function () {
+            $(document).ready(function () {
                 $('#owl-demo').owlCarousel({
                     loop: true,
                     autoPlay: 3000,
@@ -36,15 +39,15 @@
                         600: {
                             items: 2
                         },
-                        1000:{
+                        1000: {
                             items: 3
                         }
                     }
                 })
             });
         </script>
-      
-     
+
+
     </body>
 
 </html>

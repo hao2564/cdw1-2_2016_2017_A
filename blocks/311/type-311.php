@@ -2,7 +2,7 @@
     <div class="container">
         <div class="row"> 
             <!-- HINH 1-->
-              <div class="col-md-4 col-xs-12 col-sm-6 col-lg-4 margin">               
+            <div class="col-md-4 col-xs-12 col-sm-6 col-lg-4 margin">               
                 <div class="image">
                     <a href="#"> 
                         <img src="images/1.jpg" alt="">
@@ -29,7 +29,10 @@
                     <div class="clearfix"></div>                                                                         
                 </div>
 
-                <div class="content">Lorem ipsum dolor sit amet, consectetur adipisici elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Idque Caesaris facere voluntate liceret: sese habere. Magna pars studiorum, prodita quaerimus....                   
+                <div class="content">
+                    Lorem ipsum dolor sit amet, consectetur adipisici elit, sed eiusmod tempor incidunt ut 
+                    labore et dolore magna aliqua. Idque Caesaris facere voluntate liceret: sese habere. Magna pars studiorum,
+                    prodita quaerimus....                   
                     <br><a href="#" class="readmore">Read More</a>
                     <div class="blog-icon">
                         <i class="icon-comments fa fa-comments"></i>
@@ -69,7 +72,10 @@
                     <div class="clearfix"></div>                                                                         
                 </div>
 
-                <div class="content">Lorem ipsum dolor sit amet, consectetur adipisici elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Idque Caesaris facere voluntate liceret: sese habere. Magna pars studiorum, prodita quaerimus....                   
+                <div class="content">
+                    Lorem ipsum dolor sit amet, consectetur adipisici elit, sed eiusmod tempor incidunt ut 
+                    labore et dolore magna aliqua. Idque Caesaris facere voluntate liceret: sese habere. Magna pars
+                    studiorum, prodita quaerimus....                   
                     <br><a href="#" class="readmore">Read More</a>
                     <div class="blog-icon">
                         <i class="icon-comments fa fa-comments"></i>
@@ -109,7 +115,10 @@
                     <div class="clearfix"></div>                                                                         
                 </div>
 
-                <div class="content">Lorem ipsum dolor sit amet, consectetur adipisici elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Idque Caesaris facere voluntate liceret: sese habere. Magna pars studiorum, prodita quaerimus....                   
+                <div class="content">
+                    Lorem ipsum dolor sit amet, consectetur adipisici elit, sed eiusmod tempor incidunt ut labore et
+                    dolore magna aliqua. Idque Caesaris facere voluntate liceret: sese habere. Magna pars studiorum,
+                    prodita quaerimus....                   
                     <br><a href="#" class="readmore">Read More</a>
                     <div class="blog-icon">
                         <i class="icon-comments fa fa-comments"></i>
@@ -149,7 +158,10 @@
                     <div class="clearfix"></div>                                                                         
                 </div>
 
-                <div class="content">Lorem ipsum dolor sit amet, consectetur adipisici elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Idque Caesaris facere voluntate liceret: sese habere. Magna pars studiorum, prodita quaerimus....                   
+                <div class="content">
+                    Lorem ipsum dolor sit amet, consectetur adipisici elit, sed eiusmod tempor incidunt ut 
+                    labore et dolore magna aliqua. Idque Caesaris facere voluntate liceret: sese habere. Magna pars studiorum, 
+                    prodita quaerimus....                   
                     <br><a href="#" class="readmore">Read More</a>
                     <div class="blog-icon">
                         <i class="icon-comments fa fa-comments"></i>
@@ -189,7 +201,10 @@
                     <div class="clearfix"></div>                                                                         
                 </div>
 
-                <div class="content">Lorem ipsum dolor sit amet, consectetur adipisici elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Idque Caesaris facere voluntate liceret: sese habere. Magna pars studiorum, prodita quaerimus....                   
+                <div class="content">
+                    Lorem ipsum dolor sit amet, consectetur adipisici elit, sed eiusmod tempor incidunt ut
+                    labore et dolore magna aliqua. Idque Caesaris facere voluntate liceret: sese habere. Magna pars studiorum,
+                    prodita quaerimus....                   
                     <br><a href="#" class="readmore">Read More</a>
                     <div class="blog-icon">
                         <i class="icon-comments fa fa-comments"></i>
@@ -229,7 +244,10 @@
                     <div class="clearfix"></div>                                                                         
                 </div>
 
-                <div class="content">Lorem ipsum dolor sit amet, consectetur adipisici elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Idque Caesaris facere voluntate liceret: sese habere. Magna pars studiorum, prodita quaerimus....                   
+                <div class="content">
+                    Lorem ipsum dolor sit amet, consectetur adipisici elit, sed eiusmod tempor incidunt ut 
+                    labore et dolore magna aliqua. Idque Caesaris facere voluntate liceret: sese habere. Magna pars studiorum,
+                    prodita quaerimus....                   
                     <br><a href="#" class="readmore">Read More</a>
                     <div class="blog-icon">
                         <i class="icon-comments fa fa-comments"></i>
@@ -269,7 +287,9 @@
                     <div class="clearfix"></div>                                                                         
                 </div>
 
-                <div class="content">Lorem ipsum dolor sit amet, consectetur adipisici elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Idque Caesaris facere voluntate liceret: sese habere. Magna pars studiorum, prodita quaerimus....                   
+                <div class="content">
+                    Lorem ipsum dolor sit amet, consectetur adipisici elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Idque Caesaris facere voluntate liceret:
+                    sese habere. Magna pars studiorum, prodita quaerimus....                   
                     <br><a href="#" class="readmore">Read More</a>
                     <div class="blog-icon">
                         <i class="icon-comments fa fa-comments"></i>
@@ -309,7 +329,10 @@
                     <div class="clearfix"></div>                                                                         
                 </div>
 
-                <div class="content">Lorem ipsum dolor sit amet, consectetur adipisici elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Idque Caesaris facere voluntate liceret: sese habere. Magna pars studiorum, prodita quaerimus....                   
+                <div class="content">
+                    Lorem ipsum dolor sit amet, consectetur adipisici elit, sed eiusmod tempor incidunt ut
+                    labore et dolore magna aliqua. Idque Caesaris facere voluntate liceret: sese habere. Magna pars studiorum,
+                    prodita quaerimus....                   
                     <br><a href="#" class="readmore">Read More</a>
                     <div class="blog-icon">
                         <i class="icon-comments fa fa-comments"></i>
@@ -349,7 +372,9 @@
                     <div class="clearfix"></div>                                                                         
                 </div>
 
-                <div class="content">Lorem ipsum dolor sit amet, consectetur adipisici elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Idque Caesaris facere voluntate liceret: sese habere. Magna pars studiorum, prodita quaerimus....                   
+                <div class="content">
+                    Lorem ipsum dolor sit amet, consectetur adipisici elit, sed eiusmod tempor incidunt ut labore et dolore magna
+                    aliqua. Idque Caesaris facere voluntate liceret: sese habere. Magna pars studiorum, prodita quaerimus....                   
                     <br><a href="#" class="readmore">Read More</a>
                     <div class="blog-icon">
                         <i class="icon-comments fa fa-comments"></i>

@@ -24,11 +24,16 @@
                             </div>
                             <div id="collapseOne" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingOne">
                                 <div class="panel-body">
-                                    [gdlr_button href="http://www.goodlayers.com" target="_self" size="small" background="#94d64f" color="#ffffff"]Click Me[/gdlr_button]<br>
-    [gdlr_button href="http://www.goodlayers.com" target="_self" size="small" background="#d6724f" color="#ffffff"]Click Me[/gdlr_button]<br>
-    [gdlr_button href="http://www.goodlayers.com" target="_self" size="small" background="#d64f78" color="#ffffff"]Click Me[/gdlr_button]<br>
-    [gdlr_button href="http://www.goodlayers.com" target="_self" size="small" background="#d64f4f" color="#ffffff"]Click Me[/gdlr_button]<br>
-    [gdlr_button href="http://www.goodlayers.com" target="_self" size="small" background="#4fbed6" color="#ffffff"]Click Me[/gdlr_button]
+                                    [gdlr_button href="http://www.goodlayers.com" target="_self" size="small" background="#94d64f"
+                                    color="#ffffff"]Click Me[/gdlr_button]<br>
+                                    [gdlr_button href="http://www.goodlayers.com" target="_self" size="small" background="#d6724f"
+                                    color="#ffffff"]Click Me[/gdlr_button]<br>
+                                    [gdlr_button href="http://www.goodlayers.com" target="_self" size="small" background="#d64f78" 
+                                    color="#ffffff"]Click Me[/gdlr_button]<br>
+                                    [gdlr_button href="http://www.goodlayers.com" target="_self" size="small" background="#d64f4f" 
+                                    color="#ffffff"]Click Me[/gdlr_button]<br>
+                                    [gdlr_button href="http://www.goodlayers.com" target="_self" size="small" background="#4fbed6" 
+                                    color="#ffffff"]Click Me[/gdlr_button]
                                 </div>
                             </div>
                         </div>
@@ -57,11 +62,16 @@
                             </div>
                             <div id="collapseTwo" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingTwo">
                                 <div class="panel-body">
-                                    [gdlr_button href="http://www.goodlayers.com" target="_self" size="medium" background="#94d64f" color="#ffffff"]Click Me[/gdlr_button]<br>
-    [gdlr_button href="http://www.goodlayers.com" target="_self" size="medium" background="#d6724f" color="#ffffff"]Click Me[/gdlr_button]<br>
-    [gdlr_button href="http://www.goodlayers.com" target="_self" size="medium" background="#4fbed6" color="#ffffff"]Click Me[/gdlr_button]<br>
-    [gdlr_button href="http://www.goodlayers.com" target="_self" size="medium" background="#d64f92" color="#ffffff"]Click Me[/gdlr_button]<br>
-    [gdlr_button href="http://www.goodlayers.com" target="_self" size="medium" background="#4f8ed6" color="#ffffff"]Click Me[/gdlr_button]
+                                    [gdlr_button href="http://www.goodlayers.com" target="_self" size="medium" 
+                                    background="#94d64f" color="#ffffff"]Click Me[/gdlr_button]<br>
+                                    [gdlr_button href="http://www.goodlayers.com" target="_self" size="medium" background="#d6724f" 
+                                    color="#ffffff"]Click Me[/gdlr_button]<br>
+                                    [gdlr_button href="http://www.goodlayers.com" target="_self" size="medium" background="#4fbed6" 
+                                    color="#ffffff"]Click Me[/gdlr_button]<br>
+                                    [gdlr_button href="http://www.goodlayers.com" target="_self" size="medium" background="#d64f92"
+                                    color="#ffffff"]Click Me[/gdlr_button]<br>
+                                    [gdlr_button href="http://www.goodlayers.com" target="_self" size="medium" background="#4f8ed6" 
+                                    color="#ffffff"]Click Me[/gdlr_button]
                                 </div>
                             </div>
                         </div>
@@ -91,11 +101,16 @@
                             </div>
                             <div id="collapseThree" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingThree">
                                 <div class="panel-body">
-                                    [gdlr_button href="http://www.goodlayers.com" target="_self" size="large" background="#94d64f" color="#ffffff"]Click Me[/gdlr_button]<br>
-[gdlr_button href="http://www.goodlayers.com" target="_self" size="large" background="#d64f78" color="#ffffff"]Click Me[/gdlr_button]<br>
-[gdlr_button href="http://www.goodlayers.com" target="_self" size="large" background="#d6724f" color="#ffffff"]Click Me[/gdlr_button]<br>
-[gdlr_button href="http://www.goodlayers.com" target="_self" size="large" background="#4fbed6" color="#ffffff"]Click Me[/gdlr_button]<br>
-[gdlr_button href="http://www.goodlayers.com" target="_self" size="large" background="#d64f4f" color="#ffffff"]Click Me[/gdlr_button]
+                                    [gdlr_button href="http://www.goodlayers.com" target="_self" size="large"
+                                    background="#94d64f" color="#ffffff"]Click Me[/gdlr_button]<br>
+                                    [gdlr_button href="http://www.goodlayers.com" target="_self" size="large" background="#d64f78" 
+                                    color="#ffffff"]Click Me[/gdlr_button]<br>
+                                    [gdlr_button href="http://www.goodlayers.com" target="_self" size="large" background="#d6724f" 
+                                    color="#ffffff"]Click Me[/gdlr_button]<br>
+                                    [gdlr_button href="http://www.goodlayers.com" target="_self" size="large" background="#4fbed6" 
+                                    color="#ffffff"]Click Me[/gdlr_button]<br>
+                                    [gdlr_button href="http://www.goodlayers.com" target="_self" size="large" background="#d64f4f"
+                                    color="#ffffff"]Click Me[/gdlr_button]
                                 </div>
                             </div>
                         </div>
@@ -120,9 +135,12 @@
                             </div>
                             <div id="collapseFour" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingFour">
                                 <div class="panel-body">
-                                    [gdlr_button href="http://www.goodlayers.com" target="_self" size="medium" background="#94d64f" color="#ffffff" with_border="yes" border_color="#5c8f26"]Button Text[/gdlr_button]<br>
-[gdlr_button href="http://www.goodlayers.com" target="_self" size="medium" background="#d6724f" color="#ffffff" with_border="yes" border_color="#98543c"]Button Text[/gdlr_button]<br>
-[gdlr_button href="http://www.goodlayers.com" target="_self" size="medium" background="#4fbed6" color="#ffffff" with_border="yes" border_color="#368799"]Button Text[/gdlr_button]
+                                    [gdlr_button href="http://www.goodlayers.com" target="_self" size="medium"
+                                    background="#94d64f" color="#ffffff" with_border="yes" border_color="#5c8f26"]Button Text[/gdlr_button]<br>
+                                    [gdlr_button href="http://www.goodlayers.com" target="_self" size="medium" background="#d6724f" 
+                                    color="#ffffff" with_border="yes" border_color="#98543c"]Button Text[/gdlr_button]<br>
+                                    [gdlr_button href="http://www.goodlayers.com" target="_self" size="medium" background="#4fbed6"
+                                    color="#ffffff" with_border="yes" border_color="#368799"]Button Text[/gdlr_button]
                                 </div>
                             </div>
                         </div>
@@ -148,9 +166,13 @@
                             </div>
                             <div id="collapseFive" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingFive">
                                 <div class="panel-body">
-                                    [gdlr_button href="http://www.goodlayers.com" target="_self" size="medium" background="#94d64f"<br> color="#ffffff" with_border="yes" border_color="#5c8f26"][gdlr_icon type="icon-headphones"] Button Text[/gdlr_button]<br>
-[gdlr_button href="http://www.goodlayers.com" target="_self" size="medium" background="#d6724f"<br> color="#ffffff" with_border="yes" border_color="#98543c"][gdlr_icon type="icon-plane"] Button <br>Text[/gdlr_button]
-<br>[gdlr_button href="http://www.goodlayers.com" target="_self" size="medium" background="#4fbed6"<br> color="#ffffff" with_border="yes" border_color="#368799"][gdlr_icon type="icon-apple"] Button<br> Text[/gdlr_button]
+                                    [gdlr_button href="http://www.goodlayers.com" target="_self" size="medium" 
+                                    background="#94d64f"<br> color="#ffffff" with_border="yes" border_color="#5c8f26"]
+                                    [gdlr_icon type="icon-headphones"] Button Text[/gdlr_button]<br>
+                                    [gdlr_button href="http://www.goodlayers.com" target="_self" size="medium" background="#d6724f"<br>
+                                    color="#ffffff" with_border="yes" border_color="#98543c"][gdlr_icon type="icon-plane"] Button <br>Text[/gdlr_button]
+                                    <br>[gdlr_button href="http://www.goodlayers.com" target="_self" size="medium" background="#4fbed6"<br>
+                                    color="#ffffff" with_border="yes" border_color="#368799"][gdlr_icon type="icon-apple"] Button<br> Text[/gdlr_button]
                                 </div>
                             </div>
                         </div>
