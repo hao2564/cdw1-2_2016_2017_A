@@ -1,0 +1,55 @@
+.type-290 .page-not-found-block {
+  color: #ffffff;
+}
+.type-290 .page-not-found-block {
+  background-color: #d65938;
+}
+.type-290 .page-not-found-block {
+  text-align: center;
+  padding: 50px 50px 60px;
+  margin: 50px 0px 50px;
+}
+.type-290 .page-not-found-block .page-not-found-icon {
+  font-size: 89px;
+  line-height: 1;
+  margin-bottom: 20px;
+}
+.type-290 .page-not-found-block .page-not-found-title {
+  font-size: 45px;
+  line-height: 1;
+  margin-bottom: 17px;
+}
+.type-290 .page-not-found-block .page-not-found-caption {
+  font-size: 20px;
+  margin-bottom: 35px;
+}
+.type-290 .page-not-found-search {
+  max-width: 300px;
+  margin: 0px auto;
+}
+.type-290 page-not-found-search .gdl-search-form {
+  padding-right: 30px;
+}
+.type-290 .page-not-found-search .gdl-search-form input[type="text"] {
+  color: #d57f5c;
+}
+.type-290 .page-not-found-search .gdl-search-form input[type="text"] {
+  background-color: #963a20;
+}
+.type-290 .page-not-found-search .gdl-search-form input[type="text"] {
+  padding: 10px;
+  font-size: 15px;
+  border: none;
+  border-radius: 0;
+}
+.type-290 a {
+  text-decoration: none;
+  color: #ffffff;
+}
+.type-290 a:hover {
+  hover: none;
+}
+.type-290 .fa {
+  margin-left: -24px;
+  margin-top: 11px;
+}
