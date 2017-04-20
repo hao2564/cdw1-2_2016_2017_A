@@ -1,0 +1,139 @@
+.type-291 img {
+  width: 100%;
+  height: auto;
+}
+.type-291 .icon {
+  font-size: 18px;
+  padding: 19px 19px 18px 20px;
+  color: #fff;
+  background-color: #963a20;
+}
+.type-291 .text {
+  color: white;
+  font-size: 20px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%,-50%);
+  -ms-transform: translate(-50%,-50%);
+}
+.type-291 .thumb {
+  border: none;
+}
+.type-291 p {
+  text-align: center;
+}
+.type-291 .demo {
+  position: relative;
+}
+.type-291 .demo img {
+  width: 100%;
+}
+.type-291 .demo .text {
+  display: none;
+}
+.type-291 .demo a:hover {
+  background-color: #0a0101;
+}
+.type-291 .demo a:hover .overlay {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  opacity: 0.6;
+  transition: .5s ease;
+  background-color: #0a0101;
+}
+.type-291 .demo a:hover .text {
+  display: block;
+}
+.type-291 .portfolio-thumbnail {
+  margin-bottom: 28px;
+}
+.type-291 .portfolio-title {
+  font-size: 19px;
+  font-weight: bold;
+  text-transform: uppercase;
+  margin-bottom: 10px;
+  text-align: center;
+}
+.type-291 .portfolio-title a {
+  color: #303030;
+}
+.type-291 .portfolio-title a:hover {
+  color: #aa4243;
+}
+.type-291 .portfolio-info {
+  font-size: 11px;
+  text-transform: uppercase;
+  margin-bottom: 15px;
+  color: #a2a2a2;
+  text-align: center;
+}
+.type-291 .portfolio-info a {
+  color: #a2a2a2;
+}
+.type-291 a {
+  text-decoration: none;
+}
+.type-291 p {
+  text-align: center;
+  color: #a2a2a2;
+}
+.type-291 .info-head {
+  display: none;
+}
+.type-291 h3 {
+  color: #aa4243;
+  font-size: 23px;
+  font-weight: bold;
+  margin-bottom: 25px;
+  text-transform: uppercase;
+}
+.type-291 .textwidget {
+  color: #a2a2a2;
+}
+.type-291 .widget_recent_comments ul {
+  position: relative;
+  list-style: none;
+  margin-left: -38px;
+}
+.type-291 .widget_recent_comments ul li {
+  margin-bottom: 10px;
+  line-height: 20px;
+  padding-bottom: 10px;
+  border-bottom-width: 1px;
+  border-bottom-style: solid;
+  border-color: #eeeeee;
+}
+.type-291 .fa-chevron-right {
+  font-size: 12px;
+  color: #dcdbdb;
+  margin-right: 10px;
+}
+.type-291 .recentcomments a {
+  color: #aa4243;
+}
+.type-291 .widget_recent_entries ul li {
+  margin-bottom: 10px;
+  line-height: 20px;
+  padding-bottom: 10px;
+  border-bottom-width: 1px;
+  border-bottom-style: solid;
+  border-color: #eeeeee;
+}
+.type-291 .widget_recent_entries ul {
+  position: relative;
+  list-style: none;
+  margin-left: -37px;
+}
+.type-291 ul a {
+  color: #aa4243;
+}
+.type-291 .gdlr-recent-port2-widget .recent-port-widget-thumbnail {
+  max-width: 70px;
+  float: left;
+  margin-right: 15px;
+  margin-bottom: 15px;
+}
