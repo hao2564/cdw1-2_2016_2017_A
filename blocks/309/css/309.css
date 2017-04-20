@@ -1,0 +1,88 @@
+.type-309 .only-icon {
+  color: #454545;
+  font-weight: normal;
+  font-size: 24px;
+}
+.type-309 .icon {
+  font-size: 36px;
+  color: #333333;
+}
+.type-309 .icon i {
+  margin-right: 10px;
+}
+.type-309 .panel-group .panel {
+  border-radius: 0;
+  box-shadow: none;
+  border-color: #EEEEEE;
+}
+.type-309 .panel-group {
+  margin-top: 15px;
+}
+.type-309 .panel-default > .panel-heading {
+  padding: 0;
+  border-radius: 0;
+  color: #212121;
+  background-color: #FAFAFA;
+  border-color: #EEEEEE;
+}
+.type-309 .panel-title {
+  font-size: 14px;
+  background: #fff;
+}
+.type-309 .panel-title > a {
+  display: block;
+  padding: 15px;
+  text-decoration: none;
+}
+.type-309 .btn-list {
+  margin-top: 10px;
+  margin-bottom: 15px;
+  color: #ffffff;
+  background-color: #d64f78;
+  border-color: #95445c;
+  display: inline-block;
+  padding: 15px 50px;
+}
+.type-309 .btn-list a {
+  text-decoration: none;
+  color: #fff;
+  font-weight: bold;
+  font-size: 14px;
+  text-transform: uppercase;
+}
+.type-309 .colored-icon {
+  margin-top: 50px;
+  font-weight: normal;
+  font-size: 24px;
+}
+.type-309 .icon-color {
+  font-size: 60px;
+}
+.type-309 .icon-color .fa-fire {
+  color: #91d549;
+}
+.type-309 .icon-color .fa-instagram {
+  color: #49d5c0;
+}
+.type-309 .icon-color .fa-bell-o {
+  color: #4984d5;
+  background: #fff;
+}
+.type-309 .icon-color .fa-bolt {
+  color: #d55949;
+}
+.type-309 .icon-color .fa-flask {
+  color: #ea803a;
+}
+.type-309 .icon-color .fa-thumbs-o-up {
+  color: #91d549;
+}
+.type-309 .icon-color .fa-html5 {
+  color: #e5427b;
+}
+.type-309 .icon-color .fa-gamepad {
+  color: #d55949;
+}
+.type-309 .icon-color .fa-globe {
+  color: #4984d5;
+}
