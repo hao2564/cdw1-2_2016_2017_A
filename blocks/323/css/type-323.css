@@ -162,8 +162,6 @@
 }
 @media (max-width: 768px) {
   .type-323 .background {
-    margin-left: 15px;
-    margin-right: 15px;
     margin-top: 30px;
     text-align: center;
     background-color: #9ada55;
@@ -171,8 +169,6 @@
     padding: 5px 40px 580px;
   }
   .type-323 .background1 {
-    margin-left: 15px;
-    margin-right: 15px;
     margin-top: 30px;
     text-align: center;
   }
