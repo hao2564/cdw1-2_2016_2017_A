@@ -1,0 +1,55 @@
+.type-293 h2 {
+  font-size: 26px;
+  font-weight: bold;
+}
+.type-293 h3 {
+  text-align: center;
+  font-size: 21px;
+  margin-bottom: 17px;
+  font-weight: normal;
+}
+.type-293 p {
+  text-align: center;
+}
+.type-293 .gdlr-process-tab .gdlr-process-icon {
+  margin: 0px auto 30px;
+}
+.type-293 .gdlr-process-icon {
+  width: 24px;
+  height: 24px;
+  line-height: 24px;
+  font-size: 22px;
+  padding: 30px;
+  overflow: hidden;
+  border-width: 3px;
+  border-style: solid;
+  -moz-border-radius: 50%;
+  -webkit-border-radius: 50%;
+  border-radius: 50%;
+  border-color: #e5e5e5;
+  background-color: #f3f3f3;
+}
+.type-293 .gdlr-process-tab .gdlr-process-icon {
+  margin: 0px auto 30px;
+}
+.type-293 .fa-rss {
+  margin: -8px;
+}
+.type-293 .fa-fire {
+  margin: -8px;
+}
+.type-293 .fa-flag {
+  margin: -8px;
+}
+.type-293 .panel-default > .panel-heading {
+  padding: 0;
+  background-color: #FAFAFA;
+}
+.type-293 .panel-title {
+  font-size: 14px;
+}
+.type-293 .panel-title > a {
+  display: block;
+  padding: 10px;
+  text-decoration: none;
+}
