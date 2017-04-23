@@ -1,0 +1,80 @@
+.type-294 h3 {
+  font-size: 17px;
+  font-weight: 700;
+  text-transform: uppercase;
+  margin-bottom: 15px;
+  padding-top: 10px;
+  padding-bottom: 8px;
+  border-bottom-width: 0px;
+  border-bottom-style: solid;
+}
+.type-294 a {
+  text-decoration: none;
+  color: #aa4243;
+}
+.type-294 img {
+  max-width: 100%;
+  height: auto;
+  width: auto;
+}
+.type-294 .gdlr-post-author .post-author-avartar {
+  float: left;
+  margin-right: 20px;
+}
+.type-294 .gdlr-post-author .post-author {
+  font-size: 17px;
+  margin-bottom: 10px;
+}
+.type-294 .gdlr-comments-area .comments-title {
+  font-size: 12px;
+  font-weight: 700;
+  text-transform: uppercase;
+  margin-bottom: 20px;
+  padding-top: 30px;
+  padding-bottom: 8px;
+  border-bottom-width: 0px;
+  border-bottom-style: solid;
+  letter-spacing: 2px;
+}
+.type-294 .gdlr-comments-area ol.commentlist {
+  list-style: none;
+  margin-left: 0px;
+}
+.type-294 .gdlr-comments-area ol.commentlist .comment-article {
+  margin-bottom: 30px;
+  padding-bottom: 5px;
+  border-bottom-width: 1px;
+  border-bottom-style: solid;
+  border-color: #e5e5e5;
+}
+.type-294 .gdlr-comments-area .comment-avatar {
+  float: left;
+  overflow: hidden;
+  margin-right: 20px;
+  border-radius: 5px;
+}
+.type-294 .gdlr-comments-area .comment-author {
+  font-size: 15px;
+  font-weight: bold;
+  margin-bottom: 4px;
+}
+.type-294 .gdlr-comments-area ol.commentlist ol.children {
+  list-style: none;
+  margin-left: 40px;
+}
+.type-294 .comment-time time {
+  font-style: italic;
+}
+.type-294 .comment-reply {
+  float: right;
+  margin-top: -21px;
+}
+.type-294 .fa {
+  font-size: 16px;
+  line-height: 20px;
+  margin-right: 3px;
+  color: a3a3a3;
+}
+.type-294 p {
+  margin-top: 12px;
+}
