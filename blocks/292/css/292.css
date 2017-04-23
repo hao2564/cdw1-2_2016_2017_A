@@ -1,0 +1,41 @@
+.type-292 img {
+  width: 100%;
+  height: auto;
+}
+.type-292 h1 {
+  color: #333;
+}
+.type-292 a {
+  text-decoration: none;
+  color: #bababa;
+}
+.type-292 .gdlr-blog-title {
+  font-size: 22px;
+  font-weight: bold;
+  margin-bottom: 18px;
+}
+.type-292 .gdlr-blog-title:hover {
+  font-size: 22px;
+  font-weight: bold;
+  margin-bottom: 18px;
+  color: #aa4243;
+}
+.type-292 .gdlr-blog-full .gdlr-blog-info {
+  font-size: 13px;
+}
+.type-292 .gdlr-blog-info .blog-info {
+  float: left;
+  margin-right: 15px;
+  margin-bottom: 3px;
+}
+.type-292 .blog-info {
+  color: #bababa;
+}
+.type-292 .gdlr-blog-info i {
+  font-size: 15px;
+  margin-right: 4px;
+}
+.type-292 img:hover {
+  opacity: 0.5;
+  filter: alpha(opacity=50);
+}
