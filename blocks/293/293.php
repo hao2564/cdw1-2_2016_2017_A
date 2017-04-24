@@ -23,45 +23,33 @@
                 <div class="title" style="margin: 15px;">
                     <h2>Horizontal Process</h2>
                 </div>
-                <div class="col-md-4" style="margin-top: 15px;">
+                <div class="col-md-4 col-sm-12" style="margin-top: 15px;">
                     <div class="gdlr-process-tab" style="min-height: 200px;">
                         <div class="gdlr-process-icon">
                             <i class="fa fa-rss" aria-hidden="true"></i>
                         </div>
-                        <div class="gdlr-process-tab-content">
-                            <h3>Vehicula Egestas</h3>
-                            <div class="gdlr-process-caption">
-                                <p>Qui ipsorum lingua Celtae, nostra Galli appellantur. Paullum deliquit, ponderibus mod lisque suis ratio utitur. Me non paenitet nullum festivior em excog itasse ad hoc.</p>
-                            </div>
-                        </div>
+                        <h3>Vehicula Egestas</h3>
+                        <p>Qui ipsorum lingua Celtae, nostra Galli appellantur. Paullum deliquit, ponderibus mod lisque suis ratio utitur. Me non paenitet nullum festivior em excog itasse ad hoc.</p>
                     </div>
                 </div>
 
-                <div class="col-md-4" style="margin-top: 15px;">
+                <div class="col-md-4 col-sm-12" style="margin-top: 15px;">
                     <div class="gdlr-process-tab" style="min-height: 200px;">
                         <div class="gdlr-process-icon">
                             <i class="fa fa-flag" aria-hidden="true"></i>
                         </div>
-                        <div class="gdlr-process-tab-content">
-                            <h3>Nocturnum Tempor</h3>
-                            <div class="gdlr-process-caption">
-                                <p>Qui ipsorum lingua Celtae, nostra Galli appellantur. Paullum deliquit, ponderibus mod lisque suis ratio utitur. Me non paenitet nullum festivior em excog itasse ad hoc.</p>
-                            </div>
-                        </div>
+                        <h3>Nocturnum Tempor</h3>
+                        <p>Qui ipsorum lingua Celtae, nostra Galli appellantur. Paullum deliquit, ponderibus mod lisque suis ratio utitur. Me non paenitet nullum festivior em excog itasse ad hoc.</p>
                     </div>
                 </div>
 
-                <div class="col-md-4" style="margin-top: 15px;">
+                <div class="col-md-4 col-sm-12" style="margin-top: 15px;">
                     <div class="gdlr-process-tab" style="min-height: 200px;">
                         <div class="gdlr-process-icon">
                             <i class="fa fa-fire" aria-hidden="true"></i>
                         </div>
-                        <div class="gdlr-process-tab-content">
-                            <h3>Concilium Totius</h3>
-                            <div class="gdlr-process-caption">
-                                <p>Qui ipsorum lingua Celtae, nostra Galli appellantur. Paullum deliquit, ponderibus mod lisque suis ratio utitur. Me non paenitet nullum festivior em excog itasse ad hoc.</p>
-                            </div>
-                        </div>
+                        <h3>Concilium Totius</h3>
+                        <p>Qui ipsorum lingua Celtae, nostra Galli appellantur. Paullum deliquit, ponderibus mod lisque suis ratio utitur. Me non paenitet nullum festivior em excog itasse ad hoc.</p>
                     </div>
                 </div>
 
