@@ -35,7 +35,6 @@
                                     <input type="text" name="s" id="s" autocomplete="off" placeholder="Type keywords...">
                                     <a href="#"><i class="fa fa-search" aria-hidden="true"></i></a>
                                 </div>                                 
-
                                 <div class="clear"></div>
                             </form>
                         </div>				

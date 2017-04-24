@@ -18,7 +18,7 @@
         <div class="container">
             <div class="row" style="margin-top: 30px;">
 
-                <div class="col-md-3 col-sm-12" style="margin-top: -23px">
+                <div class="col-md-3 col-sm-12">
                     <h3>Text Widget</h3>
                     <div class="clear"></div>			
                     <div class="textwidget">
@@ -88,7 +88,7 @@
                 </div>
                 <div class="clear"></div>                                       
 
-                <div class="col-md-3 col-sm-12" style="margin-top: -23px">
+                <div class="col-md-3 col-sm-12">
                     <div class="widget_recent_entries">	
                         <h3>Recent Posts</h3>
                         <div class="clear"></div>		
