@@ -22,12 +22,10 @@
                         <div id="" class=" gdlr-item">
                             <h3 class="gdlr-widget-title">About Us</h3>
                             <div class="clear"></div>			
-                            <div class="textwidget">
-                                <p>Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.</p>
-                                <p><strong>Address</strong> : 269 Main Street<br>
-                                    London England</p>
-                                <p><strong>Call</strong> : +1800-222-3333</p>
-                            </div>
+                            <p>Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.</p>
+                            <p><strong>Address</strong> : 269 Main Street<br>
+                                London England</p>
+                            <p><strong>Call</strong> : +1800-222-3333</p>
                         </div>				
                     </div>
 
@@ -92,35 +90,35 @@
                                 <div class="list">
                                     <li>
                                         <i class="fa fa-chevron-circle-right" aria-hidden="true"></i>
-                                        <a href="#">Shoes</a> <span class="count">(4)</span>
+                                        <a href="#">Shoes</a> <span>(4)</span>
                                     </li>
                                 </div>
 
                                 <div class="list">
                                     <li>
                                         <i class="fa fa-chevron-circle-right" aria-hidden="true"></i>
-                                        <a href="#">  Accessory</a> <span class="count">(5)</span>
+                                        <a href="#">  Accessory</a> <span>(5)</span>
                                     </li>
                                 </div>
 
                                 <div class="list">
                                     <li>
                                         <i class="fa fa-chevron-circle-right" aria-hidden="true"></i>
-                                        <a href="#">  T-Shirt</a> <span class="count">(3)</span>
+                                        <a href="#">  T-Shirt</a> <span>(3)</span>
                                     </li>
                                 </div>
 
                                 <div class="list">
                                     <li>
                                         <i class="fa fa-chevron-circle-right" aria-hidden="true"></i>
-                                        <a href="#">  Sport Wear</a> <span class="count">(1)</span>
+                                        <a href="#">  Sport Wear</a> <span>(1)</span>
                                     </li>
                                 </div>
 
                                 <div class="list">
                                     <li>
                                         <i class="fa fa-chevron-circle-right" aria-hidden="true"></i>
-                                        <a href="#">  Man</a> <span class="count">(1)</span>
+                                        <a href="#">  Man</a> <span>(1)</span>
                                     </li>                                  
                                 </div>
                             </ul>

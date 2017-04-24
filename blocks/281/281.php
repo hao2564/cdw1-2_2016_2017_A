@@ -18,12 +18,10 @@
         <div class="container">
             <div class="row padding">
                 <div class="col-md-3 col-xs-12 col-sm-6 col-lg-3">
-                    <div class="portfolio-thumbnail">
-                        <a class="image"  href="#">
-                            <span class="roll" ></span>
-                            <img class="imgborder" src="images/photodune-7717723-soccer-players-m-440x550">
-                        </a>
-                    </div>
+                    <a class="image"  href="#">
+                        <span class="roll" ></span>
+                        <img src="images/photodune-7717723-soccer-players-m-440x550">
+                    </a>
                     <h3 class="portfolio-title">
                         <a href="#">Thumbnail open lightbox</a>
                     </h3>
@@ -42,13 +40,11 @@
                     </div>
                 </div> 
 
-                <div class="col-md-3 col-xs-12 col-sm-6 col-lg-3">
-                    <div class="portfolio-thumbnail">                             
-                        <a class="image"  href="#">
-                            <span class="roll" ></span>
-                            <img class="imgborder" src="images/photodune-4026532-green-tshirt-isolated-on-white-background-m-2-440x550">
-                        </a>
-                    </div>
+                <div class="col-md-3 col-xs-12 col-sm-6 col-lg-3">                            
+                    <a class="image"  href="#">
+                        <span class="roll" ></span>
+                        <img src="images/photodune-4026532-green-tshirt-isolated-on-white-background-m-2-440x550">
+                    </a>
                     <h3 class="portfolio-title">
                         <a href="#">Thumbnail link to post</a>
                     </h3>
@@ -68,12 +64,10 @@
                 </div> 
 
                 <div class="col-md-3 col-xs-12 col-sm-6 col-lg-3">
-                    <div class="portfolio-thumbnail">
-                        <a class="image"  href="#">
-                            <span class="roll" ></span>
-                            <img class="imgborder" src="images/Fotolia_32413114_Subscription_Monthly_XXL-440x550">
-                        </a>
-                    </div>
+                    <a class="image"  href="#">
+                        <span class="roll" ></span>
+                        <img src="images/Fotolia_32413114_Subscription_Monthly_XXL-440x550">
+                    </a>
                     <h3 class="portfolio-title">
                         <a href="#">Open video lightbox</a>
                     </h3>
@@ -93,12 +87,10 @@
                 </div> 
 
                 <div class="col-md-3 col-xs-12 col-sm-6 col-lg-3">
-                    <div class="portfolio-thumbnail">
-                        <a class="image"  href="#">
-                            <span class="roll" ></span>
-                            <img class="imgborder" src="images/card04-440x550.jpg">
-                        </a>
-                    </div>
+                    <a class="image"  href="#">
+                        <span class="roll" ></span>
+                        <img src="images/card04-440x550.jpg">
+                    </a>
                     <h3 class="portfolio-title">
                         <a href="#">Thumbnail as slider</a>
                     </h3>
@@ -118,12 +110,10 @@
                 </div> 
 
                 <div class="col-md-3 col-xs-12 col-sm-6 col-lg-3 padding">
-                    <div class="portfolio-thumbnail">
-                        <a class="image"  href="#">
-                            <span class="roll" ></span>
-                            <img class="imgborder" src="images/Fotolia_41546445_Subscription_Monthly_XXL-440x550">
-                        </a>
-                    </div>
+                    <a class="image"  href="#">
+                        <span class="roll" ></span>
+                        <img src="images/Fotolia_41546445_Subscription_Monthly_XXL-440x550">
+                    </a>
                     <h3 class="portfolio-title">
                         <a href="#">Video inside this post</a>
                     </h3>
@@ -142,12 +132,10 @@
                 </div> 
 
                 <div class="col-md-3 col-xs-12 col-sm-6 col-lg-3 padding">
-                    <div class="portfolio-thumbnail">
-                        <a class="image"  href="#">
-                            <span class="roll" ></span>
-                            <img class="imgborder" src="images/Fotolia_35748983_Subscription_Monthly_XXL-440x550">
-                        </a>
-                    </div>
+                    <a class="image"  href="#">
+                        <span class="roll" ></span>
+                        <img src="images/Fotolia_35748983_Subscription_Monthly_XXL-440x550">
+                    </a>
                     <h3 class="portfolio-title">
                         <a href="#">Stack images inside</a>
                     </h3>
@@ -167,12 +155,10 @@
                 </div> 
 
                 <div class="col-md-3 col-xs-12 col-sm-6 col-lg-3 padding">
-                    <div class="portfolio-thumbnail">
-                        <a class="image"  href="#">
-                            <span class="roll" ></span>
-                            <img class="imgborder" src="images/photodune-4004965-two-football-players-striking-the-ball-m-440x550">
-                        </a>
-                    </div>
+                    <a class="image"  href="#">
+                        <span class="roll" ></span>
+                        <img src="images/photodune-4004965-two-football-players-striking-the-ball-m-440x550">
+                    </a>
                     <h3 class="portfolio-title">
                         <a href="#">Proin pellentesque</a>
                     </h3>
@@ -192,12 +178,10 @@
                 </div> 
 
                 <div class="col-md-3 col-xs-12 col-sm-6 col-lg-3 padding">
-                    <div class="portfolio-thumbnail">
-                        <a class="image"  href="#">
-                            <span class="roll" ></span>
-                            <img class="imgborder" src="images/photodune-8534664-soccer-shoes-m-2-440x550">
-                        </a>
-                    </div>
+                    <a class="image"  href="#">
+                        <span class="roll" ></span>
+                        <img src="images/photodune-8534664-soccer-shoes-m-2-440x550">
+                    </a>
                     <h3 class="portfolio-title">
                         <a href="#">QUISQUE TEMPOR</a>
                     </h3>

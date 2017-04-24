@@ -97,13 +97,3 @@
   border-bottom-style: solid;
   padding-bottom: 10px;
 }
-@media (min-width: 768px) {
-  .type-280 .navbar-nav {
-    float: right;
-  }
-}
-@media (max-width: 767px) {
-  .type-280 .navbar-nav {
-    text-align: center;
-  }
-}

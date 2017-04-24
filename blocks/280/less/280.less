@@ -1,11 +1,14 @@
 .type-280{
 
     @bg-color: #262626;
+    @color: #dddddd;
+    @margin-bottom: 20px;
+    @margin-right: 15px;
 
     background-color: @bg-color;
 
     .footer-wrapper .gdlr-widget-title {
-        color: #dddddd;
+        color: @color;
     }
 
     .footer-wrapper {
@@ -17,7 +20,7 @@
     }
 
     .footer-wrapper .gdlr-widget-title, .footer-wrapper .gdlr-widget-title a {
-        color: #dddddd;
+        color: @color;
     }
 
     .footer-wrapper .gdlr-widget-title {
@@ -32,7 +35,7 @@
     }
 
     p {
-        margin-bottom: 20px;
+        margin-bottom: @margin-bottom;
     }
 
     .gdlr-item {
@@ -43,7 +46,7 @@
     .recent-post-widget .recent-post-widget-thumbnail {
         max-width: 70px;
         float: left;
-        margin-right: 15px;
+        margin-right: @margin-right;
     }
 
     img {
@@ -120,16 +123,5 @@
         border-bottom-width: 1px;
         border-bottom-style: solid;
         padding-bottom: 10px;
-    }
-
-    @media (min-width: 768px){
-        .navbar-nav{
-            float: right;
-        }
-    }
-    @media (max-width: 767px){
-        .navbar-nav{
-            text-align: center;
-        }
     }
 }
