@@ -130,8 +130,6 @@
     </div>
 
     <script>
-
-
         function toggleIcon(e) {
             $(e.target)
                     .prev('.panel-heading')

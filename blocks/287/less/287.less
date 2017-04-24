@@ -1,6 +1,8 @@
 .type-287{
-    
+
     @color: #aa4243;
+    @font-size: 21px;
+    @font-weight: bold;
 
     img {
         max-width: 100%;
@@ -39,14 +41,15 @@
     }
 
     .gdlr-personnel-item.box-style .personnel-author a {
-        font-size: 21px;
-        font-weight: bold;
+        font-size: @font-size;
+        font-weight: @font-weight;
         color: #222;
     }
-    
+
     .gdlr-personnel-item.box-style .personnel-author a:hover {
-        font-size: 21px;
-        font-weight: bold;
+        font-size: @font-size;
+        font-weight: @font-weight;
+        font-weight: @font-weight;
         color: @color;
     }
 
@@ -80,13 +83,17 @@
         font-size: 22px; 
         margin-right: 5px;
     }
-    
+
     h3 {
-       font-size: 20px;
-       margin-left: 13px;
+        font-size: 20px;
+        margin-left: 13px;
     }
-    
+
     a {
-       text-decoration: none;
+        text-decoration: none;
     }
+
+    .gdlr-space {
+        margin-top: 30px;
+    }    
 }
