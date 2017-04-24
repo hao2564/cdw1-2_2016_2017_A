@@ -151,11 +151,3 @@
 .type-283 .image {
   position: absolute;
 }
-@media (max-width: 767px) {
-  .type-283 .picture .img-overlay {
-    display: none;
-  }
-  .type-283 .owl-nav {
-    display: none;
-  }
-}
