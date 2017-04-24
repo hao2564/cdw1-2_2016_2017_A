@@ -22,15 +22,15 @@
                         <div class="gdlr-item">
                             <h2>Notification Boxes</h2>
                             <div class="clear"></div>
-                            <div class="gdlr-space" style="margin-top: 40px;"></div>
+                            <div class="gdlr-space"></div>
                             <h3>Color Background</h3>
                             <div class="clear"></div>
-                            <div class="gdlr-space" style="margin-top: 30px;"></div>
+                            <div class="gdlr-space"></div>
 
                             <div class="gdlr-shortcode-wrapper">
                                 <div class="gdlr-notification gdlr-item color-background" style="color:#ffffff;background-color:#99d15e;">
                                     <i class="fa fa-flag" aria-hidden="true"></i>
-                                    <div class="notification-content">Lorem ipsum dolor sit amet, consectetur adipisici elit, sed eiusmod tempor incidunt ut.</div>
+                                    <div>Lorem ipsum dolor sit amet, consectetur adipisici elit, sed eiusmod tempor incidunt ut.</div>
                                     <div class="clear"></div>                                     
                                 </div>                                    
                             </div>
@@ -38,7 +38,7 @@
                             <div class="gdlr-shortcode-wrapper">
                                 <div class="gdlr-notification gdlr-item color-background" style="color:#ffffff; background-color:#d15e5e;">
                                     <i class="fa fa-flag" aria-hidden="true"></i>
-                                    <div class="notification-content">Lorem ipsum dolor sit amet, consectetur adipisici elit, sed eiusmod tempor incidunt ut.</div>
+                                    <div>Lorem ipsum dolor sit amet, consectetur adipisici elit, sed eiusmod tempor incidunt ut.</div>
                                     <div class="clear"></div>                                       
                                 </div>                                   
                             </div>
@@ -46,7 +46,7 @@
                             <div class="gdlr-shortcode-wrapper">                          
                                 <div class="gdlr-notification gdlr-item color-background" style="color:#ffffff; background-color:#5eafd1;">
                                     <i class="fa fa-flag" aria-hidden="true"></i>
-                                    <div class="notification-content">Lorem ipsum dolor sit amet, consectetur adipisici elit, sed eiusmod tempor incidunt ut.</div>
+                                    <div>Lorem ipsum dolor sit amet, consectetur adipisici elit, sed eiusmod tempor incidunt ut.</div>
                                     <div class="clear"></div>
                                 </div>
                             </div>
@@ -54,21 +54,21 @@
                             <div class="gdlr-shortcode-wrapper">
                                 <div class="gdlr-notification gdlr-item color-background" style="color:#ffffff; background-color:#e2872e;">
                                     <i class="fa fa-flag" aria-hidden="true"></i>
-                                    <div class="notification-content">Lorem ipsum dolor sit amet, consectetur adipisici elit, sed eiusmod tempor incidunt ut.</div>
+                                    <div>Lorem ipsum dolor sit amet, consectetur adipisici elit, sed eiusmod tempor incidunt ut.</div>
                                     <div class="clear"></div>                                   
                                 </div>                                      
                             </div>
 
                             <div class="clear"></div>
-                            <div class="gdlr-space" style="margin-top: 60px;"></div>
+                            <div class="gdlr-space"></div>
                             <h3>Color Border</h3>
                             <div class="clear"></div>
-                            <div class="gdlr-space" style="margin-top: 30px;"></div>
+                            <div class="gdlr-space"></div>
 
                             <div class="gdlr-shortcode-wrapper">
                                 <div class="gdlr-notification gdlr-item color-border" style="color:#000000; border-color:#99d15e;">
                                     <i class="fa fa-flag" aria-hidden="true"></i>
-                                    <div class="notification-content">Lorem ipsum dolor sit amet, consectetur adipisici elit, sed eiusmod tempor incidunt ut.</div>
+                                    <div>Lorem ipsum dolor sit amet, consectetur adipisici elit, sed eiusmod tempor incidunt ut.</div>
                                     <div class="clear"></div>                                       
                                 </div>                                  
                             </div>
@@ -76,7 +76,7 @@
                             <div class="gdlr-shortcode-wrapper">
                                 <div class="gdlr-notification gdlr-item color-border" style="color:#000000; border-color:#d15e5e;">
                                     <i class="fa fa-flag" aria-hidden="true"></i>
-                                    <div class="notification-content">Lorem ipsum dolor sit amet, consectetur adipisici elit, sed eiusmod tempor incidunt ut.</div>
+                                    <div>Lorem ipsum dolor sit amet, consectetur adipisici elit, sed eiusmod tempor incidunt ut.</div>
                                     <div class="clear"></div>                                      
                                 </div>                                  
                             </div>
@@ -84,7 +84,7 @@
                             <div class="gdlr-shortcode-wrapper">
                                 <div class="gdlr-notification gdlr-item color-border" style="color:#000000; border-color:#5eafd1;">
                                     <i class="fa fa-flag" aria-hidden="true"></i>
-                                    <div class="notification-content">Lorem ipsum dolor sit amet, consectetur adipisici elit, sed eiusmod tempor incidunt ut.</div>
+                                    <div>Lorem ipsum dolor sit amet, consectetur adipisici elit, sed eiusmod tempor incidunt ut.</div>
                                     <div class="clear"></div>                                      
                                 </div>                                   
                             </div>
@@ -92,7 +92,7 @@
                             <div class="gdlr-shortcode-wrapper">
                                 <div class="gdlr-notification gdlr-item color-border" style="color:#000000; border-color:#e2872e;">
                                     <i class="fa fa-flag" aria-hidden="true"></i>
-                                    <div class="notification-content">Lorem ipsum dolor sit amet, consectetur adipisici elit, sed eiusmod tempor incidunt ut.</div>
+                                    <div>Lorem ipsum dolor sit amet, consectetur adipisici elit, sed eiusmod tempor incidunt ut.</div>
                                     <div class="clear"></div>                                       
                                 </div>                                  
                             </div>                           

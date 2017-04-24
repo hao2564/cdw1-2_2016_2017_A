@@ -27,11 +27,6 @@
   margin: 0px 15px 20px;
   min-height: 1px;
 }
-.type-286 .gdlr-code-item {
-  padding: 8px 14px;
-  display: none;
-  line-height: 2;
-}
 .type-286 p {
   margin-bottom: 20px;
 }
@@ -41,4 +36,7 @@
 }
 .type-286 h3 {
   font-size: 18px;
+}
+.type-286 .gdlr-space {
+  margin-top: 30px;
 }

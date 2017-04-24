@@ -21,7 +21,7 @@
                     <h3>Table Style 1</h3>            
                     <table class="w3-table-all">
                         <thead>
-                            <tr class="w3-light-grey">
+                            <tr>
                                 <th>Pharetra</th>
                                 <th>Malesuada</th>
                                 <th>Cursus</th>

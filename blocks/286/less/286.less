@@ -1,5 +1,8 @@
 .type-286{
+
+    @margin: -15px;
     @color: #24b6ac;
+    @font-weight: bold;
 
     .gdlr-item-start-content {
         padding-top: 20px;
@@ -14,8 +17,8 @@
     }
 
     .gdlr-shortcode-wrapper {
-        margin-left: -15px;
-        margin-right: -15px;
+        margin-left: @margin;
+        margin-right: @margin;
     }
 
     .gdlr-notification > i {
@@ -38,22 +41,20 @@
         min-height: 1px;
     }
 
-    .gdlr-code-item {
-        padding: 8px 14px;
-        display: none;
-        line-height: 2;
-    }
-
     p {
         margin-bottom: 20px;
     }
 
     h2 {
         font-size: 25px;
-        font-weight: bold;
+        font-weight: @font-weight;
     }
 
     h3 {
         font-size: 18px;
+    }
+
+    .gdlr-space {
+        margin-top: 30px;
     }
 }
