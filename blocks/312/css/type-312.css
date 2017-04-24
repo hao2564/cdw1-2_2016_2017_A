@@ -126,6 +126,12 @@
 .type-312 .info:hover {
   cursor: pointer;
 }
+@media (max-width: 767px) {
+  .type-312 .owl-nav {
+    margin-top: 10px;
+    margin-right: 10px;
+  }
+}
 .type-312 .col-item .photo img {
   margin: 0 auto;
   width: 100%;

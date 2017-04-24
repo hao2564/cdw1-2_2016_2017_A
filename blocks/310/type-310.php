@@ -14,7 +14,7 @@
                 <img src="images/m5.jpg" class="thumb size">
                 <img src="images/m6.jpg" class="thumb size">
                 <img src="images/m7.jpg" class="thumb size">
-                <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
+                <div class="panel-group" role="tablist" aria-multiselectable="true">
                     <div class="panel panel-default">
                         <div class="panel-heading" role="tab" id="headingOne">
                             <h4 class="panel-title">

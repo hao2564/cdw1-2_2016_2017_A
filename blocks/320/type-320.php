@@ -37,7 +37,7 @@
                 <tfoot>                  
                     <tr>
                         <td>
-                            <input type="text" name="coupon_code" class="input-text" id="coupon_code" value="" placeholder="Coupon code">
+                            <input type="text" name="coupon_code" id="coupon_code" value="" placeholder="Coupon code">
                         </td>
                         <td>
                             <div class="cart">            

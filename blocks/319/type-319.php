@@ -7,12 +7,7 @@
                     <p><a href="#">Home </a>/ <a href="#">Sport Wear</a> /<a href="#"> Red Sport T-Shirt</a></p>
                 </div>
                 <div class="col-md-6 col-sm-6 col-lg-6 col-xs-12">                    
-                    <div class="box_zoom_img image">
-                        <div class="box_img_large">
-
-                            <img id="zoom_09" class="img-responsive" src="images/1.png" data-zoom-image="images/1.png" alt="">
-                        </div>
-                    </div>                 
+                   <img class="img-responsive" src="images/1.png" data-zoom-image="images/1.png" alt="">                                                      
                 </div>
                 <div class="col-md-6 col-sm-6 col-lg-6 col-xs-12">
                     <h1>Red Sport T-Shirt</h1>
@@ -37,10 +32,8 @@
                             </p>
                         </div>
 
-                        <div class="cart">
-                            <div class="quantity">
-                                <input class="form-control text-center" value="1" type="number">
-                            </div>
+                        <div class="cart">                          
+                            <input class="form-control text-center" value="1" type="number">                        
                             <button type="button" class="btn btn-danger">ADD TO CART</button>
                         </div>
 

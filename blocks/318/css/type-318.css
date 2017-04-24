@@ -28,9 +28,6 @@
   position: relative;
   font-weight: bold;
 }
-.type-318 .tab_last {
-  border-right: 1px solid #e5e5e5;
-}
 .type-318 ul.tabs li.active {
   background-color: #fff;
   color: #3b3b3b;

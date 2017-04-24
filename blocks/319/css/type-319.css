@@ -15,6 +15,9 @@
 .type-319 .cart .btn-danger {
   padding: 13px;
 }
+.type-319 img {
+  width: 100%;
+}
 .type-319 h1 {
   font-size: 35px;
   font-weight: normal;
@@ -44,9 +47,6 @@
 .type-319 .posted_in a {
   color: #aa4243;
   text-decoration: none;
-}
-.type-319 .image img {
-  width: 100%;
 }
 .type-319 .price p {
   color: #aa4243;

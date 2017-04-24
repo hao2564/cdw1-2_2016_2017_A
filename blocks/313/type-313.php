@@ -42,7 +42,7 @@
                 <p>Normal Style, Link To URL</p>
             </div>
             <div class="col-lg-6 col-sm-6 col-xs-12 col-md-6 margin">              
-                <div class="demo thumb nhan-3">
+                <div class="demo thumb">
                     <a href="#">
                         <img class="radius" src="images/1.jpg">
                         <div class="overlay"></div>

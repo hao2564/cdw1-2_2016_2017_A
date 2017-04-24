@@ -8,21 +8,6 @@
 .type-311 .image > a > img:hover {
   opacity: 0.9;
 }
-.type-311 .iconimage {
-  color: #fff;
-  background-color: #232323;
-  position: absolute;
-  bottom: 0px;
-  font-size: 12px;
-  font-weight: bold;
-  padding: 7px 15px;
-  text-transform: uppercase;
-  right: 16px;
-  bottom: 214px;
-}
-.type-311 .icon-bullhorn {
-  margin-right: 9px;
-}
 .type-311 .title {
   font-size: 17px;
   margin-bottom: 10px;
@@ -43,6 +28,9 @@
 }
 .type-311 .blog-info a {
   color: #bababa;
+}
+.type-311 .post-header {
+  margin-top: 5px;
 }
 .type-311 .blog-3 {
   margin-right: 50px;
@@ -83,10 +71,5 @@
 @media (max-width: 768px) {
   .type-311 .margin {
     margin-top: 50px;
-  }
-  .type-311 .iconimage {
-    bottom: 0px;
-    right: 16px;
-    bottom: 257px;
   }
 }

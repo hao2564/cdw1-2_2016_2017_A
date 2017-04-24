@@ -29,7 +29,7 @@ include 'type-312.php';
             $(document).ready(function () {
                 $('#owl-demo').owlCarousel({
                     loop: true,
-                    autoPlay: 3000,
+                    autoPlay: 500,
                     nav: true,
                     navText: ['<i class="fa fa-chevron-left" aria-hidden="true"></i>', '<i class="fa fa-chevron-right" aria-hidden="true"></i>'],
                     responsive: {

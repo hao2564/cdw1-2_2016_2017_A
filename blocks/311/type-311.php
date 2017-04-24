@@ -6,10 +6,7 @@
                 <div class="image">
                     <a href="#"> 
                         <img src="images/1.jpg" alt="">
-                    </a>
-                    <div class="iconimage">
-                        <i class="icon-bullhorn fa fa-bullhorn"></i>Sticky Post
-                    </div>		
+                    </a>		
                 </div>
 
                 <div class="post-header">
@@ -35,7 +32,7 @@
                     prodita quaerimus....                   
                     <br><a href="#" class="readmore">Read More</a>
                     <div class="blog-icon">
-                        <i class="icon-comments fa fa-comments"></i>
+                        <i class="fa fa-comments"></i>
                         <a href="#">0</a>
                     </div>
                 </div>	
@@ -78,7 +75,7 @@
                     studiorum, prodita quaerimus....                   
                     <br><a href="#" class="readmore">Read More</a>
                     <div class="blog-icon">
-                        <i class="icon-comments fa fa-comments"></i>
+                        <i class="fa fa-comments"></i>
                         <a href="#">0</a>
                     </div>
                 </div>	
@@ -121,7 +118,7 @@
                     prodita quaerimus....                   
                     <br><a href="#" class="readmore">Read More</a>
                     <div class="blog-icon">
-                        <i class="icon-comments fa fa-comments"></i>
+                        <i class="fa fa-comments"></i>
                         <a href="#">0</a>
                     </div>
                 </div>	
@@ -164,7 +161,7 @@
                     prodita quaerimus....                   
                     <br><a href="#" class="readmore">Read More</a>
                     <div class="blog-icon">
-                        <i class="icon-comments fa fa-comments"></i>
+                        <i class="fa fa-comments"></i>
                         <a href="#">0</a>
                     </div>
                 </div>	
@@ -207,7 +204,7 @@
                     prodita quaerimus....                   
                     <br><a href="#" class="readmore">Read More</a>
                     <div class="blog-icon">
-                        <i class="icon-comments fa fa-comments"></i>
+                        <i class="fa fa-comments"></i>
                         <a href="#">0</a>
                     </div>
                 </div>	
@@ -250,7 +247,7 @@
                     prodita quaerimus....                   
                     <br><a href="#" class="readmore">Read More</a>
                     <div class="blog-icon">
-                        <i class="icon-comments fa fa-comments"></i>
+                        <i class="fa fa-comments"></i>
                         <a href="#">0</a>
                     </div>
                 </div>	
@@ -292,7 +289,7 @@
                     sese habere. Magna pars studiorum, prodita quaerimus....                   
                     <br><a href="#" class="readmore">Read More</a>
                     <div class="blog-icon">
-                        <i class="icon-comments fa fa-comments"></i>
+                        <i class="fa fa-comments"></i>
                         <a href="#">0</a>
                     </div>
                 </div>	
@@ -335,7 +332,7 @@
                     prodita quaerimus....                   
                     <br><a href="#" class="readmore">Read More</a>
                     <div class="blog-icon">
-                        <i class="icon-comments fa fa-comments"></i>
+                        <i class="fa fa-comments"></i>
                         <a href="#">0</a>
                     </div>
                 </div>	
@@ -377,7 +374,7 @@
                     aliqua. Idque Caesaris facere voluntate liceret: sese habere. Magna pars studiorum, prodita quaerimus....                   
                     <br><a href="#" class="readmore">Read More</a>
                     <div class="blog-icon">
-                        <i class="icon-comments fa fa-comments"></i>
+                        <i class="fa fa-comments"></i>
                         <a href="#">0</a>
                     </div>
                 </div>	
