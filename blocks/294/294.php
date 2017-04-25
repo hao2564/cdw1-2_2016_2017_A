@@ -18,7 +18,7 @@
     <div class="type-294">
         <div class="container">
             <div class="row">
-                <div class="col-md-8">
+                <div class="col-md-8 col-xs-12 col-lg-8">
                     <div class="gdlr-post-author">
                         <h3>About Post Author</h3>
                         <div class="post-author-avartar">
