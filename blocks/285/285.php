@@ -17,7 +17,7 @@
     <div class="type-285">
         <div class="container">
             <div class="row">
-                <div class="col-md-8 col-xs-12 margin">
+                <div class="col-md-8 col-xs-12 col-lg-8 margin">
                     <h3>Table Style 1</h3>            
                     <table class="w3-table-all">
                         <thead>

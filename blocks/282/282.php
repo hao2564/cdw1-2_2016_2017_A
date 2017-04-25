@@ -18,7 +18,7 @@
     <div class="type-282">
         <div class="container">
             <div class="row">
-                <div class="col-md-8 col-xs-12 col-sm-6">
+                <div class="col-md-8 col-xs-12 col-sm-6 col-lg-8">
                     <h5>Talk to us!</h5>
                     <div class="clear"></div>
                     <div role="form" class="wpcf7" lang="en-US" dir="ltr">
@@ -47,7 +47,7 @@
                     </div>
                 </div>
 
-                <div class="col-md-4 col-xs-12 col-sm-6">
+                <div class="col-md-4 col-xs-12 col-sm-6 col-lg-4">
                     <div class="widget gdlr-widget">
                         <h3 class="gdlr-widget-title">Before Contacting Us</h3>
                         <div class="clear"></div>			

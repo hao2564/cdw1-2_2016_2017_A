@@ -18,7 +18,7 @@
         <div class="container">
             <div class="row">
                 <footer class="footer-wrapper">
-                    <div class="col-md-3 col-xs-12 col-sm-6">
+                    <div class="col-md-3 col-xs-12 col-sm-6 col-lg-3">
                         <div id="" class=" gdlr-item">
                             <h3 class="gdlr-widget-title">About Us</h3>
                             <div class="clear"></div>			
@@ -29,7 +29,7 @@
                         </div>				
                     </div>
 
-                    <div class="col-md-3 col-xs-12 col-sm-6">                     
+                    <div class="col-md-3 col-xs-12 col-sm-6 col-lg-3">                     
                         <div id="" class="gdlr-item">
                             <h3 class="gdlr-widget-title">Recent News</h3>
                             <div class="clear"></div>
@@ -76,7 +76,7 @@
                         </div>				
                     </div>
 
-                    <div class="col-md-3 col-xs-12 col-sm-6"> 
+                    <div class="col-md-3 col-xs-12 col-sm-6 col-lg-3"> 
                         <div id="" class="gdlr-item">
                             <h3 class="gdlr-widget-title">Product Categories</h3>
                             <ul class="product-categories">
@@ -118,7 +118,7 @@
                         </div>
                     </div>
 
-                    <div class="col-md-3 col-xs-12 col-sm-6">
+                    <div class="col-md-3 col-xs-12 col-sm-6 col-lg-3">
                         <div id="" class="gdlr-item">
                             <h3 class="gdlr-widget-title">Recent Comments</h3>
                             <div class="clear"></div>

@@ -18,7 +18,7 @@
     <div class="type-292">
         <div class="container">
             <div class="row" style="margin-top: 20px;">
-                <div class="col-md-8">
+                <div class="col-md-8 col-xs-12 col-lg-8">
                     <div class="gdlr-blog-full">
                         <a href="#" data-rel="fancybox">
                             <img src="images/1.jpg">
