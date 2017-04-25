@@ -69,6 +69,9 @@
   transition: .5s ease;
   background-color: #0a0101;
 }
+.type-315 .image a:hover .onsale {
+  z-index: 1;
+}
 .type-315 .container:hover .overlay {
   opacity: 1;
 }
