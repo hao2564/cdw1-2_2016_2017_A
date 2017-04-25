@@ -18,7 +18,7 @@
         <div class="container">
             <div class="row">
                 <footer class="footer-wrapper">
-                    <div class="col-md-3 col-sm-6">
+                    <div class="col-md-3 col-xs-12 col-sm-6">
                         <div id="" class=" gdlr-item">
                             <h3 class="gdlr-widget-title">About Us</h3>
                             <div class="clear"></div>			
@@ -29,7 +29,7 @@
                         </div>				
                     </div>
 
-                    <div class="col-md-3 col-sm-6">                     
+                    <div class="col-md-3 col-xs-12 col-sm-6">                     
                         <div id="" class="gdlr-item">
                             <h3 class="gdlr-widget-title">Recent News</h3>
                             <div class="clear"></div>
@@ -39,9 +39,7 @@
                                         <img src="images/photodune-3587877-soccer-players-team-m-150x150.jpg" alt="" width="150" height="150"></a>
                                 </div>                         
                                 <div class="recent-post-widget-content">
-                                    <div class="recent-post-widget-title">
-                                        <a href="#">Sem Porta Mollis Parturient</a>
-                                    </div>                                           
+                                    <a href="#">Sem Porta Mollis Parturient</a><br>                                         
                                     <i class="icon-calendar fa fa-calendar"></i>
                                     <a href="#">21 Mar 2014</a>
                                     <div class="clear"></div>                                              
@@ -55,9 +53,7 @@
                                         <img src="images/Fotolia_32413114_Subscription_Monthly_XXL-150x150" alt="" width="150" height="150"></a>
                                 </div>                         
                                 <div class="recent-post-widget-content">
-                                    <div class="recent-post-widget-title">
-                                        <a href="#">Nullam Lorem Mattis Purus</a>
-                                    </div>
+                                    <a href="#">Nullam Lorem Mattis Purus</a><br>
                                     <i class="icon-calendar fa fa-calendar"></i>
                                     <a href="#">21 Mar 2014</a>
                                     <div class="clear"></div>                                            
@@ -71,19 +67,16 @@
                                         <img src="images/photodune-4004965-two-football-players-striking-the-ball-m-150x150" alt="" width="150" height="150"></a>
                                 </div>                         
                                 <div class="recent-post-widget-content">
-                                    <div class="recent-post-widget-title">
-                                        <a href="#">Nibh Sem Sit Ullamcorper</a>
-                                    </div>
+                                    <a href="#">Nibh Sem Sit Ullamcorper</a><br>
                                     <i class="icon-calendar fa fa-calendar"></i>
                                     <a href="#">21 Mar 2014</a>                                           
                                 </div>
                                 <div class="clear"></div>                                     
-                            </div>
-                            <div class="clear"></div>                                                                 
+                            </div>                                                                 
                         </div>				
                     </div>
 
-                    <div class="col-md-3 col-sm-6"> 
+                    <div class="col-md-3 col-xs-12 col-sm-6"> 
                         <div id="" class="gdlr-item">
                             <h3 class="gdlr-widget-title">Product Categories</h3>
                             <ul class="product-categories">
@@ -125,7 +118,7 @@
                         </div>
                     </div>
 
-                    <div class="col-md-3 col-sm-6">
+                    <div class="col-md-3 col-xs-12 col-sm-6">
                         <div id="" class="gdlr-item">
                             <h3 class="gdlr-widget-title">Recent Comments</h3>
                             <div class="clear"></div>
