@@ -18,7 +18,7 @@
         <div class="container">
             <div class="row" style="margin-top: 30px;">
 
-                <div class="col-md-3 col-sm-12">
+                <div class="col-md-3 col-xs-12 col-lg-3">
                     <h3>Text Widget</h3>
                     <div class="clear"></div>			
                     <div class="textwidget">
@@ -58,7 +58,7 @@
                 </div>
                 <div class="clear"></div>
 
-                <div class="col-md-6 col-sm-12">
+                <div class="col-md-6 col-xs-12 col-lg-6">
                     <div class="portfolio-thumbnail">
                         <div class="demo">
                             <a href="#">
@@ -88,7 +88,7 @@
                 </div>
                 <div class="clear"></div>                                       
 
-                <div class="col-md-3 col-sm-12">
+                <div class="col-md-3 col-xs-12 col-lg-3">
                     <div class="widget_recent_entries">	
                         <h3>Recent Posts</h3>
                         <div class="clear"></div>		

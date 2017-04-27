@@ -22,7 +22,7 @@
                 <div class="gdlr-space"></div>
                 <div class="clear"></div>
 
-                <div class="col-md-4">
+                <div class="col-md-4 col-xs-12 col-lg-4">
                     <div class="gdlr-personnel-item box-style">
                         <div class="personnel-item-inner">
                             <div class="personnel-author-image">
@@ -50,7 +50,7 @@
                     </div>
                 </div>
 
-                <div class="col-md-4">
+                <div class="col-md-4 col-xs-12 col-lg-4">
                     <div class="gdlr-personnel-item box-style">
                         <div class="personnel-item-inner">
                             <div class="personnel-author-image">
@@ -79,7 +79,7 @@
                 </div>
 
 
-                <div class="col-md-4">
+                <div class="col-md-4 col-xs-12 col-lg-4">
                     <div class="gdlr-personnel-item box-style">
                         <div class="personnel-item-inner">
                             <div class="personnel-author-image">
@@ -106,7 +106,6 @@
                         </div>
                     </div>
                 </div>
-
             </div>
         </div>
     </div>

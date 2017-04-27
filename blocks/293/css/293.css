@@ -39,10 +39,11 @@
   margin: -8px;
 }
 .type-293 .fa-flag {
-  margin: -8px;
+  margin: -10px;
 }
 .type-293 .panel-default > .panel-heading {
   padding: 0;
+  color: #212121;
   background-color: #FAFAFA;
 }
 .type-293 .panel-title {

@@ -12,8 +12,7 @@
         }
         $less = new lessc;
         $less->compileFile('less/type-318.less', 'css/type-318.css');
-        ?>
-        <script src="js/scripts.js" type="text/javascript"></script>
+        ?>       
         <link href="css/type-318.css" rel="stylesheet" type="text/css" /> 
         <link href="css/bootstrap.min.css" rel="stylesheet">
         <script src="js/jquery.min.js" type="text/javascript"></script>
