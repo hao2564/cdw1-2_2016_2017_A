@@ -221,17 +221,7 @@
                                     </div>
                                 </div>
                                 <!------Sliveshow------>
-                                <div class="col-lg-3 col-md-3 col-sm-6 col-xs-12">
-                                    <div class="owl-carousel owl-theme">
-                                        <div class="item">
-                                            <img src="images/roc.jpg" alt=""/>
-                                        </div>
-                                        <div class="item">
-                                            <img src="images/kable.jpg" alt=""/>
-                                        </div>
-                                    </div>
-                                    <div class="text">thumb nail link to post</div>
-                                </div>
+                                
                             </div>
 
                         </div>
@@ -272,17 +262,7 @@
                                     </div>
                                 </div>
                                 <!------Sliveshow------>
-                                <div class="col-lg-3 col-md-3 col-sm-6 col-xs-12">
-                                    <div class="owl-carousel owl-theme">
-                                        <div class="item">
-                                            <img src="images/roc.jpg" alt=""/>
-                                        </div>
-                                        <div class="item">
-                                            <img src="images/kable.jpg" alt=""/>
-                                        </div>
-                                    </div>
-                                    <div class="text">thumb nail link to post</div>
-                                </div>
+                               
                             </div>
 
                         </div>
