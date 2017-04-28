@@ -180,13 +180,6 @@
   text-transform: uppercase;
   color: #fff;
 }
-.type-251 .btn-default {
-  border-color: #fff;
-}
-.type-251 .btn-default:hover {
-  border-color: #fff;
-  background-color: #69c2e9;
-}
 .type-251 .blog-pagination ul li.active a {
   background-color: #24b6ac;
 }
