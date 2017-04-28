@@ -379,4 +379,11 @@
   .type-324 .search {
     margin-left: 30px;
   }
+  .type-324 .menuheader nav ul li a:hover {
+    color: #a46d4c;
+    border: none;
+    text-decoration: none;
+    display: block;
+    font-size: 16px !important;
+  }
 }
